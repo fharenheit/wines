@@ -42,24 +42,41 @@
 
 ---
 
+## 🇺🇸 미국 USA
+
+![미국 와인 산지 지도](assets/usa-overview.svg)
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[미국 개요](usa/00-overview.md)** | **AVA vs AOC의 근본적 차이**, 라벨 규정, 금주법·파리의 심판, 안개 기후 |
+| 01 | **[나파 밸리](usa/01-napa.md)** | **16개 하위 AVA**, To Kalon 등 명품 밭, 컬트 와인, 벡스토퍼 모델 |
+| 02 | **[소노마](usa/02-sonoma.md)** | **19개 AVA**, 러시안 리버·드라이 크리크·소노마 코스트 |
+| 03 | **[캘리포니아 기타](usa/03-california-other.md)** | 센트럴 코스트, 산타바버라, 시에라 풋힐, 로다이, 멘도시노 |
+| 04 | **[오리건](usa/04-oregon.md)** | 윌라멧 밸리 **11개 하위 AVA**, 토양 3종, The Rocks District |
+| 05 | **[워싱턴](usa/05-washington.md)** | 컬럼비아 밸리 중첩 구조, 레드 마운틴, 자근 포도나무 |
+| 06 | **[그 외 주](usa/06-other-states.md)** | 핑거레이크스, 롱아일랜드, 버지니아, 텍사스 등 |
+
+---
+
 ## 지도
 
 저장소에 포함된 SVG 지도. 경위도 좌표에서 직접 생성하며 외부 이미지에 의존하지 않는다.
 
-| 프랑스 | 이탈리아 |
-|---|---|
-| [프랑스 전도](assets/france-overview.svg) | [이탈리아 전도](assets/italy-overview.svg) |
-| [보르도 좌안/우안](assets/bordeaux.svg) | [랑게 (바롤로·바르바레스코 코무네)](assets/langhe.svg) |
-| [코트도르 마을별 그랑크뤼](assets/cote-dor.svg) | [코무네별 MGA 크뤼 배열](assets/barolo-mga.svg) |
-| [부르고뉴 하위 산지](assets/bourgogne.svg) | [토스카나](assets/toscana.svg) |
-| [론 밸리](assets/rhone.svg) | [북동부 (베네토·알토아디제·프리울리)](assets/nordest.svg) |
-| [루아르](assets/loire.svg) | [남부 및 도서](assets/sud-isole.svg) |
-| [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) |
-| [알자스](assets/alsace.svg) | |
+| 프랑스 | 이탈리아 | 미국 |
+|---|---|---|
+| [프랑스 전도](assets/france-overview.svg) | [이탈리아 전도](assets/italy-overview.svg) | [미국 전도](assets/usa-overview.svg) |
+| [보르도 좌안/우안](assets/bordeaux.svg) | [랑게 (바롤로·바르바레스코)](assets/langhe.svg) | [나파·소노마 하위 AVA](assets/napa-sonoma.svg) |
+| [코트도르 마을별 그랑크뤼](assets/cote-dor.svg) | [코무네별 MGA 크뤼 배열](assets/barolo-mga.svg) | [나파 16개 AVA 배열](assets/napa-ava-strip.svg) |
+| [부르고뉴 하위 산지](assets/bourgogne.svg) | [토스카나](assets/toscana.svg) | [캘리포니아](assets/california.svg) |
+| [론 밸리](assets/rhone.svg) | [북동부](assets/nordest.svg) | [태평양 북서부](assets/pacific-northwest.svg) |
+| [루아르](assets/loire.svg) | [남부 및 도서](assets/sud-isole.svg) | |
+| [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) | |
+| [알자스](assets/alsace.svg) | | |
 
 ```bash
 python3 scripts/make_maps.py         # 프랑스 지도 재생성
 python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
+python3 scripts/make_maps_usa.py     # 미국 지도 재생성
 ```
 
 ---
@@ -75,14 +92,17 @@ python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
 | 샹파뉴 | **마을** | Ambonnay = 그랑크뤼 마을 |
 | 알자스 | **밭(리외디)** | Rangen = 그랑크뤼 |
 | 이탈리아 | **산지(DOC/DOCG)** | Barolo DOCG. 밭 표기(MGA·UGA·콘트라다)는 서열이 아님 |
+| 미국 | **없음 (AVA는 경계만)** | Napa Valley AVA. 품종·수확량·양조법 규정이 전혀 없다 |
 
-### 프랑스 vs 이탈리아
+### 프랑스 vs 이탈리아 vs 미국
 
-| | 프랑스 | 이탈리아 |
-|---|---|---|
-| 등급과 품질 | 대체로 일치 | **일치하지 않는다** — 최고가 와인 다수가 IGT (수퍼 투스칸) |
-| 밭 단위 표기 | 수백 년 전부터 제도화 | 2010년대에야 도입 (MGA 2010 · 콘트라다 2011 · UGA 2021) |
-| 품종 | 국제품종 중심 | **토착품종 500종 이상** |
+| | 프랑스 | 이탈리아 | 미국 |
+|---|---|---|---|
+| 제도가 규정하는 것 | 경계 + 품종 + 수확량 + 양조법 | 동일 | **경계뿐** |
+| 등급과 품질 | 대체로 일치 | **일치하지 않는다** (수퍼 투스칸) | **등급 자체가 없다** |
+| 밭 단위 표기 | 수백 년 전부터 제도화 | 2010년대 도입 (MGA·콘트라다·UGA) | 제도 없음, 관행으로 정착 (To Kalon 등) |
+| 품종 | 국제품종 중심 | **토착품종 500종 이상** | 국제품종 + 진판델 |
+| 브랜드의 축 | 밭(부르고뉴) 또는 샤토(보르도) | 산지 + 생산자 | **생산자 + 재배자(밭 소유주)** |
 
 ### 보르도 좌안 1등급 5개
 
@@ -109,6 +129,8 @@ Lafite Rothschild · Latour · Mouton Rothschild (이상 포이약) · Margaux (
 
 - [x] 프랑스
 - [x] 이탈리아
+- [x] 미국 (나파, 소노마, 오리건, 워싱턴)
 - [ ] 스페인 (리오하, 리베라 델 두에로, 프리오라트)
 - [ ] 독일 (모젤, 라인가우 — VDP 등급)
-- [ ] 신대륙 (나파, 바로사, 말보로 등)
+- [ ] 호주 · 뉴질랜드 (바로사, 야라, 말버러, 센트럴 오타고)
+- [ ] 남미 (칠레, 아르헨티나)
