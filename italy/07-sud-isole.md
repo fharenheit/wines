@@ -51,7 +51,7 @@
 
 | DOC(G) | 품종 | 내용 | 생산자 |
 |---|---|---|---|
-| **Primitivo di Manduria DOC** | **프리미티보** | = **진판델**(DNA 동일, 크로아티아 츨리에나크가 공통 조상). 진하고 잼 같은 과실 | **Gianfranco Fino**(Es), **Morella**, Felline |
+| **Primitivo di Manduria DOC** | **프리미티보** | **진판델과 동일 품종**. 원종은 크로아티아의 트리비드라그(츨리에나크 카슈텔란스키). 진하고 잼 같은 과실 | **Gianfranco Fino**(Es), **Morella**, Felline |
 | **Primitivo di Manduria Dolce Naturale DOCG** | 동일 | 자연 잔당 스위트 | |
 | **Gioia del Colle Primitivo DOC** | 프리미티보 | 고도 높아 더 신선·구조적 | **Polvanera**, Pietraventosa |
 | **Salice Salentino DOC** | **네그로아마로** + 말바지아 네라 | 살렌토 반도. 부드럽고 향신료 | Taurino, Candido |
