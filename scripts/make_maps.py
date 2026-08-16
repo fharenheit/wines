@@ -165,16 +165,18 @@ class Map:
                  % (self.path(pts), fill, stroke, opacity))
 
     # -- 배경 ----------------------------------------------------------------
-    def base(self, rivers=(), river_w=2.2):
+    def base(self, rivers=(), river_w=2.2, shapes=None, river_src=None):
+        """shapes: 육지 폴리곤 목록(기본 프랑스+코르시카). river_src: 하천 좌표 딕셔너리."""
+        shapes = [FRANCE, CORSICA] if shapes is None else shapes
+        river_src = RIVERS if river_src is None else river_src
         self.add('<g clip-path="url(#frame)">')
-        self.add('<path d="%s" fill="%s" stroke="%s" stroke-width="1.4"/>'
-                 % (self.path(FRANCE), C_LAND, C_LAND_ED))
-        self.add('<path d="%s" fill="%s" stroke="%s" stroke-width="1.4"/>'
-                 % (self.path(CORSICA), C_LAND, C_LAND_ED))
+        for shape in shapes:
+            self.add('<path d="%s" fill="%s" stroke="%s" stroke-width="1.4"/>'
+                     % (self.path(shape), C_LAND, C_LAND_ED))
         for name in rivers:
             self.add('<path d="%s" fill="none" stroke="%s" stroke-width="%.1f" '
                      'stroke-linecap="round" stroke-linejoin="round"/>'
-                     % (self.path(RIVERS[name], close=False), C_WATER, river_w))
+                     % (self.path(river_src[name], close=False), C_WATER, river_w))
         self.add("</g>")
 
     def legend(self, items, title=None, x=None, y=None, w=190):
