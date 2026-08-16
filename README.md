@@ -25,23 +25,41 @@
 
 ---
 
+## 🇮🇹 이탈리아 Italia
+
+![이탈리아 와인 산지 지도](assets/italy-overview.svg)
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[이탈리아 개요](italy/00-overview.md)** | DOCG/DOC/IGT 체계, 등급≠품질, 핵심 토착품종, 3대 밭 표기 제도 |
+| 01 | **[피에몬테](italy/01-piemonte.md)** | **바롤로·바르바레스코 코무네별 MGA(크뤼)**, 알토 피에몬테, 가비 |
+| 02 | **[토스카나](italy/02-toscana.md)** | 키안티 클라시코 **11개 UGA**, 브루넬로, 볼게리·수퍼 투스칸 |
+| 03 | **[베네토](italy/03-veneto.md)** | 아마로네·리파소·레치오토, 소아베 크뤼, 프로세코 등급 |
+| 04 | **[트렌티노알토아디제·프리울리](italy/04-nordest.md)** | 알토아디제 하위 구역, 콜리오, 오렌지 와인 |
+| 05 | **[롬바르디아·에밀리아로마냐·리구리아·발레다오스타](italy/05-nord-altri.md)** | 프란차코르타, 발텔리나, 람브루스코 |
+| 06 | **[중부](italy/06-centro.md)** | 베르디키오, 몬테풀차노 다브루초, 사그란티노 |
+| 07 | **[남부 및 도서](italy/07-sud-isole.md)** | 타우라시, 프리미티보, **에트나 콘트라다**, 사르데냐 |
+
+---
+
 ## 지도
 
-저장소에 포함된 SVG 지도. `scripts/make_maps.py`로 생성한다.
+저장소에 포함된 SVG 지도. 경위도 좌표에서 직접 생성하며 외부 이미지에 의존하지 않는다.
 
-| 지도 | 파일 |
+| 프랑스 | 이탈리아 |
 |---|---|
-| 프랑스 전도 | [`assets/france-overview.svg`](assets/france-overview.svg) |
-| 보르도 좌안/우안 | [`assets/bordeaux.svg`](assets/bordeaux.svg) |
-| 코트도르 마을별 그랑크뤼 | [`assets/cote-dor.svg`](assets/cote-dor.svg) |
-| 부르고뉴 하위 산지 | [`assets/bourgogne.svg`](assets/bourgogne.svg) |
-| 론 밸리 | [`assets/rhone.svg`](assets/rhone.svg) |
-| 루아르 | [`assets/loire.svg`](assets/loire.svg) |
-| 샹파뉴 | [`assets/champagne.svg`](assets/champagne.svg) |
-| 알자스 | [`assets/alsace.svg`](assets/alsace.svg) |
+| [프랑스 전도](assets/france-overview.svg) | [이탈리아 전도](assets/italy-overview.svg) |
+| [보르도 좌안/우안](assets/bordeaux.svg) | [랑게 (바롤로·바르바레스코 코무네)](assets/langhe.svg) |
+| [코트도르 마을별 그랑크뤼](assets/cote-dor.svg) | [코무네별 MGA 크뤼 배열](assets/barolo-mga.svg) |
+| [부르고뉴 하위 산지](assets/bourgogne.svg) | [토스카나](assets/toscana.svg) |
+| [론 밸리](assets/rhone.svg) | [북동부 (베네토·알토아디제·프리울리)](assets/nordest.svg) |
+| [루아르](assets/loire.svg) | [남부 및 도서](assets/sud-isole.svg) |
+| [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) |
+| [알자스](assets/alsace.svg) | |
 
 ```bash
-python3 scripts/make_maps.py   # assets/*.svg 재생성
+python3 scripts/make_maps.py         # 프랑스 지도 재생성
+python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
 ```
 
 ---
@@ -56,6 +74,15 @@ python3 scripts/make_maps.py   # assets/*.svg 재생성
 | 부르고뉴 | **밭(클리마)** | Chambertin = 그랑크뤼 |
 | 샹파뉴 | **마을** | Ambonnay = 그랑크뤼 마을 |
 | 알자스 | **밭(리외디)** | Rangen = 그랑크뤼 |
+| 이탈리아 | **산지(DOC/DOCG)** | Barolo DOCG. 밭 표기(MGA·UGA·콘트라다)는 서열이 아님 |
+
+### 프랑스 vs 이탈리아
+
+| | 프랑스 | 이탈리아 |
+|---|---|---|
+| 등급과 품질 | 대체로 일치 | **일치하지 않는다** — 최고가 와인 다수가 IGT (수퍼 투스칸) |
+| 밭 단위 표기 | 수백 년 전부터 제도화 | 2010년대에야 도입 (MGA 2010 · 콘트라다 2011 · UGA 2021) |
+| 품종 | 국제품종 중심 | **토착품종 500종 이상** |
 
 ### 보르도 좌안 1등급 5개
 
@@ -68,9 +95,20 @@ Lafite Rothschild · Latour · Mouton Rothschild (이상 포이약) · Margaux (
 
 ---
 
+### 이탈리아 3대 밭 표기 제도
+
+| 지역 | 명칭 | 도입 | 개수 |
+|---|---|---|---|
+| 바롤로·바르바레스코 | **MGA** | 2010 | 181 · 66 |
+| 키안티 클라시코 | **UGA** | 2021 | 11 |
+| 에트나 | **Contrada** | 2011 | 133 |
+
+---
+
 ## 앞으로 정리할 산지
 
-- [ ] 이탈리아 (피에몬테, 토스카나, 베네토)
+- [x] 프랑스
+- [x] 이탈리아
 - [ ] 스페인 (리오하, 리베라 델 두에로, 프리오라트)
 - [ ] 독일 (모젤, 라인가우 — VDP 등급)
 - [ ] 신대륙 (나파, 바로사, 말보로 등)
