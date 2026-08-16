@@ -8,8 +8,8 @@
 
 | 그랑크뤼 | 색 | 면적 | 소속 마을 |
 |---|---|---|---|
-| **Corton** | 레드 (화이트 극소량) | ~160 ha | 알록스코르통 · 라두아 · 페르낭베르줄레스 |
-| **Corton-Charlemagne** | 화이트 | ~72 ha | 위 3개 마을 |
+| **Corton** | 레드 (화이트 극소량) | 약 98 ha | 알록스코르통 · 라두아 · 페르낭베르줄레스 |
+| **Corton-Charlemagne** | 화이트 | 약 72 ha | 위 3개 마을 |
 | Charlemagne | 화이트 | – | 명목상 존재, 실제로는 전량 Corton-Charlemagne로 판매 |
 | **Montrachet** | 화이트 | 8.0 ha | 퓔리니 4.0 + 샤사뉴 4.0 |
 | **Chevalier-Montrachet** | 화이트 | 7.4 ha | 퓔리니 |
