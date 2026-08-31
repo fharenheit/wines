@@ -100,6 +100,31 @@
 
 ---
 
+## 🇦🇺 호주 Australia
+
+![호주 주요 와인 산지 지도](assets/australia-overview.svg)
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[호주 개요](australia/00-overview.md)** | GI 제도, **랭턴스 등급**, 품종, **세계에서 가장 오래된 포도나무**(1843~), 역사 |
+| 01 | **[남호주](australia/01-south-australia.md)** | 바로사 자근 노목, 에덴·클레어 리슬링, **스크루캡 혁명**, 맥라렌, 쿠나와라 테라 로사 |
+| 02 | **[빅토리아·태즈메이니아](australia/02-victoria-tasmania.md)** | 야라·모닝턴 피노, 히스코트 캄브리아기 토양, **루더글렌 주정강화 4단계**, 태즈메이니아 |
+| 03 | **[뉴사우스웨일스·서호주](australia/03-nsw-wa.md)** | **헌터 세미용**(무오크 10~20년), 마거릿 리버, 그레이트 서던 |
+
+---
+
+## 🇳🇿 뉴질랜드 New Zealand
+
+![뉴질랜드 주요 와인 산지 지도](assets/newzealand-overview.svg)
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[뉴질랜드 개요](newzealand/00-overview.md)** | GI, 품종 구성의 취약성, 말버러 소비뇽의 화학, 마오리어 지명 읽기 |
+| 01 | **[남섬](newzealand/01-south-island.md)** | 말버러 두 밸리, **센트럴 오타고**(세계 최남단), 와이파라 석회질 |
+| 02 | **[북섬](newzealand/02-north-island.md)** | 호크스 베이 **김밋 그래블스**, 마틴버러 피노, 쿠뮤 샤르도네 |
+
+---
+
 ## 📅 빈티지 차트
 
 장기 숙성 와인을 위해 **프랑스는 1945년, 이탈리아는 1955년**까지 거슬러 정리했다. 별점과 함께 **성숙 상태**(🔒 더 기다릴 것 · ▲ 지금 정점 · ◆ 정점 지남 · ▼ 최상급만 남음)를 표시한다.
@@ -112,6 +137,7 @@
 | **[스페인](vintages/03-spain.md)** | **1962~2025** | 리오하(**공식 등급**), 리베라 델 두에로, 프리오라트, 토로, 갈리시아 |
 | **[미국](vintages/04-usa.md)** | **1974~2025** | 나파 카베르네, 소노마, 오리건, 워싱턴 |
 | **[독일](vintages/05-germany.md)** | **1949~2025** | 리슬링(모젤·라인가우·나에·팔츠), 슈페트부르군더, 스위트 |
+| **[호주·뉴질랜드](vintages/06-australia-nz.md)** | **1971~2025** | 바로사·쿠나와라·클레어·야라·헌터 / 말버러·센트럴 오타고·호크스 베이 |
 
 > **주의**: 생산자 편차가 빈티지 편차보다 크다. 빈티지는 1차 필터일 뿐이며, 최근 3~4년은 예비 평가다.
 
@@ -132,9 +158,9 @@
 | [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) | | |
 | [알자스](assets/alsace.svg) | | | |
 
-| 독일 |
-|---|
-| [독일 전도](assets/germany-overview.svg) · [모젤](assets/mosel.svg) · [라인 (라인가우·라인헤센·나에·팔츠)](assets/rhein.svg) |
+| 독일 | 호주 · 뉴질랜드 |
+|---|---|
+| [독일 전도](assets/germany-overview.svg) · [모젤](assets/mosel.svg) · [라인](assets/rhein.svg) | [호주 전도](assets/australia-overview.svg) · [남호주](assets/south-australia.svg) · [뉴질랜드 전도](assets/newzealand-overview.svg) |
 
 ```bash
 python3 scripts/make_maps.py         # 프랑스 지도 재생성
@@ -142,6 +168,7 @@ python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
 python3 scripts/make_maps_usa.py     # 미국 지도 재생성
 python3 scripts/make_maps_spain.py   # 스페인 지도 재생성
 python3 scripts/make_maps_germany.py # 독일 지도 재생성
+python3 scripts/make_maps_newworld.py # 호주·뉴질랜드·칠레·아르헨티나 지도 재생성
 ```
 
 ---
@@ -208,5 +235,5 @@ Lafite Rothschild · Latour · Mouton Rothschild (이상 포이약) · Margaux (
 - [x] 미국 (나파, 소노마, 오리건, 워싱턴)
 - [x] 스페인 (리오하, 리베라 델 두에로, 프리오라트, 헤레스, 갈리시아)
 - [x] 독일 (모젤, 라인가우, 팔츠, 바덴 등 13개 산지)
-- [ ] 호주 · 뉴질랜드 (바로사, 야라, 말버러, 센트럴 오타고)
+- [x] 호주 · 뉴질랜드 (바로사, 야라, 헌터, 마거릿 리버, 말버러, 센트럴 오타고)
 - [ ] 남미 (칠레, 아르헨티나)

@@ -119,4 +119,4 @@
 
 ---
 
-[← 미국](04-usa.md) · [목차로](../README.md)
+[← 미국](04-usa.md) · [목차로](../README.md) · [다음: 호주·뉴질랜드 →](06-australia-nz.md)
