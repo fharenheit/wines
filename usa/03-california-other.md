@@ -14,6 +14,7 @@
 - [2. 산타크루즈 산맥 Santa Cruz Mountains (1981)](#2-산타크루즈-산맥-santa-cruz-mountains-1981)
 - [3. 몬터레이 & 살리나스 밸리](#3-몬터레이--살리나스-밸리)
 - [4. 파소 로블스 Paso Robles (1983)](#4-파소-로블스-paso-robles-1983)
+- [4-1. 센트럴 코스트의 컬트](#4-1-센트럴-코스트의-컬트)
 - [5. 산타바버라 카운티](#5-산타바버라-카운티)
 - [6. 산루이스오비스포 — 에드나 밸리 · 아로요 그란데](#6-산루이스오비스포--에드나-밸리--아로요-그란데)
 - [7. 시에라 풋힐 Sierra Foothills](#7-시에라-풋힐-sierra-foothills)
@@ -121,7 +122,7 @@
 |---|---|
 | **Ridge Vineyards** | **Monte Bello** — 1976 파리의 심판 참가작이자 2006년 재대결 **1위**. 미국 최고의 장기 숙성 카베르네 중 하나 |
 | **Mount Eden Vineyards** | 마틴 레이 계보의 샤르도네·피노 |
-| **Rhys Vineyards** | 부르고뉴식 접근, 구획별 병입 |
+| **Rhys Vineyards 리스** | **Alpine · Skyline · Horseshoe** — 케빈 하비가 편암·이판암 구획마다 따로 병입한다. **캘리포니아 피노의 컬트** |
 | Varner · Ceritas · Big Basin | |
 
 ---
@@ -162,13 +163,32 @@
 
 ---
 
+# 4-1. 센트럴 코스트의 컬트
+
+> 나파의 컬트가 **카베르네와 밭**을 중심으로 움직였다면, 센트럴 코스트의 컬트는 **론 품종과 양조가 개인**을 중심으로 형성되었다.
+
+| 생산자 | 근거지 | 대표 와인 | 왜 |
+|---|---|---|---|
+| **Sine Qua Non 시네 콰 논** | Ventura(양조장) · Sta. Rita Hills(밭) | 매 빈티지 이름이 바뀐다 | **만프레트 크랑클.** 시라·그르나슈 중심. **빈티지마다 이름과 라벨을 새로 만들어** 병 자체가 수집 대상이 되었다. 자가 밭 Eleven Confessions · Third Twin |
+| **Saxum 색섬** | Paso Robles | **James Berry Vineyard** · Bone Rock | 저스틴 스미스. **2007 James Berry가 Wine Spectator 올해의 와인 1위** |
+| **Alban Vineyards 알반** | Edna Valley | Reva · Lorraine · Seymour's | **미국 론 품종 운동("론 레인저")의 출발점**(1989) |
+| **Sea Smoke 시 스모크** | Sta. Rita Hills | Ten · Southing | 회원제 피노 누아 |
+| **Rhys Vineyards 리스** | Santa Cruz Mtns | Alpine · Skyline | 구획별 병입, 저알코올 |
+| **Calera 칼레라** | Mt. Harlan | **Jensen · Selleck · Reed · Mills · de Villiers** | **조시 젠슨**이 DRC에서 일한 뒤 석회암 땅을 찾아 세운 곳. 밭마다 따로 병입 — **캘리포니아 부르고뉴주의의 원형** |
+| **Au Bon Climat 오 봉 클리마** | Santa Maria | Isabelle · Knox Alexander | **짐 클렌데넌**(1951~2021). 저알코올·고산도를 일찍부터 지켰다 |
+| **Bonny Doon 보니 둔** | Santa Cruz | Le Cigare Volant | **랜들 그램** — 론 품종 전도사이자 캘리포니아 와인의 논객 |
+
+> **Sine Qua Non을 어떻게 볼 것인가** — 재판매 시장에서 나파 컬트 카베르네와 맞먹는 값이 붙지만, **AVA도 밭 이름도 라벨의 중심이 아니다.** 브랜드가 곧 양조가 개인인 극단적 사례다.
+
+---
+
 # 5. 산타바버라 카운티
 
 캘리포니아 해안 산맥이 **동서로 누운 유일한 구간(transverse range)**. 그래서 계곡이 태평양을 향해 열려 있고, **바다에서 내륙으로 갈수록 급격히 더워진다.**
 
 | AVA | 지정 | 성격 | 생산자 |
 |---|---|---|---|
-| **Sta. Rita Hills** | 2001 | 가장 서늘. **피노 누아**의 정점 | **Sea Smoke**, **Domaine de la Côte**(Rajat Parr/Sashi Moorman), Brewer-Clifton, Melville, Sanford, Sandhi |
+| **Sta. Rita Hills** | 2001 | 가장 서늘. **피노 누아**의 정점 | **Sea Smoke**(Ten · Southing — 회원제 컬트), **Domaine de la Côte**(Rajat Parr/Sashi Moorman), Brewer-Clifton, Melville, Sanford, Sandhi, Tyler, Chanin |
 | **Santa Maria Valley** | 1981 | 서늘, 긴 생육기간 | **Au Bon Climat**(짐 클렌데넌), **Qupé**, Foxen, Cambria |
 | **Ballard Canyon** | 2013 | **시라 특화** | **Stolpman**, Beckmen, Jonata |
 | **Los Olivos District** | 2016 | 중간 | Andrew Murray |
@@ -186,7 +206,7 @@
 
 | AVA | 내용 | 생산자 |
 |---|---|---|
-| **Edna Valley** (1982) | 바다에서 8 km, 캘리포니아에서 **생육기간이 가장 긴** 축. 샤르도네 | Chamisal, Center of Effort |
+| **Edna Valley** (1982) | 바다에서 8 km, 캘리포니아에서 **생육기간이 가장 긴** 축. 샤르도네 | **Alban Vineyards 알반**(미국 최초의 론 품종 전용 와이너리, 1989 — "론 레인저"의 원점), Chamisal, Center of Effort |
 | **Arroyo Grande Valley** (1990) | 피노 누아·샤르도네 | **Talley Vineyards** |
 
 ---

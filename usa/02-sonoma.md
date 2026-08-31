@@ -12,8 +12,9 @@
 - [3. 서부 — 서늘한 피노 누아 지대](#3-서부--서늘한-피노-누아-지대)
 - [4. 북부 내륙 — 진판델과 카베르네](#4-북부-내륙--진판델과-카베르네)
 - [5. 남부 — 소노마 밸리 권역](#5-남부--소노마-밸리-권역)
-- [6. 소노마 vs 나파](#6-소노마-vs-나파)
-- [7. 실전 요령](#7-실전-요령)
+- [6. 생산자 지도](#6-생산자-지도)
+- [7. 소노마 vs 나파](#7-소노마-vs-나파)
+- [8. 실전 요령](#8-실전-요령)
 
 <!-- /toc -->
 
@@ -205,7 +206,64 @@
 
 ---
 
-## 6. 소노마 vs 나파
+## 6. 생산자 지도
+
+> 소노마에는 나파식 "컬트 카베르네"가 없다. 대신 **컬트 샤르도네와 컬트 피노 누아**가 있고, 그 정점의 이름값은 나파 컬트에 뒤지지 않는다.
+
+### 6-1. 컬트 샤르도네
+
+| 생산자 | 대표 와인 | 비고 |
+|---|---|---|
+| **Marcassin 마르카생** | Marcassin Vineyard Chardonnay · Pinot Noir | **헬렌 털리 & 존 웨틀라우퍼.** 소노마 코스트 자가 밭. 연 3,000케이스 안팎에 **대기자 명단이 수년**이다. 2010년 이후 자가 밭 과실만 쓴다 |
+| **Peter Michael 피터 마이클** | **Ma Belle-Fille · Belle Côte · Mon Plaisir · La Carrière · Point Rouge** | 영국인 창업자 **서 피터 마이클**. 나이츠 밸리 산지. 퀴베마다 프랑스어 이름 |
+| **Kistler 키슬러** | **Cuvée Cathleen** · Dutton Ranch · McCrea · Hudson · Vine Hill | **캘리포니아 샤르도네의 기준점.** 스티브 키슬러 |
+| **Aubert 오베르** | Lauren · CIX · UV-SL · Ritchie | 마크 오베르. 나파·소노마에 걸쳐 있다 → [나파 §5-5](01-napa.md#5-5-컬트-화이트--나파의-샤르도네) |
+| **Ramey 레이미** | Hudson · Hyde · Ritchie · Platt | 데이비드 레이미. **구할 수 있는 최고급** |
+| **Hanzell 한젤** | Chardonnay · Pinot Noir | 1953년. **캘리포니아 부르고뉴 스타일의 출발점** |
+| **Ceritas · Arnot-Roberts · Littorai** | | **저알코올·고산도의 새 세대** |
+
+> **피터 마이클과 마르카생은 같은 뿌리다.** 헬렌 털리가 1980년대 말 피터 마이클의 양조를 맡았고, 그 밑에서 배운 **마크 오베르**가 뒤를 이었다가 자기 이름으로 독립했다. **캘리포니아 컬트 샤르도네의 계보가 여기서 갈라진다.**
+
+### 6-2. 컬트 · 최상급 피노 누아
+
+| 생산자 | 대표 와인 | 비고 |
+|---|---|---|
+| **Williams Selyem 윌리엄스 셀리엠** | Rochioli Riverblock · Litton Estate | **메일링 리스트 판매 모델을 캘리포니아에 정착시킨 곳** |
+| **Rochioli 로키올리** | West Block · Little Hill · Three Corner | 재배자이자 생산자. RRV의 상징 |
+| **Kosta Browne 코스타 브라운** | Keefer Ranch · Gap's Crown | 2011 Wine Spectator 올해의 와인 |
+| **Marcassin · Aubert** | | 위 참조 |
+| **Occidental 옥시덴탈** | Freestone-Occidental 시리즈 | **스티브 키슬러**가 피노에만 집중해 만든 별도 브랜드 |
+| **Hirsch Vineyards 허시** | San Andreas Fault · Reserve | **극서부 소노마 코스트 개척자**(1980) |
+| **Littorai 리토라이** | Cerise · Hirsch · The Haven | **테드 레먼** — 부르고뉴에서 수련. 비오디나미 |
+| **Peay · Flowers · Wayfarer · Rivers-Marie · Cirq** | | 서부 해안 |
+| **DuMOL · Dehlinger · Gary Farrell · Merry Edwards** | | RRV 상위권 |
+
+### 6-3. 카베르네 · 보르도 블렌드
+
+| 생산자 | 대표 와인 | 비고 |
+|---|---|---|
+| **Verité 베리테** | **La Muse · La Joie · Le Désir** | 제스 잭슨 + 보르도 출신 **피에르 세이양**. 100점을 여러 번 받았다 |
+| **Peter Michael** | **Les Pavots · Au Paradis** | 나이츠 밸리 보르도 블렌드 |
+| **Ridge Vineyards** | **Geyserville · Lytton Springs** | 진판델 **필드 블렌드**. 소노마에서 가장 구하기 쉬운 최고급 |
+| **Silver Oak · Jordan · Stonestreet** | Alexander Valley Cabernet | |
+| **Laurel Glen · Kamen** | Sonoma Mountain | |
+
+### 6-4. 진판델 · 노목
+
+| 생산자 | 대표 와인 | 비고 |
+|---|---|---|
+| **Ridge Vineyards** | Lytton Springs · Geyserville | 1960년대부터의 노목 필드 블렌드 |
+| **Bedrock Wine Co.** | Bedrock Heritage · Old Vine Zinfandel | **모건 트웨인피터슨 MW** — 노목 지도를 만든 사람 |
+| **Turley Wine Cellars** | 밭별 진판델 20여 종 | |
+| **Carlisle · A. Rafanelli · Nalle · Quivira** | Dry Creek | |
+
+### 6-5. 스파클링
+
+**Iron Horse 아이언 호스**(그린 밸리) · **J Vineyards** · Gloria Ferrer(코도르니우) · Domaine Carneros(테탱저)
+
+---
+
+## 7. 소노마 vs 나파
 
 | | 나파 | 소노마 |
 |---|---|---|
@@ -215,7 +273,7 @@
 | 가격대 | 전반적으로 높음 | 상대적으로 넓은 가격대 |
 | 분위기 | 관광화·고급화 | 농업 지역 성격이 더 남아 있음 |
 
-## 7. 실전 요령
+## 8. 실전 요령
 
 - **"Sonoma Coast"만 보고 서늘하다고 단정하지 말 것.** 이 AVA는 내륙까지 걸쳐 있다. 진짜 해안은 **West Sonoma Coast**나 **Fort Ross-Seaview** 표기를 확인.
 - 진판델은 **드라이 크리크 밸리**, 피노는 **러시안 리버·소노마 코스트**, 카베르네는 **알렉산더·나이츠 밸리**가 기본값.
