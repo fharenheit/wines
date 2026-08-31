@@ -111,4 +111,4 @@
 
 ---
 
-[← 독일](05-germany.md) · [목차로](../README.md)
+[← 독일](05-germany.md) · [목차로](../README.md) · [다음: 칠레·아르헨티나 →](07-chile-argentina.md)
