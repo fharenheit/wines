@@ -61,25 +61,45 @@
 
 ---
 
+## 🇪🇸 스페인 España
+
+![스페인 와인 산지 지도](assets/spain-overview.svg)
+
+> 산지·밭·보데가 이름은 **스페인어(카탈루냐어·갈리시아어) 뒤에 한글 발음을 병기**했다 (예: `Jerez 헤레스`, `Viñedo Singular 비녜도 싱굴라르`).
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[스페인 개요](spain/00-overview.md)** | DOCa/DO/VP 체계, **숙성 등급(크리안사·레세르바·그란 레세르바)**, 품종, 스페인어 읽기 규칙 |
+| 01 | **[리오하](spain/01-rioja.md)** | 3개 하위 지구, **비녜도 싱굴라르** 신등급, 전통 vs 현대 vs 밭 중심 |
+| 02 | **[카스티야 이 레온](spain/02-castilla-leon.md)** | 리베라 델 두에로(베가 시실리아·핑구스), 토로, 루에다, **비에르소 밭 등급** |
+| 03 | **[카탈루냐](spain/03-cataluna.md)** | **프리오라트 DOQ**와 12개 비 데 빌라, **카바 2022 개편**, 코르피냐트 |
+| 04 | **[갈리시아](spain/04-galicia.md)** | 리아스 바이사스 5개 하위지구, 리베이라 사크라 협곡, 고데요 부활, 차콜리 |
+| 05 | **[헤레스 (셰리)](spain/05-jerez.md)** | **플로르와 솔레라**, 알바리사 파고, 스타일 전 계보, 2022 규정 개편 |
+| 06 | **[중부·레반테](spain/06-centro-levante.md)** | 라만차, 모나스트렐 삼각지대, 보발, **그레도스 고지대 가르나차** |
+| 07 | **[북부·도서](spain/07-norte-islas.md)** | 나바라, 아라곤 가르나차 노목, **카나리아 화산·자근 노목**, 발레아레스 |
+
+---
+
 ## 지도
 
 저장소에 포함된 SVG 지도. 경위도 좌표에서 직접 생성하며 외부 이미지에 의존하지 않는다.
 
-| 프랑스 | 이탈리아 | 미국 |
-|---|---|---|
-| [프랑스 전도](assets/france-overview.svg) | [이탈리아 전도](assets/italy-overview.svg) | [미국 전도](assets/usa-overview.svg) |
-| [보르도 좌안/우안](assets/bordeaux.svg) | [랑게 (바롤로·바르바레스코)](assets/langhe.svg) | [나파·소노마 하위 AVA](assets/napa-sonoma.svg) |
-| [코트도르 마을별 그랑크뤼](assets/cote-dor.svg) | [코무네별 MGA 크뤼 배열](assets/barolo-mga.svg) | [나파 16개 AVA 배열](assets/napa-ava-strip.svg) |
-| [부르고뉴 하위 산지](assets/bourgogne.svg) | [토스카나](assets/toscana.svg) | [캘리포니아](assets/california.svg) |
-| [론 밸리](assets/rhone.svg) | [북동부](assets/nordest.svg) | [태평양 북서부](assets/pacific-northwest.svg) |
-| [루아르](assets/loire.svg) | [남부 및 도서](assets/sud-isole.svg) | |
-| [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) | |
-| [알자스](assets/alsace.svg) | | |
+| 프랑스 | 이탈리아 | 미국 | 스페인 |
+|---|---|---|---|
+| [프랑스 전도](assets/france-overview.svg) | [이탈리아 전도](assets/italy-overview.svg) | [미국 전도](assets/usa-overview.svg) | [스페인 전도](assets/spain-overview.svg) |
+| [보르도 좌안/우안](assets/bordeaux.svg) | [랑게 (바롤로·바르바레스코)](assets/langhe.svg) | [나파·소노마 하위 AVA](assets/napa-sonoma.svg) | [리오하 3개 지구](assets/rioja.svg) |
+| [코트도르 마을별 그랑크뤼](assets/cote-dor.svg) | [코무네별 MGA 크뤼 배열](assets/barolo-mga.svg) | [나파 16개 AVA 배열](assets/napa-ava-strip.svg) | [두에로 (카스티야 이 레온)](assets/duero.svg) |
+| [부르고뉴 하위 산지](assets/bourgogne.svg) | [토스카나](assets/toscana.svg) | [캘리포니아](assets/california.svg) | [카탈루냐](assets/catalunya.svg) |
+| [론 밸리](assets/rhone.svg) | [북동부](assets/nordest.svg) | [태평양 북서부](assets/pacific-northwest.svg) | [갈리시아](assets/galicia.svg) |
+| [루아르](assets/loire.svg) | [남부 및 도서](assets/sud-isole.svg) | | [헤레스 삼각지대](assets/jerez.svg) |
+| [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) | | |
+| [알자스](assets/alsace.svg) | | | |
 
 ```bash
 python3 scripts/make_maps.py         # 프랑스 지도 재생성
 python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
 python3 scripts/make_maps_usa.py     # 미국 지도 재생성
+python3 scripts/make_maps_spain.py   # 스페인 지도 재생성
 ```
 
 ---
@@ -95,17 +115,18 @@ python3 scripts/make_maps_usa.py     # 미국 지도 재생성
 | 샹파뉴 | **마을** | Ambonnay = 그랑크뤼 마을 |
 | 알자스 | **밭(리외디)** | Rangen = 그랑크뤼 |
 | 이탈리아 | **산지(DOC/DOCG)** | Barolo DOCG. 밭 표기(MGA·UGA·콘트라다)는 서열이 아님 |
+| 스페인 | **숙성 기간** | Crianza < Reserva < Gran Reserva. 밭 등급은 2017년 이후 도입 중 |
 | 미국 | **없음 (AVA는 경계만)** | Napa Valley AVA. 품종·수확량·양조법 규정이 전혀 없다 |
 
-### 프랑스 vs 이탈리아 vs 미국
+### 프랑스 vs 이탈리아 vs 미국 vs 스페인
 
-| | 프랑스 | 이탈리아 | 미국 |
-|---|---|---|---|
-| 제도가 규정하는 것 | 경계 + 품종 + 수확량 + 양조법 | 동일 | **경계뿐** |
-| 등급과 품질 | 대체로 일치 | **일치하지 않는다** (수퍼 투스칸) | **등급 자체가 없다** |
-| 밭 단위 표기 | 수백 년 전부터 제도화 | 2010년대 도입 (MGA·콘트라다·UGA) | 제도 없음, 관행으로 정착 (To Kalon 등) |
-| 품종 | 국제품종 중심 | **토착품종 500종 이상** | 국제품종 + 진판델 |
-| 브랜드의 축 | 밭(부르고뉴) 또는 샤토(보르도) | 산지 + 생산자 | **생산자 + 재배자(밭 소유주)** |
+| | 프랑스 | 이탈리아 | 미국 | 스페인 |
+|---|---|---|---|---|
+| 제도가 규정하는 것 | 경계 + 품종 + 수확량 + 양조법 | 동일 | **경계뿐** | 경계 + 품종 + **숙성 기간** |
+| 등급과 품질 | 대체로 일치 | **일치하지 않는다** (수퍼 투스칸) | **등급 자체가 없다** | 숙성 등급 ≠ 품질 (베가 시실리아·핑구스는 등급 표기 안 함) |
+| 밭 단위 표기 | 수백 년 전부터 제도화 | 2010년대 도입 (MGA·콘트라다·UGA) | 제도 없음, 관행으로 정착 (To Kalon 등) | **2017년 이후 도입 중** (비녜도 싱굴라르·비 데 빌라) |
+| 품종 | 국제품종 중심 | **토착품종 500종 이상** | 국제품종 + 진판델 | 토착품종 중심 (템프라니요·가르나차) |
+| 브랜드의 축 | 밭(부르고뉴) 또는 샤토(보르도) | 산지 + 생산자 | **생산자 + 재배자(밭 소유주)** | **보데가(브랜드) + 숙성 등급** |
 
 ### 보르도 좌안 1등급 5개
 
@@ -133,7 +154,7 @@ Lafite Rothschild · Latour · Mouton Rothschild (이상 포이약) · Margaux (
 - [x] 프랑스
 - [x] 이탈리아
 - [x] 미국 (나파, 소노마, 오리건, 워싱턴)
-- [ ] 스페인 (리오하, 리베라 델 두에로, 프리오라트)
+- [x] 스페인 (리오하, 리베라 델 두에로, 프리오라트, 헤레스, 갈리시아)
 - [ ] 독일 (모젤, 라인가우 — VDP 등급)
 - [ ] 호주 · 뉴질랜드 (바로사, 야라, 말버러, 센트럴 오타고)
 - [ ] 남미 (칠레, 아르헨티나)
