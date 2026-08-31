@@ -9,16 +9,16 @@
 | 항목 | 내용 |
 |---|---|
 | 주품종 | **산조베제 Sangiovese** (지역별 별칭이 있다) |
-| 별칭 | 몬탈치노 = **Brunello / Sangiovese Grosso** · 몬테풀차노 = **Prugnolo Gentile** · 스칸사노 = **Morellino** |
+| 별칭 | 몬탈치노 = **Brunello / Sangiovese Grosso 산조베제 그로소** · 몬테풀차노 = **Prugnolo Gentile 프루뇰로 젠틸레** · 스칸사노 = **Morellino 모렐리노** |
 | 보조 품종 | 카나이올로, 콜로리노 (전통) / 카베르네 소비뇽, 메를로 (현대) |
-| 토양 | **갈레스트로(galestro)** 편암 · **알베레제(alberese)** 석회암 |
+| 토양 | **갈레스트로(galestro 갈레스트로)** 편암 · **알베레제(alberese 알베레제)** 석회암 |
 | DOCG | 11개 |
 
 ---
 
 # 2. 키안티 클라시코 Chianti Classico DOCG
 
-**"Chianti"와 "Chianti Classico"는 다른 와인이다.** 클라시코는 피렌체~시에나 사이의 역사적 원조 구역이며, 별도의 DOCG다. 라벨의 **검은 수탉(Gallo Nero)** 마크로 구분한다.
+**"Chianti"와 "Chianti Classico"는 다른 와인이다.** 클라시코는 피렌체~시에나 사이의 역사적 원조 구역이며, 별도의 DOCG다. 라벨의 **검은 수탉(Gallo Nero 갈로 네로)** 마크로 구분한다.
 
 | 항목 | 내용 |
 |---|---|
@@ -30,49 +30,49 @@
 
 | 등급 | 최소 숙성 | 조건 |
 |---|---|---|
-| **Annata** (기본) | 12개월 | |
+| **Annata 안나타** (기본) | 12개월 | |
 | **Riserva** | 24개월 | |
-| **Gran Selezione** | **30개월** | **자기 밭 포도만** 사용. 2023년부터 **산조베제 90% 이상**, 국제품종 사용 금지 |
+| **Gran Selezione 그란 셀레치오네** | **30개월** | **자기 밭 포도만** 사용. 2023년부터 **산조베제 90% 이상**, 국제품종 사용 금지 |
 
-> **Gran Selezione(2013 신설)**은 2023년 규정 개정으로 UGA 표기가 허용되면서 사실상 "키안티 클라시코의 그랑크뤼" 역할을 하게 됐다.
+> **Gran Selezione 그란 셀레치오네(2013 신설)**은 2023년 규정 개정으로 UGA 표기가 허용되면서 사실상 "키안티 클라시코의 그랑크뤼" 역할을 하게 됐다.
 
 ## 2-2. UGA 11개 (2021년 도입)
 
-**UGA (Unità Geografiche Aggiuntive)** — 부르고뉴식 마을 단위 표기. **Gran Selezione에만** 라벨 표기가 허용된다.
+**UGA (Unità Geografiche Aggiuntive 우니타 제오그라피케 아준티베)** — 부르고뉴식 마을 단위 표기. **Gran Selezione 그란 셀레치오네에만** 라벨 표기가 허용된다.
 
 | UGA | 위치 | 성격 | 대표 생산자 |
 |---|---|---|---|
-| **San Casciano** | 최북단 | 부드럽고 조기 접근 | Castello di Gabbiano, Le Corti |
-| **Montefioralle** | 그레베 서쪽 | 소규모, 고도 높음 | Castello di Montefioralle |
-| **Panzano** | 중앙, 콘카 도로 원형분지 | **가장 응축·유명**. 비오디나미 밀집 | **Fontodi**, Il Molino di Grace, Vecchie Terre di Montefili |
-| **Greve** | 중앙 | 균형형 | Castello di Verrazzano, Querciabella |
-| **Lamole** | 고도 최고(600 m) | 향기롭고 섬세 | Lamole di Lamole, I Fabbri |
-| **Radda** | 고지대 | 서늘·긴장감·높은 산도 | **Castello di Volpaia**, Montevertine(IGT), Val delle Corti |
-| **Gaiole** | 동부 | 구조적·장기 숙성 | **Castello di Ama**, Badia a Coltibuono, Riecine, San Giusto a Rentennano |
-| **Castellina** | 서부 | 우아·향기 | Castellare, Rocca delle Macìe |
-| **Vagliagli** | 남부 | | Dievole |
-| **San Donato in Poggio** | 서부 | | **Isole e Olena**, Monsanto |
-| **Castelnuovo Berardenga** | 최남단, 가장 따뜻 | 풍만·힘 | **Fèlsina**(Rancia), Castello di Bossi |
+| **San Casciano 산 카시아노** | 최북단 | 부드럽고 조기 접근 | Castello di Gabbiano 카스텔로 디 가비아노, Le Corti 레 코르티 |
+| **Montefioralle 몬테피오랄레** | 그레베 서쪽 | 소규모, 고도 높음 | Castello di Montefioralle 카스텔로 디 몬테피오랄레 |
+| **Panzano 판차노** | 중앙, 콘카 도로 원형분지 | **가장 응축·유명**. 비오디나미 밀집 | **Fontodi 폰토디**, Il Molino di Grace 일 몰리노 디 그라체, Vecchie Terre di Montefili 베키에 테레 디 몬테필리 |
+| **Greve 그레베** | 중앙 | 균형형 | Castello di Verrazzano 카스텔로 디 베라차노, Querciabella 퀘르차벨라 |
+| **Lamole 라몰레** | 고도 최고(600 m) | 향기롭고 섬세 | Lamole di Lamole 라몰레 디 라몰레, I Fabbri 이 파브리 |
+| **Radda 라다** | 고지대 | 서늘·긴장감·높은 산도 | **Castello di Volpaia 카스텔로 디 볼파이아**, Montevertine 몬테베르티네(IGT), Val delle Corti 발 델레 코르티 |
+| **Gaiole 가이올레** | 동부 | 구조적·장기 숙성 | **Castello di Ama 카스텔로 디 아마**, Badia a Coltibuono 바디아 아 콜티부오노, Riecine 리에치네, San Giusto a Rentennano 산 주스토 아 렌텐나노 |
+| **Castellina 카스텔리나** | 서부 | 우아·향기 | Castellare 카스텔라레, Rocca delle Macìe 로카 델레 마체 |
+| **Vagliagli 발리알리** | 남부 | | Dievole 디에볼레 |
+| **San Donato in Poggio 산 도나토 인 포조** | 서부 | | **Isole e Olena 이솔레 에 올레나**, Monsanto 몬산토 |
+| **Castelnuovo Berardenga 카스텔누오보 베라르덴가** | 최남단, 가장 따뜻 | 풍만·힘 | **Fèlsina 펠시나**(Rancia 란차), Castello di Bossi 카스텔로 디 보시 |
 
 ## 2-3. 핵심 생산자
 
 | 생산자 | UGA | 대표 와인 |
 |---|---|---|
-| **Fontodi** | Panzano | Vigna del Sorbo (Gran Selezione), **Flaccianello**(IGT) |
-| **Castello di Ama** | Gaiole | Vigneto Bellavista, La Casuccia |
-| **Fèlsina** | Castelnuovo B. | **Rancia** (Riserva) |
-| **Isole e Olena** | San Donato | **Cepparello**(IGT, 산조베제 100%) |
-| **Castello di Volpaia** | Radda | Coltassala |
-| **Montevertine** | Radda | **Le Pergole Torte** (IGT — 키안티 클라시코 등급을 거부) |
-| **San Giusto a Rentennano** | Gaiole | **Percarlo**(IGT) |
-| **Querciabella** · **Badia a Coltibuono** · **Riecine** · **Monsanto** · **Barone Ricasoli**(Castello di Brolio) | | |
+| **Fontodi 폰토디** | Panzano 판차노 | Vigna del Sorbo 비냐 델 소르보 (Gran Selezione 그란 셀레치오네), **Flaccianello 플라차넬로**(IGT) |
+| **Castello di Ama 카스텔로 디 아마** | Gaiole 가이올레 | Vigneto Bellavista 비녜토 벨라비스타, La Casuccia 라 카수차 |
+| **Fèlsina 펠시나** | Castelnuovo B. | **Rancia 란차** (Riserva) |
+| **Isole e Olena 이솔레 에 올레나** | San Donato | **Cepparello 체파렐로**(IGT, 산조베제 100%) |
+| **Castello di Volpaia 카스텔로 디 볼파이아** | Radda 라다 | Coltassala 콜타살라 |
+| **Montevertine 몬테베르티네** | Radda 라다 | **Le Pergole Torte 레 페르골레 토르테** (IGT — 키안티 클라시코 등급을 거부) |
+| **San Giusto a Rentennano 산 주스토 아 렌텐나노** | Gaiole 가이올레 | **Percarlo 페르카를로**(IGT) |
+| **Querciabella 퀘르차벨라** · **Badia a Coltibuono 바디아 아 콜티부오노** · **Riecine 리에치네** · **Monsanto 몬산토** · **Barone Ricasoli 바로네 리카솔리**(Castello di Brolio 카스텔로 디 브롤리오) | | |
 
 ## 2-4. 그 밖의 키안티
 
 | DOCG | 내용 |
 |---|---|
-| **Chianti Rùfina** | 피렌체 동쪽 고지대. 서늘하고 장기 숙성력 뛰어남 — **Selvapiana**, Frescobaldi(Nipozzano) |
-| **Chianti Colli Senesi / Colli Fiorentini / Montalbano 등** | 클라시코 외곽 7개 하위 구역 |
+| **Chianti Rùfina 키안티 루피나** | 피렌체 동쪽 고지대. 서늘하고 장기 숙성력 뛰어남 — **Selvapiana 셀바피아나**, Frescobaldi 프레스코발디(Nipozzano 니포차노) |
+| **Chianti Colli Senesi 콜리 세네시 / Colli Fiorentini 콜리 피오렌티니 / Montalbano 몬탈바노 등** | 클라시코 외곽 7개 하위 구역 |
 | **Chianti** | 광역. 품질 편차가 매우 크다 |
 
 ---
@@ -94,26 +94,26 @@
 
 | 구역 | 위치 | 성격 | 생산자 |
 |---|---|---|---|
-| **북부** | 몬탈치노 마을 북·북동 | 고도 높고 서늘. 우아·산도·향기 | **Biondi-Santi**, **Cerbaiona**, Il Marroneto, Le Ragnaie, Canalicchio di Sopra |
-| **남부** (Sant'Angelo in Colle · Castelnuovo dell'Abate) | 남쪽, 아미아타 산 기슭 | 따뜻하고 파워풀·응축 | **Poggio di Sotto**, **Salvioni**, Lisini, Ciacci Piccolomini, Stella di Campalto |
-| **동부** (Torrenieri) | 점토질 | 묵직하고 견고 | |
-| **서부** | 해양 영향 | 부드럽고 조기 접근 | Casanova di Neri, Col d'Orcia |
+| **북부** | 몬탈치노 마을 북·북동 | 고도 높고 서늘. 우아·산도·향기 | **Biondi-Santi 비온디산티**, **Cerbaiona 체르바이오나**, Il Marroneto 일 마로네토, Le Ragnaie 레 라냐이에, Canalicchio di Sopra 카날리키오 디 소프라 |
+| **남부** (Sant'Angelo in Colle 산탄젤로 인 콜레 · Castelnuovo dell'Abate 카스텔누오보 델라바테) | 남쪽, 아미아타 산 기슭 | 따뜻하고 파워풀·응축 | **Poggio di Sotto 포조 디 소토**, **Salvioni 살비오니**, Lisini 리시니, Ciacci Piccolomini 차치 피콜로미니, Stella di Campalto 스텔라 디 캄팔토 |
+| **동부** (Torrenieri 토레니에리) | 점토질 | 묵직하고 견고 | |
+| **서부** | 해양 영향 | 부드럽고 조기 접근 | Casanova di Neri 카사노바 디 네리, Col d'Orcia 콜 도르차 |
 
 ## 3-2. 핵심 생산자
 
 | 생산자 | 비고 |
 |---|---|
-| **Biondi-Santi** | 브루넬로의 창시자. Riserva는 전설 |
-| **Case Basse di Gianfranco Soldera** | 2013년 브루넬로 조합 탈퇴 → 현재 **Toscana IGT**. 여전히 최고가 |
-| **Poggio di Sotto** | 남부 최상급, 전통적 접근 |
-| **Cerbaiona** | 극소량, 컬트 |
-| **Salvioni (La Cerbaiola)** | |
-| **Il Marroneto** | Madonna delle Grazie |
-| **Valdicava** | Madonna del Piano Riserva |
-| **Stella di Campalto** | 비오디나미, 극소량 |
-| Conti Costanti · Fuligni · Lisini · Le Ragnaie · Canalicchio di Sopra · Casanova di Neri | |
+| **Biondi-Santi 비온디산티** | 브루넬로의 창시자. Riserva는 전설 |
+| **Case Basse di Gianfranco Soldera 카세 바세 디 잔프랑코 솔데라** | 2013년 브루넬로 조합 탈퇴 → 현재 **Toscana IGT**. 여전히 최고가 |
+| **Poggio di Sotto 포조 디 소토** | 남부 최상급, 전통적 접근 |
+| **Cerbaiona 체르바이오나** | 극소량, 컬트 |
+| **Salvioni 살비오니 (La Cerbaiola 라 체르바이올라)** | |
+| **Il Marroneto 일 마로네토** | Madonna delle Grazie 마돈나 델레 그라치에 |
+| **Valdicava 발디카바** | Madonna del Piano 마돈나 델 피아노 Riserva |
+| **Stella di Campalto 스텔라 디 캄팔토** | 비오디나미, 극소량 |
+| Conti Costanti 콘티 코스탄티 · Fuligni 풀리니 · Lisini 리시니 · Le Ragnaie 레 라냐이에 · Canalicchio di Sopra 카날리키오 디 소프라 · Casanova di Neri 카사노바 디 네리 | |
 
-> **Rosso di Montalcino DOC** — 같은 포도밭의 어린 와인(숙성 1년). 브루넬로의 절반 가격에 스타일을 맛볼 수 있다. 좋은 해에는 브루넬로용 포도가 로소로 내려오기도 한다.
+> **Rosso di Montalcino 로소 디 몬탈치노 DOC** — 같은 포도밭의 어린 와인(숙성 1년). 브루넬로의 절반 가격에 스타일을 맛볼 수 있다. 좋은 해에는 브루넬로용 포도가 로소로 내려오기도 한다.
 
 ---
 
@@ -126,11 +126,11 @@
 | 품종 | **프루뇰로 젠틸레(산조베제) 70% 이상** + 카나이올로 등 |
 | 최소 숙성 | 24개월 / Riserva 36개월 |
 | 성격 | 브루넬로보다 부드럽고 키안티보다 묵직. 가성비 우수 |
-| 신설 | **Vino Nobile Riserva "Pieve"** (2024~) — 교구(pieve) 단위 지리 표기 12개 |
+| 신설 | **Vino Nobile Riserva "Pieve"** (2024~) — 교구(pieve 피에베) 단위 지리 표기 12개 |
 
-**생산자**: **Avignonesi**, **Boscarelli**, **Poliziano**, Gracciano della Seta, Salcheto, Il Macchione
+**생산자**: **Avignonesi 아비뇨네시**, **Boscarelli 보스카렐리**, **Poliziano 폴리치아노**, Gracciano della Seta 그라차노 델라 세타, Salcheto 살케토, Il Macchione 일 마키오네
 
-> **Rosso di Montepulciano DOC** — 어린 버전.
+> **Rosso di Montepulciano 로소 디 몬테풀차노 DOC** — 어린 버전.
 
 ---
 
@@ -144,30 +144,30 @@
 |---|---|
 | 품종 | 카베르네 소비뇽, 메를로, 카베르네 프랑, 시라, 프티 베르도 |
 | 특징 | 해양성 기후, 자갈 토양. 보르도보다 따뜻하고 무르익음 |
-| 특례 | **Bolgheri Sassicaia** — 1994년 볼게리 DOC의 하위 구역으로 인정되었다가 **2013년 독립 DOC**가 되었다. 단일 와인만을 위한 DOC는 이탈리아에서 유일 |
+| 특례 | **Bolgheri Sassicaia 볼게리 사시카이아** — 1994년 볼게리 DOC의 하위 구역으로 인정되었다가 **2013년 독립 DOC**가 되었다. 단일 와인만을 위한 DOC는 이탈리아에서 유일 |
 
 | 와인 | 생산자 | 비고 |
 |---|---|---|
-| **Sassicaia** | Tenuta San Guido | 이탈리아 최초의 수퍼 투스칸(1968 첫 출시). 카베르네 소비뇽 중심 |
-| **Ornellaia** | Tenuta dell'Ornellaia | 보르도 블렌드 |
-| **Masseto** | Ornellaia (별도 이름) | **메를로 100%**, 점토 구획. 이탈리아 최고가급 (Toscana IGT) |
-| **Guado al Tasso** | Antinori | |
-| **Paleo Rosso · Messorio** | **Le Macchiole** | Messorio는 메를로 100% |
-| **Grattamacco** | Grattamacco | |
+| **Sassicaia 사시카이아** | Tenuta San Guido 테누타 산 귀도 | 이탈리아 최초의 수퍼 투스칸(1968 첫 출시). 카베르네 소비뇽 중심 |
+| **Ornellaia 오르넬라이아** | Tenuta dell'Ornellaia 테누타 델오르넬라이아 | 보르도 블렌드 |
+| **Masseto 마세토** | Ornellaia 오르넬라이아 (별도 이름) | **메를로 100%**, 점토 구획. 이탈리아 최고가급 (Toscana IGT) |
+| **Guado al Tasso 과도 알 타소** | Antinori 안티노리 | |
+| **Paleo Rosso 팔레오 로소 · Messorio 메소리오** | **Le Macchiole 레 마키올레** | Messorio 메소리오는 메를로 100% |
+| **Grattamacco 그라타마코** | Grattamacco 그라타마코 | |
 
 ## 5-2. 대표 수퍼 투스칸 (대부분 Toscana IGT)
 
 | 와인 | 생산자 | 구성 |
 |---|---|---|
-| **Tignanello** | Antinori | 산조베제 + 카베르네. 수퍼 투스칸의 원형 |
-| **Solaia** | Antinori | 카베르네 중심 |
-| **Flaccianello della Pieve** | Fontodi | 산조베제 100% |
-| **Cepparello** | Isole e Olena | 산조베제 100% |
-| **Le Pergole Torte** | Montevertine | 산조베제 100% |
-| **Percarlo** | San Giusto a Rentennano | 산조베제 100% |
-| **Redigaffi** | Tua Rita | 메를로 100% |
-| **Saffredi** | Le Pupille | 마렘마, 보르도 블렌드 |
-| **Sammarco** | Castello dei Rampolla | |
+| **Tignanello 티냐넬로** | Antinori 안티노리 | 산조베제 + 카베르네. 수퍼 투스칸의 원형 |
+| **Solaia 솔라이아** | Antinori 안티노리 | 카베르네 중심 |
+| **Flaccianello della Pieve 플라차넬로 델라 피에베** | Fontodi 폰토디 | 산조베제 100% |
+| **Cepparello 체파렐로** | Isole e Olena 이솔레 에 올레나 | 산조베제 100% |
+| **Le Pergole Torte 레 페르골레 토르테** | Montevertine 몬테베르티네 | 산조베제 100% |
+| **Percarlo 페르카를로** | San Giusto a Rentennano 산 주스토 아 렌텐나노 | 산조베제 100% |
+| **Redigaffi 레디가피** | Tua Rita 투아 리타 | 메를로 100% |
+| **Saffredi 사프레디** | Le Pupille 레 푸필레 | 마렘마, 보르도 블렌드 |
+| **Sammarco 삼마르코** | Castello dei Rampolla 카스텔로 데이 람폴라 | |
 
 > 핵심: 수퍼 투스칸은 "카베르네를 쓴 와인"이 아니다. **산조베제 100%인데 규정을 벗어나 IGT가 된 와인**도 많다(플라차넬로, 체파렐로, 페르골레 토르테). 규정 회피의 이유는 품종만이 아니라 **화이트 혼합 의무·숙성 규정** 등 다양했다.
 
@@ -177,13 +177,13 @@
 
 | DOC(G) | 내용 | 생산자 |
 |---|---|---|
-| **Carmignano DOCG** | 피렌체 서쪽. **16세기부터 카베르네를 합법적으로 사용**한 유일한 전통 산지 | **Capezzana**, Piaggia |
-| **Vernaccia di San Gimignano DOCG** | 토스카나 **유일의 화이트 DOCG**. 베르나차 품종 | Montenidoli, Panizzi |
-| **Morellino di Scansano DOCG** | 마렘마 남부. 산조베제, 부드럽고 과실 중심 | Le Pupille, Poggio Argentiera |
-| **Montecucco Sangiovese DOCG** | 몬탈치노 남서쪽. 저평가 | ColleMassari |
-| **Suvereto DOCG / Val di Cornia** | 해안, 보르도 품종 | Tua Rita, Petra |
-| **Maremma Toscana DOC** | 광역 | |
-| **Bolgheri Rosato · Vin Santo del Chianti Classico DOC** | 빈 산토는 말린 포도로 만든 스위트. 카라텔리 통에서 수년 숙성 | Isole e Olena, Avignonesi(Occhio di Pernice) |
+| **Carmignano 카르미냐노 DOCG** | 피렌체 서쪽. **16세기부터 카베르네를 합법적으로 사용**한 유일한 전통 산지 | **Capezzana 카페차나**, Piaggia 피아자 |
+| **Vernaccia di San Gimignano 베르나차 디 산 지미냐노 DOCG** | 토스카나 **유일의 화이트 DOCG**. 베르나차 품종 | Montenidoli 몬테니돌리, Panizzi 파니치 |
+| **Morellino di Scansano 모렐리노 디 스칸사노 DOCG** | 마렘마 남부. 산조베제, 부드럽고 과실 중심 | Le Pupille 레 푸필레, Poggio Argentiera 포조 아르젠티에라 |
+| **Montecucco Sangiovese 몬테쿠코 산조베제 DOCG** | 몬탈치노 남서쪽. 저평가 | ColleMassari 콜레마사리 |
+| **Suvereto 수베레토 DOCG / Val di Cornia 발 디 코르니아** | 해안, 보르도 품종 | Tua Rita 투아 리타, Petra 페트라 |
+| **Maremma Toscana 마렘마 토스카나 DOC** | 광역 | |
+| **Bolgheri Rosato 볼게리 로사토 · Vin Santo del Chianti Classico 빈 산토 델 키안티 클라시코 DOC** | 빈 산토는 말린 포도로 만든 스위트. 카라텔리 통에서 수년 숙성 | Isole e Olena 이솔레 에 올레나, Avignonesi 아비뇨네시(Occhio di Pernice 오키오 디 페르니체) |
 
 ---
 
