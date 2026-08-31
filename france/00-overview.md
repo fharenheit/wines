@@ -8,11 +8,11 @@
 
 | 현행 등급 | 구 명칭 | 비중 | 내용 |
 |---|---|---|---|
-| **AOP / AOC** (Appellation d'Origine Protégée/Contrôlée) | AOC | 약 45% | 산지·품종·수확량·양조법을 엄격히 규정 |
-| **IGP** (Indication Géographique Protégée) | Vin de Pays | 약 30% | 넓은 지역 단위, 품종 표기 자유로움 |
-| **Vin de France** | Vin de Table | 약 25% | 산지 규정 없음. 품종·빈티지 표기 가능 |
+| **AOP / AOC** (Appellation d'Origine Protégée/Contrôlée, 아펠라시옹 도리진 프로테제/콩트롤레) | AOC | 약 45% | 산지·품종·수확량·양조법을 엄격히 규정 |
+| **IGP** (Indication Géographique Protégée, 앵디카시옹 제오그라피크 프로테제) | Vin de Pays (뱅 드 페이) | 약 30% | 넓은 지역 단위, 품종 표기 자유로움 |
+| **Vin de France** (뱅 드 프랑스) | Vin de Table (뱅 드 타블) | 약 25% | 산지 규정 없음. 품종·빈티지 표기 가능 |
 
-> **역설**: IGP·Vin de France 중에도 최고급이 있다. AOC 규정이 금지한 품종·기법을 쓰려고 **일부러 등급을 내려서** 출시하는 경우다 (예: Mas de Daumas Gassac, Domaine de Trévallon, 쥐라·루시용의 다수 내추럴 와인).
+> **역설**: IGP·Vin de France 중에도 최고급이 있다. AOC 규정이 금지한 품종·기법을 쓰려고 **일부러 등급을 내려서** 출시하는 경우다 (예: Mas de Daumas Gassac 마스 드 도마 가삭, Domaine de Trévallon 도멘 드 트레발롱, 쥐라·루시용의 다수 내추럴 와인).
 
 ## 2. 등급의 "단위"가 지역마다 다르다
 
@@ -20,11 +20,11 @@
 
 | 지역 | 등급의 대상 | 예시 |
 |---|---|---|
-| **보르도** | **생산자(샤토)** | Château Latour = 1등급 |
-| **부르고뉴** | **밭(클리마)** | Chambertin = 그랑크뤼. 여러 생산자가 나눠 소유 |
-| **샹파뉴** | **마을(크뤼)** | Ambonnay = 그랑크뤼 마을 |
-| **알자스** | **밭(리외디)** | Rangen = 그랑크뤼. 51개 |
-| **론·루아르·기타** | **AOC 자체** | Hermitage, Sancerre 등 AOC가 곧 등급 |
+| **보르도** | **생산자(샤토)** | Château Latour (샤토 라투르) = 1등급 |
+| **부르고뉴** | **밭(클리마 climat)** | Chambertin (샹베르탱) = 그랑크뤼. 여러 생산자가 나눠 소유 |
+| **샹파뉴** | **마을(크뤼 cru)** | Ambonnay (앙보네) = 그랑크뤼 마을 |
+| **알자스** | **밭(리외디 lieu-dit)** | Rangen (랑겐) = 그랑크뤼. 51개 |
+| **론·루아르·기타** | **AOC 자체** | Hermitage (에르미타주), Sancerre (상세르) 등 AOC가 곧 등급 |
 
 ## 3. 주요 산지 한눈에
 
@@ -42,30 +42,79 @@
 
 | 지역 | 최상위 등급 | 개수 |
 |---|---|---|
-| 보르도 좌안 (메독) | Premier Cru Classé (1855) | 5 |
-| 보르도 그라브 | Cru Classé de Graves | 16 |
-| 보르도 소테른 | Premier Cru Supérieur + Premier Cru | 1 + 11 |
-| 보르도 우안 (생테밀리옹) | Premier Grand Cru Classé A | 2 (2022 기준) |
-| **부르고뉴 코트드뉘** | Grand Cru | 24 |
-| **부르고뉴 코트드본** | Grand Cru | 8 |
-| **부르고뉴 샤블리** | Grand Cru (클리마) | 7 |
+| 보르도 좌안 (메독 Médoc) | Premier Cru Classé (프리미에 크뤼 클라세, 1855) | 5 |
+| 보르도 그라브 (Graves) | Cru Classé de Graves (크뤼 클라세 드 그라브) | 16 |
+| 보르도 소테른 (Sauternes) | Premier Cru Supérieur (프리미에 크뤼 쉬페리외르) + Premier Cru (프리미에 크뤼) | 1 + 11 |
+| 보르도 우안 (생테밀리옹 Saint-Émilion) | Premier Grand Cru Classé A (프리미에 그랑 크뤼 클라세 A) | 2 (2022 기준) |
+| **부르고뉴 코트드뉘** (Côte de Nuits) | Grand Cru (그랑 크뤼) | 24 |
+| **부르고뉴 코트드본** (Côte de Beaune) | Grand Cru | 8 |
+| **부르고뉴 샤블리** (Chablis) | Grand Cru (클리마 단위) | 7 |
 | **샹파뉴** | Grand Cru (마을) | 17 |
 | **알자스** | Grand Cru (밭) | 51 |
-| **루아르** | Grand Cru | 1 (Quarts de Chaume) |
+| **루아르** | Grand Cru | 1 (Quarts de Chaume 카르 드 숌) |
 
 ## 5. 라벨 읽기 기본
 
 | 표기 | 의미 |
 |---|---|
-| **Mis en bouteille au château / au domaine** | 해당 샤토·도멘에서 직접 병입 (= 자가 생산) |
-| **Négociant** | 포도나 와인을 사서 양조·병입 |
-| **Vieilles Vignes** | 노목. 법적 정의는 없음 |
-| **Monopole** | 밭 전체를 한 생산자가 단독 소유 |
-| **Clos** | 담으로 둘러싸인 밭 (역사적으로 수도원 유래가 많음) |
-| **Cuvée** | 특정 블렌딩·구획 단위 이름 |
-| **Élevé en fûts de chêne** | 오크통 숙성 |
+| **Mis en bouteille au château / au domaine**<br>미 장 부테유 오 샤토 / 오 도멘 | 해당 샤토·도멘에서 직접 병입 (= 자가 생산) |
+| **Négociant** 네고시앙 | 포도나 와인을 사서 양조·병입 |
+| **Vieilles Vignes** 비에유 비뉴 | 노목. 법적 정의는 없음 |
+| **Monopole** 모노폴 | 밭 전체를 한 생산자가 단독 소유 |
+| **Clos** 클로 | 담으로 둘러싸인 밭 (역사적으로 수도원 유래가 많음) |
+| **Cuvée** 퀴베 | 특정 블렌딩·구획 단위 이름 |
+| **Élevé en fûts de chêne** 엘르베 앙 퓌 드 셴 | 오크통 숙성 |
 
-## 6. 빈티지 개괄 (2010~2023, 최근 위주)
+## 6. 프랑스어 라벨 읽기 규칙
+
+라벨의 이름을 소리 내어 읽기 위한 최소 규칙. 이 문서들에서는 프랑스어 뒤에 한글 발음을 병기한다.
+
+| 철자 | 소리 | 예 |
+|---|---|---|
+| 어말 자음 (c·r·f·l 제외) | **묵음** | Bordeaux 보르도 / Margaux 마고 / Pomerol 포므롤(l은 발음) |
+| 어말 **-es, -ent** | 묵음 | Graves 그라브 / Corbières 코르비에르 |
+| **-eau, -eaux** | 오 | Beaune 본 / Meursault 뫼르소 |
+| **ai, ei** | 에 | Vouvray 부브레 / Beine 벤 |
+| **au** | 오 | Sauternes 소테른 |
+| **ou** | 우 | Mouton 무통 |
+| **oi** | 와 | Loire 루아르 / Blois 블루아 |
+| **eu, œu** | 외 / 으 | Meursault 뫼르소 / Sœur 쇠르 |
+| **u** | **위** (입술 오므린 이) | Cru 크뤼 / Musigny 뮈지니 |
+| **ch** | 슈 | Château 샤토 / Chablis 샤블리 |
+| **gn** | 뉴 | Champagne 샹파뉴 / Chinon은 예외(시농) |
+| **ill** | 이유 | Pauillac은 예외(포이약) / Bouteille 부테유 |
+| **h** | **항상 묵음** | Hermitage 에르미타주 / Haut 오 |
+| **r** | 목젖 R, 한글로는 ㄹ | Rhône 론 |
+| **-in, -ain, -ein** | 앵 | Vin 뱅 / Chambertin 샹베르탱 |
+| **-on** | 옹 | Chinon 시농 / Mâcon 마콩 |
+| **-an, -en** | 앙 | Blanc 블랑 / Cent 상 |
+| **-um, -un** | 욍/앵 | Brun 브룅 |
+| 연음(liaison) | 앞말 끝 자음이 뒤 모음과 이어짐 | Les Amoureuses 레자무뢰즈 / Vosne 본 |
+
+> **주의**: 지명은 규칙을 벗어나는 관용 발음이 많다. Pauillac은 규칙대로면 "포이야크"지만 **포이약**, Chinon은 "시뇽"이 아니라 **시농**으로 굳어졌다. 이 문서는 국립국어원 외래어 표기와 업계 관용을 우선한다.
+
+### 자주 나오는 라벨 단어
+
+| 프랑스어 | 발음 | 뜻 |
+|---|---|---|
+| Château | 샤토 | 성(城). 보르도에서는 생산자 단위 |
+| Domaine | 도멘 | 자가 재배 생산자 |
+| Maison | 메종 | 집·상사. 샹파뉴·부르고뉴의 네고시앙 |
+| Cave / Caves | 카브 | 저장고 |
+| Côte / Coteaux | 코트 / 코토 | 사면·언덕 |
+| Clos | 클로 | 담으로 둘러싼 밭 |
+| Vieilles Vignes | 비에유 비뉴 | 노목 |
+| Blanc / Rouge / Rosé | 블랑 / 루주 / 로제 | 화이트 / 레드 / 로제 |
+| Sec / Demi-sec / Moelleux / Doux | 섹 / 드미섹 / 무알뢰 / 두 | 드라이 → 스위트 순 |
+| Brut / Extra Brut | 브뤼 / 엑스트라 브뤼 | 스파클링 당도 |
+| Vendanges Tardives | 방당주 타르디브 | 늦수확 |
+| Sélection de Grains Nobles | 셀렉시옹 드 그랭 노블 | 귀부 선별 수확 |
+| Mousseux / Pétillant | 무쇠 / 페티양 | 스파클링 / 약발포 |
+| Propriétaire-Récoltant | 프로프리에테르 레콜탕 | 자가 재배·양조자 |
+
+---
+
+## 7. 빈티지 개괄 (2010~2023, 최근 위주)
 
 | 빈티지 | 보르도 | 부르고뉴 | 론 | 비고 |
 |---|---|---|---|---|
