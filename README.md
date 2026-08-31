@@ -21,7 +21,7 @@
 | 02-3 | **[샤블리·샬로네즈·마코네 Chablis · Chalonnaise · Mâconnais](france/02-3-chablis-chalonnaise-maconnais.md)** | 샤블리 그랑크뤼 7개, 메르퀴레·지브리, 푸이퓌세 |
 | 02-4 | **[보졸레 Beaujolais](france/02-4-beaujolais.md)** | 크뤼 10개, 갱 오브 포 |
 | 03 | **[샹파뉴 Champagne](france/03-champagne.md)** | 그랑크뤼 17개 마을, 5개 지구, 하우스 vs 그로워 |
-| 04 | **[론 Vallée du Rhône](france/04-rhone.md)** | **18개 크뤼** — 북부 8개(에르미타주·코트로티·코르나스) / 남부 10개(샤토뇌프뒤파프·지공다스·로덩) |
+| 04 | **[론 Vallée du Rhône](france/04-rhone.md)** | **품종별 특징**(시라·GSM·비오니에), **18개 크뤼** — 북부 8개(에르미타주·코트로티·코르나스) / 남부 10개(샤토뇌프뒤파프·지공다스·로덩) |
 | 05 | **[루아르 Loire](france/05-loire.md)** | 뮈스카데 → 사브니에르 → 부브레·시농 → 상세르 |
 | 06 | **[알자스 Alsace](france/06-alsace.md)** | 그랑크뤼 51개 밭, 고귀품종 4종 |
 | 07 | **[남부 및 기타 Sud et autres](france/07-sud-et-autres.md)** | 랑그독루시용·프로방스·쉬드우에스트·쥐라·사부아·코르시카 |
