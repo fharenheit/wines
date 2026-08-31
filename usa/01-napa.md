@@ -161,7 +161,7 @@
 
 ## 5. 생산자 지도
 
-### 역사적 명가 (Classic)
+### 5-1. 역사적 명가 (Classic)
 
 | 생산자 | 비고 |
 |---|---|
@@ -169,29 +169,146 @@
 | **Inglenook** | 1879년 설립. 프랜시스 포드 코폴라가 복원, 대표작 **Rubicon** |
 | **Robert Mondavi** | 1966년. To Kalon Reserve, 나파 현대화의 주역 |
 | **Chateau Montelena** | 1976 파리의 심판 화이트 1위 |
-| **Stag's Leap Wine Cellars** | 1976 파리의 심판 레드 1위 |
-| **Heitz Cellar** · **Mayacamas** · **Diamond Creek** · **Ridge**(산타크루즈) | 1960~70년대 세대 |
+| **Stag's Leap Wine Cellars** | 1976 파리의 심판 레드 1위. S.L.V. · Cask 23 |
+| **Heitz Cellar** | Martha's Vineyard — 미국 최초의 단일 밭 카베르네(1966) |
+| **Mayacamas** · **Diamond Creek** · **Stony Hill** · **Smith-Madrone** | 1960~70년대 세대 |
+| **Joseph Phelps** | **Insignia**(1974) — 미국 최초의 프로프라이어터리 블렌드 |
+| **Ridge Vineyards**(산타크루즈) | Monte Bello. 파리의 심판 5위 → **2006년 30주년 재대결 1위** |
 
-### 컬트 와인 (Cult)
+---
 
-1990년대 이후 극소량·고가·회원제로 판매되는 카베르네들.
+### 5-2. 컬트 와인 — 무엇이 "컬트"인가
 
-| 생산자 | AVA | 비고 |
+> **컬트 와인은 품질 등급이 아니라 유통 방식의 이름이다.** 극소량을 만들어 **메일링 리스트로만** 팔기 때문에, 값이 시장이 아니라 **대기자 명단의 길이**로 정해진다.
+
+| 조건 | 전형적 수치 |
+|---|---|
+| **생산량** | **연 200~2,500 케이스** (보르도 1등급은 1만 5천~2만) |
+| **판매 경로** | **메일링 리스트 직판.** 소매점에는 거의 나오지 않는다 |
+| **가격** | 출고가 40~140만 원. **재판매 시장에서 2~5배** |
+| **평점** | 파커 100점 또는 그에 준하는 점수를 반복해서 받는다 |
+| **스타일** | 대체로 **완숙·고추출·새 오크 100%**. 최근 세대는 이 공식에서 벗어나는 중 |
+
+#### 어떻게 생겨났나
+
+| 시기 | 사건 |
+|---|---|
+| **1976** | **파리의 심판** — 나파가 보르도를 이길 수 있다는 사실이 공인된다 |
+| **1978** | 로버트 파커 *Wine Advocate* 창간. **100점 체계**가 시장 언어가 된다 |
+| 1980년대 | **Grace Family**(1976 식재) 등 소규모 고가 카베르네 등장 |
+| **1990** | **Harlan Estate** 첫 빈티지(1996년 출시) |
+| **1992** | **Screaming Eagle** 첫 빈티지. 진 필립스, 양조 **하이디 배럿** |
+| **1990년대 후반** | 1994·1997 빈티지에 100점이 쏟아지며 **가격이 폭발한다** |
+| 2000년대 | "Cult Cabernet"이 고유 범주로 굳는다. 나파 와인 옥션이 화제를 키운다 |
+| **2010년대~** | **대기업이 사들이기 시작한다** — LVMH가 콜긴 지분 60%(2017), 컨스텔레이션이 슈레이더(2017). "컬트"의 의미가 흐려진다 |
+| **2020년대** | 파커 은퇴 이후 점수의 영향력이 줄고, **절제된 스타일**로 무게중심이 옮겨가는 중 |
+
+#### 메일링 리스트라는 구조
+
+```
+대기자 명단(waiting list)  →  배정(allocation)  →  매년 사야 유지된다
+      3~10년 대기                병 수가 정해져 있다        한 해 거르면 뒤로 밀린다
+```
+
+| 알아둘 것 | 내용 |
+|---|---|
+| **소매점 물량이 거의 없다** | 국내 정식 수입이 있어도 극소량이다 |
+| **재판매 시장 가격이 진짜 시세다** | 출고가는 참고치일 뿐 |
+| **재판매 병은 보관 이력을 알 수 없다** | 고가일수록 **온도 이력**이 중요하다. → [보관](../basics/02-serving.md#6-보관) |
+| **세컨드 라벨이 현실적 접근로** | Harlan의 The Maiden, Screaming Eagle의 The Flight, Colgin에는 없다 |
+
+---
+
+### 5-3. 컬트 카베르네 — 1세대 (1990년대)
+
+| 생산자 | AVA · 밭 | 대표 와인 | 비고 |
+|---|---|---|---|
+| **Screaming Eagle 스크리밍 이글** | Oakville | Screaming Eagle · **The Flight**(구 Second Flight) | 1992년 첫 빈티지. 2006년 스탠 크렌키에게 매각(2009년 단독 소유). 양조 **닉 기슬라슨**, 컨설팅 **미셸 롤랑** |
+| **Harlan Estate 할란 이스테이트** | Oakville 서쪽 구릉 | Harlan Estate · **The Maiden** | 빌 할란. 자매 브랜드 **Bond**(단일 밭 5종 — Melbury · St. Eden · Vecina · Pluribus · Quella)와 **Promontory** |
+| **Colgin Cellars 콜긴** | Pritchard Hill 등 | **IX Estate** · Tychson Hill · Cariad · IX Estate Syrah | 앤 콜긴, 1992년. **2017년 LVMH가 지분 60% 인수** |
+| **Bryant Family 브라이언트 패밀리** | Pritchard Hill | Bryant Family Cabernet · DB4 | 프리처드 힐, 헤네시 호수를 내려다보는 밭 |
+| **Dalla Valle 달라 발레** | Oakville 동쪽 구릉 | **Maya** · Collina | **카베르네 프랑 비중이 높다.** 마야 달라 발레 |
+| **Grace Family 그레이스 패밀리** | St. Helena | Grace Family Cabernet | 1976년 식재. **최초의 컬트**로 자주 꼽힌다. 극소량 |
+| **Araujo → Eisele Vineyard** | Calistoga | Eisele Vineyard Cabernet | **2013년 아르테미스(프랑수아 피노)** 인수 — 샤토 라투르와 한 지붕 |
+| **Abreu Vineyards 아브레우** | 여러 밭 | Madrona Ranch · Thorevilos · Las Posadas · Cappella | **데이비드 아브레우** — 나파 최고의 밭 조성가이자 자기 이름의 와인 |
+| **Bond 본드** | 여러 산지 | 위 5종 | **밭마다 별도 브랜드**를 세우는 부르고뉴식 접근 |
+
+### 5-4. 2세대 이후 (2000년대~)
+
+| 생산자 | AVA · 밭 | 대표 와인 | 비고 |
+|---|---|---|---|
+| **Scarecrow 스케어크로우** | Rutherford | Scarecrow · M. Étain | 구 잉글눅 밭의 **1945년 식재 고목** |
+| **Schrader Cellars 슈레이더** | Oakville | **Beckstoffer To Kalon** 구획별(CCS · RBS · T6 · LPV) | 프레드 슈레이더. 양조 **토머스 리버스 브라운**. **2017년 컨스텔레이션 인수** |
+| **Continuum 콘티누움** | Pritchard Hill | Continuum | **팀 몬다비**(로버트 몬다비의 아들)의 독립 프로젝트 |
+| **Promontory 프로몬토리** | Oakville 서쪽 산지 | Promontory | 할란 가문. 거친 산지 땅을 그대로 드러내는 방향 |
+| **Ovid 오비드** | Pritchard Hill | Ovid · Experiment 시리즈 | |
+| **Hundred Acre 헌드레드 에이커** | Howell Mtn 등 | Kayli Morgan · Ark | 제이슨 우드브리지. 극단적 완숙 |
+| **Realm Cellars 렐름** | 여러 밭 | The Bard · Moonracer · Beckstoffer Dr. Crane | 2세대의 대표 |
+| **Kapcsandy 캅찬디** | Yountville | State Lane Vineyard Grand Vin | 메를로 비중이 높다 |
+| **Futo · Maybach · Memento Mori · Vice Versa · Carter Cellars · Blankiet · Bevan Cellars · Myriad** | | | 3세대 소규모 |
+| **Lokoya 로코야** | 4개 산지 AVA | Mt. Veeder · Spring Mtn · Howell Mtn · Diamond Mtn | 잭슨 패밀리. **같은 양조로 산지만 다르게** 만들어 비교가 된다 |
+| **Verité 베리테**(소노마) | Sonoma | La Muse · La Joie · Le Désir | 제스 잭슨 + **피에르 세이양**. 보르도식 블렌딩 |
+
+### 5-5. 컬트 화이트 — 나파의 샤르도네
+
+| 생산자 | 대표 와인 | 비고 |
 |---|---|---|
-| **Screaming Eagle** | Oakville | 나파 최고가의 대명사 |
-| **Harlan Estate** | Oakville 서쪽 구릉 | 자매 브랜드 **Bond**, **Promontory** |
-| **Colgin** | Pritchard Hill | IX Estate, Tychson Hill |
-| **Bryant Family** | Pritchard Hill | |
-| **Dalla Valle** | Oakville | **Maya** (카베르네 프랑 비중 높음) |
-| **Scarecrow** | Rutherford | 구 Inglenook 밭의 고목 |
-| **Schrader Cellars** | Oakville | Beckstoffer To Kalon 구획별 병입 |
-| **Abreu** · **Hundred Acre** · **Realm** · **Sine Qua Non**(센트럴 코스트) | | |
+| **Kongsgaard 콩스가르드** | **The Judge** · Napa Valley Chardonnay | 존 콩스가르드. **아주 느린 자연 효모 발효**로 유명. 시라·비오니에도 |
+| **Aubert 오베르** | Lauren · CIX · UV-SL · Ritchie · Larry Hyde & Sons | **마크 오베르** — 피터 마이클과 콜긴을 거쳐 1999년 독립. 샤르도네·피노 단일 밭 |
+| **Hyde de Villaine (HdV)** | Californie Chardonnay | **하이드 가문 + 오베르 드 빌렌**(DRC) 합작 |
+| **Stony Hill 스토니 힐** | Chardonnay | 1952년. **오크와 MLF를 쓰지 않는** 나파 화이트의 원형 |
+| **Chateau Montelena** | Chardonnay | 파리의 심판 우승작의 후예 |
 
-### 균형파 · 전통파
+> 소노마 쪽의 컬트 샤르도네(**Marcassin 마르카생 · Peter Michael 피터 마이클 · Kistler 키슬러**)는 → [소노마 §6](02-sonoma.md)
 
-과숙·고알코올 흐름에 반대하며 **낮은 알코올과 산도**를 지키는 생산자들.
+### 5-6. 컨설턴트 양조가 — 이름 뒤의 이름
 
-**Corison**(캐시 코리슨) · **Mayacamas** · **Smith-Madrone** · **Chateau Montelena** · **Spottswoode** · Frog's Leap · Matthiasson · Forlorn Hope
+> 나파 컬트 와인의 상당수는 **소유주와 양조가가 다르다.** 같은 컨설턴트가 여러 브랜드를 맡기 때문에, 양조가 이름이 스타일의 예고편이 된다.
+
+| 이름 | 관여 | 스타일 |
+|---|---|---|
+| **Helen Turley 헬렌 털리** | Marcassin(본인) · Bryant · Colgin · Peter Michael · Pahlmeyer | **컬트 스타일의 설계자.** 완숙·무여과·고밀도 |
+| **Michel Rolland 미셸 롤랑** | Screaming Eagle · Harlan · Sloan | 보르도 출신. 국제적 완숙 스타일 |
+| **Heidi Barrett 하이디 배럿** | Screaming Eagle(초기) · Dalla Valle · Grace Family · Paradigm | "첫 여성 컬트 양조가" |
+| **Thomas Rivers Brown** | Schrader · Maybach · Rivers-Marie(본인) | 2000년대 이후 최다 100점 |
+| **Andy Erickson** | Screaming Eagle(2010~) · Ovid · Dalla Valle · Favia(본인) | |
+| **Philippe Melka 필리프 멜카** | Dana · Hundred Acre · Vineyard 29 · Melka(본인) | 보르도 출신 지질학자 |
+| **David Abreu 데이비드 아브레우** | **재배**(밭 조성) — Harlan · Screaming Eagle · Colgin | **양조가가 아니라 재배가**인데 영향이 가장 크다 |
+| **Celia Welch · Mark Aubert · Bob Levy** | Scarecrow · Aubert(본인) · Harlan | |
+
+---
+
+### 5-7. 구할 수 있는 최고급 — 컬트 바로 아래
+
+> 컬트는 대개 살 수 없다. **실제로 사서 마실 수 있는 나파의 정점**은 이쪽이다.
+
+| 생산자 | 대표 와인 | 대략 |
+|---|---|---|
+| **Shafer 셰이퍼** | **Hillside Select**(Stags Leap District) | 40~60만 |
+| **Dominus Estate 도미누스** | Dominus · Napanook | 30~50만 / 12~18만 |
+| **Ridge Vineyards** | **Monte Bello** | 25~40만 |
+| **Opus One 오퍼스 원** | Opus One · Overture | 35~50만 |
+| **Dunn Vineyards 던** | Howell Mountain Cabernet | **산악 카베르네의 기준.** 20~30만 |
+| **Diamond Creek** | Volcanic Hill · Red Rock Terrace · Gravelly Meadow | 25~40만 |
+| **Joseph Phelps** | Insignia | 25~40만 |
+| **Chappellet 샤펠레** | Pritchard Hill Cabernet | 25~35만 |
+| **Caymus 케이머스** | Special Selection | 25~35만 |
+| **Beaulieu Vineyard** | Georges de Latour Private Reserve | 15~25만 |
+| **Spottswoode 스팟츠우드** | Estate Cabernet | 25~35만 |
+| **Corison 코리슨** | Kronos Vineyard · Napa Cabernet | **12~25만.** 알코올이 낮고 오래 간다 |
+
+### 5-8. 균형파 · 전통파
+
+> 과숙·고알코올 흐름에 반대하며 **낮은 알코올과 산도**를 지키는 생산자들. 2010년대 이후 재평가가 뚜렷하다.
+
+**Corison**(캐시 코리슨) · **Mayacamas** · **Smith-Madrone** · **Chateau Montelena** · **Spottswoode** · **Togni** · **Dunn** · Frog's Leap · Matthiasson · Forlorn Hope · Arnot-Roberts · Massican(화이트)
+
+| 무엇이 다른가 | 컬트 스타일 | 균형파 |
+|---|---|---|
+| 알코올 | 14.5~15.5% | **13~14%** |
+| 새 오크 | 100% | 20~50% |
+| 수확 시기 | 늦게 | 이르게 |
+| 마시는 시기 | 출시 직후에도 열려 있다 | **10년은 기다린다** |
 
 ---
 
