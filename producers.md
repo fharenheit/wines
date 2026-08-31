@@ -45,8 +45,8 @@
 - [저장소에 아직 문서가 없는 산지](#저장소에-아직-문서가-없는-산지)
 - [목적별로 다시 정리](#목적별로-다시-정리)
   - [평생 한 번은 — 구하기 어렵고 매우 비싸다](#평생-한-번은--구하기-어렵고-매우-비싸다)
-  - [10만 원대에서 그 지역의 정점에 가장 가까운 것](#10만-원대에서-그-지역의-정점에-가장-가까운-것)
-  - [3만 원대 — 값 대비 가장 많이 배우는 병](#3만-원대--값-대비-가장-많이-배우는-병)
+  - [$100 안팎 — 그 지역의 정점에 가장 가까운 것](#100-안팎--그-지역의-정점에-가장-가까운-것)
+  - [$25 안팎 — 값 대비 가장 많이 배우는 병](#25-안팎--값-대비-가장-많이-배우는-병)
   - [상황별](#상황별)
 - [이름을 어떻게 쓸 것인가](#이름을-어떻게-쓸-것인가)
   - [더 읽기](#더-읽기)
@@ -78,7 +78,7 @@
 >
 > **와이너리보다 병이 먼저다.** 같은 생산자라도 최상급 퀴베와 기본급은 다른 와인이다. 그래서 이 문서는 생산자와 **대표 와인**을 함께 적었다.
 >
-> 가격대는 국내 소매 기준의 대략치이며 수입사·환율·빈티지에 따라 크게 달라진다. → [사는 법](basics/05-buying.md)
+> **가격은 모두 미국 소매 기준 USD**의 대략치다. 재판매 시장·빈티지·환율에 따라 달라지고, **한국 소매가는 대체로 이보다 높다.** → [가격 표기에 대하여](basics/05-buying.md#가격-표기에-대하여)
 
 ---
 
@@ -88,18 +88,18 @@
 
 | # | 와인 | 무엇을 배우나 | 대략 |
 |---|---|---|---|
-| 1 | **Chablis 1er Cru** — Raveneau · Dauvissat · William Fèvre | **오크 없는 샤르도네**와 석회질 | 8~20만 |
-| 2 | **Bourgogne / 마을급 Pinot Noir** — Mugneret-Gibourg · Hudelot-Noëllat | 피노 누아의 투명함 | 8~18만 |
-| 3 | **Château Musar 또는 보르도 크뤼 부르주아** | **블렌딩과 숙성** | 5~10만 |
-| 4 | **Krug Grande Cuvée 또는 Egly-Ouriet** | 샴페인이 왜 다른 술인지 | 25~40만 |
-| 5 | **Hermitage 또는 Cornas** — Chave · Clape | **북부 론 시라**의 후추와 서늘함 | 15~40만 |
-| 6 | **Barolo** — Giacomo Conterno · Bartolo Mascarello · Vietti | **네비올로** — 옅은 색과 강한 탄닌 | 15~50만 |
-| 7 | **Brunello di Montalcino** — Biondi-Santi · Soldera · Poggio di Sotto | 산조베제의 정점 | 15~40만 |
-| 8 | **Riesling Spätlese** — J.J. Prüm · Egon Müller | **당도와 산도의 균형** | 8~30만 |
-| 9 | **Rioja Gran Reserva** — López de Heredia · La Rioja Alta | **시간이 와인에 하는 일** | 8~15만 |
-| 10 | **Napa Cabernet** — Ridge Monte Bello · Dominus · Shafer Hillside Select | 신세계 카베르네의 밀도 | 20~50만 |
-| 11 | **Grange 또는 Hill of Grace** | 호주 쉬라즈의 극단 | 60만~ |
-| 12 | **Fino / Manzanilla 셰리** — Equipo Navazos · Valdespino | **완전히 다른 와인의 논리** | 3~8만 |
+| 1 | **Chablis 1er Cru** — Raveneau · Dauvissat · William Fèvre | **오크 없는 샤르도네**와 석회질 | $60~180 |
+| 2 | **Bourgogne / 마을급 Pinot Noir** — Mugneret-Gibourg · Hudelot-Noëllat | 피노 누아의 투명함 | $60~150 |
+| 3 | **Château Musar 또는 보르도 크뤼 부르주아** | **블렌딩과 숙성** | $35~80 |
+| 4 | **Krug Grande Cuvée 또는 Egly-Ouriet** | 샴페인이 왜 다른 술인지 | $200~350 |
+| 5 | **Hermitage 또는 Cornas** — Chave · Clape | **북부 론 시라**의 후추와 서늘함 | $120~350 |
+| 6 | **Barolo** — Giacomo Conterno · Bartolo Mascarello · Vietti | **네비올로** — 옅은 색과 강한 탄닌 | $90~400 |
+| 7 | **Brunello di Montalcino** — Biondi-Santi · Soldera · Poggio di Sotto | 산조베제의 정점 | $90~300 |
+| 8 | **Riesling Spätlese** — J.J. Prüm · Egon Müller | **당도와 산도의 균형** | $50~250 |
+| 9 | **Rioja Gran Reserva** — López de Heredia · La Rioja Alta | **시간이 와인에 하는 일** | $60~130 |
+| 10 | **Napa Cabernet** — Ridge Monte Bello · Dominus · Shafer Hillside Select | 신세계 카베르네의 밀도 | $180~400 |
+| 11 | **Grange 또는 Hill of Grace** | 호주 쉬라즈의 극단 | $600~ |
+| 12 | **Fino / Manzanilla 셰리** — Equipo Navazos · Valdespino | **완전히 다른 와인의 논리** | $20~60 |
 
 > **12번이 가장 싸고 가장 낯설다.** 그리고 많은 사람이 여기서 와인관이 한 번 바뀐다.
 
@@ -260,7 +260,7 @@
 
 | | 생산자 | 대표 와인 | 왜 |
 |---|---|---|---|
-| ★ | **Domaine de la Pépière 페피에르** | Muscadet Clos des Briords | **굴을 위한 와인.** 2~3만 원에 놀랍다 |
+| ★ | **Domaine de la Pépière 페피에르** | Muscadet Clos des Briords | **굴을 위한 와인.** $20에 놀랍다 |
 | ★ | **Nicolas Joly 니콜라 졸리** | Coulée de Serrant | 사브니에르. **비오디나미 운동의 이론가** |
 | ★ | **Domaine Huet 위에** | Vouvray Le Mont · Le Haut-Lieu | **슈냉 블랑의 기준.** Sec~Moelleux 전 스타일 |
 | ★ | **Edmond Vatan 에드몽 바탕** | Sancerre Clos la Néore | 상세르의 정점 |
@@ -301,7 +301,7 @@
 | ★ | **Produttori del Barbaresco 프로두토리** | Riserva 크뤼 시리즈 | **협동조합인데 최상급.** 바르바레스코 입문의 정답 |
 | ★ | **Elio Grasso · Aldo Conterno · Brovia · Giuseppe Mascarello** | | |
 | ★ | **Roberto Voerzio · Elio Altare · Paolo Scavino** | | **현대주의 계열** |
-| ◎ | **Langhe Nebbiolo 랑게 네비올로** | Vajra · Produttori · Burlotto · Rinaldi | **바롤로의 예습판.** 3~5만 원 |
+| ◎ | **Langhe Nebbiolo 랑게 네비올로** | Vajra · Produttori · Burlotto · Rinaldi | **바롤로의 예습판.** $30~45 |
 | ◎ | **Roero 로에로 · Nebbiolo d'Alba** | Matteo Correggia · Malvirà | 타나로 강 건너편, 훨씬 싸다 |
 | ★ | **G.B. Burlotto 부를로토** | Monvigliero | **최근 10년 가장 값이 오른 이름** |
 | ◎ | **Barbera d'Alba / d'Asti** | Vietti Scarrone · Braida Bricco dell'Uccellone | **일상용 이탈리아 레드의 정답** |
@@ -323,7 +323,7 @@
 | ★ | **Montevertine 몬테베르티네** | **Le Pergole Torte** | **DOCG를 거부하고 IGT로.** 라다 |
 | ★ | **Castell'in Villa · Monteraponi · Badia a Coltibuono · Felsina** | Chianti Classico | |
 | ★ | **Antinori 안티노리** | Tignanello · Solaia | 수퍼 투스칸의 대중적 얼굴 |
-| ◎ | **Chianti Classico 기본급** | Fontodi · Felsina · Monsanto · Volpaia | **3~4만 원대 최고의 식사 와인** |
+| ◎ | **Chianti Classico 기본급** | Fontodi · Felsina · Monsanto · Volpaia | **$25~35 최고의 식사 와인** |
 | ★ | **Avignonesi · Boscarelli · Poliziano** | Vino Nobile di Montepulciano | 브루넬로보다 싸다 |
 | ◎ | **Bolgheri Rosso / Le Volte / Guidalberto** | Ornellaia · Sassicaia 세컨드 | **볼게리를 절반 값에** |
 
@@ -384,9 +384,9 @@
 | ★ | **Remírez de Ganuza · Roda · Muga** | Muga Prado Enea | 현대파 |
 | ★ | **Telmo Rodríguez 텔모 로드리게스** | Las Beatas · Lanzaga | **밭 중심 리오하 운동의 중심** |
 | ★ | **Olivier Rivière · Abel Mendoza · Sierra Cantabria** | | |
-| ◎ | **La Rioja Alta Viña Ardanza · CVNE Crianza · Muga Reserva** | | **2.5~5만 원에 가장 많이 배운다** |
+| ◎ | **La Rioja Alta Viña Ardanza · CVNE Crianza · Muga Reserva** | | **$20~40에 가장 많이 배운다** |
 
-> **리오하는 오래 숙성된 병을 합리적으로 살 수 있는 거의 유일한 산지다.** 15~20년 된 그란 레세르바가 10만 원 안쪽인 경우가 있다. → [리오하](spain/01-rioja.md)
+> **리오하는 오래 숙성된 병을 합리적으로 살 수 있는 거의 유일한 산지다.** 15~20년 된 그란 레세르바가 $80 안쪽인 경우가 있다. → [리오하](spain/01-rioja.md)
 
 ## 두에로 · 비에르소 · 카스티야
 
@@ -399,7 +399,7 @@
 | ★ | **Raúl Pérez 라울 페레스** | Ultreia · El Rapolao | 스페인 북서부의 가장 창의적인 양조가 |
 | ★ | **Numanthia · Teso La Monja** | Toro 토로 | 강렬한 스타일 |
 | ★ | **Belondrade y Lurton · José Pariente** | Rueda(베르데호) | **오크 발효 베르데호의 기준** |
-| ◎ | **Pétalos del Bierzo** | | 라 파라오나의 입문판. 3만 원대 |
+| ◎ | **Pétalos del Bierzo** | | 라 파라오나의 입문판. $22~30 |
 
 ## 카탈루냐 — 프리오라트 · 카바
 
@@ -414,7 +414,7 @@
 | 🏛 | **Recaredo 레카레도** | Turó d'en Mota | **카바 최고 수준.** 비오디나미, 장기 숙성 |
 | ★ | **Gramona 그라모나** | III Lustros · Enoteca | |
 | ★ | **Raventós i Blanc 라벤토스 이 블랑** | De Nit · Textures de Pedra | **DO 카바를 탈퇴**해 자체 명칭(Conca del Riu Anoia) |
-| ◎ | **Cava Reserva/Gran Reserva** | Juvé y Camps · Llopart · Codorníu Ars Collecta | **샴페인 방식, 2~4만 원** |
+| ◎ | **Cava Reserva/Gran Reserva** | Juvé y Camps · Llopart · Codorníu Ars Collecta | **샴페인 방식, $18~35** |
 
 ## 갈리시아 · 헤레스 · 그 밖의 스페인
 
@@ -462,9 +462,9 @@
 | ★ | **Meyer-Näkel · Jean Stodden** | Ahr 아르 | 최북단 레드 |
 | ★ | **Bernhard Huber · Friedrich Becker** | Baden · Pfalz (Spätburgunder) | |
 | ★ | **Horst Sauer · Juliusspital · Hans Wirsching** | Franken(질바너) | **복스보이텔 병** |
-| ◎ | **Kabinett 카비네트 전반** | J.J. Prüm · Selbach-Oster · Willi Schaefer | **3~5만 원. 이 가격대 세계 최고의 가치** |
+| ◎ | **Kabinett 카비네트 전반** | J.J. Prüm · Selbach-Oster · Willi Schaefer | **$25~40. 이 가격대 세계 최고의 가치** |
 
-> **독일 리슬링은 이 목록 전체에서 품질 대비 값이 가장 낮다.** 20년 숙성된 아우스레제가 10만 원 안쪽인 경우가 흔하다.
+> **독일 리슬링은 이 목록 전체에서 품질 대비 값이 가장 낮다.** 20년 숙성된 아우스레제가 $80 안쪽인 경우가 흔하다.
 
 ---
 
@@ -596,7 +596,7 @@
 | ★ | **Cristom 크리스톰** | Jessie · Louise · Marjorie | 에올라 아미티, 전 송이 발효 |
 | ★ | **Evening Land 이브닝 랜드** | Seven Springs La Source | 라자트 파르 & 사시 무어먼 |
 | ★ | **Antica Terra · Bergström · Walter Scott · Lingua Franca · Ken Wright** | | |
-| ◎ | **Ponzi · Adelsheim · Bethel Heights · Patricia Green** | | 3~6만 원대 |
+| ◎ | **Ponzi · Adelsheim · Bethel Heights · Patricia Green** | | $28~50 |
 
 ## 워싱턴 · 그 밖의 주
 
@@ -608,7 +608,7 @@
 | ★ | **No Girls · Horsepower · Reynvaan** | The Rocks District 시라 | 배런 계열 및 이웃 |
 | ★ | **Woodward Canyon · Andrew Will · Gramercy Cellars · Betz Family · DeLille** | | |
 | ★ | **Col Solare** | Red Mountain | 안티노리 + 샤토 스테 미셸 합작 |
-| ◎ | **Château Ste. Michelle** | **Eroica**(닥터 로젠 합작 리슬링) | 2~4만 원 |
+| ◎ | **Château Ste. Michelle** | **Eroica**(닥터 로젠 합작 리슬링) | $18~25 |
 | ★ | **Dr. Konstantin Frank · Ravines · Hermann J. Wiemer** | Finger Lakes Riesling | **미국 동부의 리슬링** |
 | ★ | **Linden Vineyards · RdV** | Virginia | |
 
@@ -686,7 +686,7 @@
 | ★ | **Falernia · Mayu** | Elqui Syrah | 사막 고지대 |
 | ★ | **Roberto Henríquez · A Los Viñateros Bravos · Rogue Vine** | Itata 파이스·시나울트 | **200년 노목, 자근** |
 | ★ | **Gillmore · Garage Wine Co. · Undurraga TH** | Maule VIGNO 카리냥 | |
-| ◎ | **Casas del Bosque · Kingston Family · Emiliana** | Casablanca | 3만 원대 |
+| ◎ | **Casas del Bosque · Kingston Family · Emiliana** | Casablanca | $18~28 |
 | 🏛 | **Bodega Catena Zapata 카테나 사파타** | **Adrianna Vineyard**(White Bones · White Stones) | **"남미의 그랑 크뤼"**(구알타야리 1,500m) |
 | 🏛 | **Cheval des Andes 슈발 데 안데스** | Cheval des Andes | 슈발 블랑 + 테라자스 |
 | ★ | **Zuccardi 수카르디** | **Piedra Infinita** | 파라헤 알타미라. **오크를 쓰지 않는다** |
@@ -696,7 +696,7 @@
 | ★ | **Bodega Chacra 차크라** | Treinta y Dos(1932년 식재) | **파타고니아 피노 누아.** 사시카이아 가문 |
 | ★ | **Noemía · Humberto Canale** | Río Negro | 세미용 노목도 |
 | ★ | **Pyros · Xumek** | San Juan Pedernal 시라 | |
-| ◎ | **Catena · Alta Vista · Alto Las Hormigas** | Malbec 기본급 | **2~3만 원대의 표준** |
+| ◎ | **Catena · Alta Vista · Alto Las Hormigas** | Malbec 기본급 | **$15~25의 표준** |
 
 ---
 
@@ -739,7 +739,7 @@
 | **Screaming Eagle · Harlan Estate** | **미국 컬트의 두 축.** 대기자 명단이 아니면 재판매 시장뿐이다 |
 | **Sine Qua Non** | 브랜드가 곧 양조가 개인인 극단 |
 
-## 10만 원대에서 그 지역의 정점에 가장 가까운 것
+## $100 안팎 — 그 지역의 정점에 가장 가까운 것
 
 | 지역 | 병 |
 |---|---|
@@ -758,7 +758,7 @@
 | 뉴질랜드 | **Felton Road Block 5 · Kumeu River Maté's** |
 | 남미 | **Don Melchor · Zuccardi Piedra Infinita** |
 
-## 3만 원대 — 값 대비 가장 많이 배우는 병
+## $25 안팎 — 값 대비 가장 많이 배우는 병
 
 | 병 | 무엇을 배우나 |
 |---|---|
