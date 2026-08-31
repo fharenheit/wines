@@ -60,6 +60,12 @@
 <circle cx="377.1" cy="570.1" r="4.8" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
 <text x="387.1" y="574.1" font-size="11.5" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">뱅소브르 Vinsobres</text>
 <text x="387.1" y="574.1" font-size="11.5" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">뱅소브르 Vinsobres</text>
+<circle cx="352.4" cy="645.9" r="4.8" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="362.4" y="668.9" font-size="11.5" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">봄드브니즈 Beaumes-de-Venise</text>
+<text x="362.4" y="668.9" font-size="11.5" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">봄드브니즈 Beaumes-de-Venise</text>
+<circle cx="265.0" cy="652.3" r="4.8" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="255.0" y="648.3" font-size="11.5" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">로덩 Laudun</text>
+<text x="255.0" y="648.3" font-size="11.5" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">로덩 Laudun</text>
 <rect x="302.3" y="125.0" width="6" height="6" fill="#6b6157"/>
 <text x="314.3" y="131.5" font-size="11" text-anchor="start" font-weight="400" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Lyon</text>
 <text x="314.3" y="131.5" font-size="11" text-anchor="start" font-weight="400" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Lyon</text>

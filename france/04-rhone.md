@@ -12,6 +12,10 @@
 | 화이트 품종 | 비오니에 / 마르산 · 루산 | 그르나슈 블랑, 클레레트, 부르불랑, 루산 |
 | 지형 | 화강암 급경사 계단식 사면 | 갈레 룰레(둥근 자갈) 평원 |
 | 바람 | 미스트랄 | 미스트랄 |
+| 크뤼 수 | **8개** | **10개** |
+
+> **론의 크뤼는 총 18개** — 북부 8개 + 남부 10개. 2024년 9월 로덩(Laudun)이 9년 만에 새로 승격해 18번째가 되었다.
+> 크뤼 아래로 **Côtes du Rhône Villages(마을명 표기)** → **Côtes du Rhône Villages** → **Côtes du Rhône** 순의 피라미드.
 
 ---
 
@@ -109,7 +113,7 @@
 
 ---
 
-# 남부 론
+# 남부 론 — 10개 크뤼
 
 ## 8. 샤토뇌프뒤파프 Châteauneuf-du-Pape
 
@@ -143,30 +147,34 @@
 | **Domaine du Pégaü** | Cuvée da Capo |
 | Domaine de la Janasse · Charvin · Clos Saint Jean · Roger Sabon · Château La Nerthe · Le Vieux Donjon | |
 
-## 9. 크뤼 (마을 등급 AOC)
+## 9. 남부 크뤼 (샤토뇌프 외 9개)
 
 | AOC | 색 | 특징 | 생산자 |
 |---|---|---|---|
 | **지공다스 Gigondas** | 레드·로제 | 당텔 드 몽미라이 석회암 절벽 아래. 샤토뇌프보다 신선·구조적 | **Château de Saint Cosme**, Domaine Santa Duc, Domaine les Pallières |
 | **바케라스 Vacqueyras** | 레드 중심 | 더 따뜻하고 향신료 | Sang des Cailloux, Domaine la Monardière |
-| **라스토 Rasteau** | 레드 + **VDN** | 주정강화 스위트도 생산 | Domaine Gourt de Mautens, Domaine la Soumade |
+| **라스토 Rasteau** | 레드 | 2010년 크뤼 승격, **드라이 레드 전용**. 주정강화 Rasteau VDN은 별개 AOC | Domaine Gourt de Mautens, Domaine la Soumade |
 | **케란 Cairanne** | 레드 | 2016년 크뤼 승격 | **Domaine Marcel Richaud**, Domaine Alary |
 | **뱅소브르 Vinsobres** | 레드 | 고도 높아 서늘 | Domaine Jaume, Perrin |
-| **본파스토르 Beaumes-de-Venise** | 레드 + **Muscat VDN** | 뮈스카 주정강화가 더 유명 | Domaine de Durban |
+| **봄드브니즈 Beaumes-de-Venise** | 레드 | 2005년 크뤼 승격, **레드 전용**. 같은 마을의 뮈스카 VDN은 별개 AOC | Domaine de Durban, Domaine de Fenouillet |
 | **리락 Lirac** | 3색 | 강 서안, 샤토뇌프의 저렴한 대안 | Domaine de la Mordorée |
 | **타벨 Tavel** | **로제만** | 프랑스 유일의 로제 전용 AOC. 진하고 구조적, 숙성 가능 | Château d'Aquéria, Domaine de la Mordorée |
-| **뱅티다 Vinsobres · Laudun · Sainte-Cécile** | | 최근 승격/신설 | |
+| **로덩 Laudun** | 레드·화이트 | **2024년 9월 승격, 론 18번째 크뤼**. 강 서안, 로제는 크뤼에서 제외 | Domaine Pelaquié, Château Courac |
 
 ## 10. 광역 및 주변 AOC
 
 | AOC | 내용 |
 |---|---|
-| **Côtes du Rhône Villages** | 22개 마을명 표기 가능 (Plan de Dieu, Séguret, Sablet, Visan 등) |
+| **Côtes du Rhône Villages + 마을명** | 크뤼 바로 아래 등급. 20여 개 마을이 라벨에 마을명 표기 가능 (Plan de Dieu, Séguret, Sablet, Visan, **Sainte-Cécile**, Suze-la-Rousse 등) |
+| **Côtes du Rhône Villages** | 마을명 없이 표기하는 상위 광역 |
 | **Côtes du Rhône** | 광역. 전체 생산량의 절반 |
 | **Ventoux · Luberon** | 동쪽 고지대. 서늘하고 가벼움, 가성비 |
 | **Costières de Nîmes** | 남서쪽. 행정상 랑그독이었다가 론으로 편입 |
 | **Grignan-les-Adhémar** | 북·남 사이 전이 지대 |
-| **Clairette de Die** | 전통방식 세미스위트 스파클링 (뮈스카 + 클레레트) |
+| **Duché d'Uzès** | 2013년 AOC 승격. 남서쪽 가르 지역 |
+| **Côtes du Vivarais** | 아르데슈 서안 고지대. 서늘하고 가벼움 |
+| **Clairette de Die** | **앙세스트랄(디우아즈) 방식** 세미스위트 스파클링. 뮈스카 블랑 아 프티 그랭 75% 이상 + 클레레트. 잔당 35 g/L 이상, 7~8% |
+| **Crémant de Die** | 같은 산지의 **전통방식 드라이** 스파클링. 클레레트 중심 (1993년 AOC) |
 
 ## 11. 주정강화 와인 (VDN, Vin Doux Naturel)
 

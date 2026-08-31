@@ -486,6 +486,8 @@ def map_rhone():
         (4.65, 44.02, "리락 Lirac", -10, -4),
         (4.69, 43.96, "타벨 Tavel", -10, 8),
         (5.16, 44.36, "뱅소브르 Vinsobres", 10, 4),
+        (5.05, 44.12, "봄드브니즈 Beaumes-de-Venise", 10, 23),
+        (4.66, 44.10, "로덩 Laudun", -10, -4),
     ]
     for lon, lat, name, dx, dy in north:
         m.pin(lon, lat, name, dx=dx, dy=dy, color=C_PURPLE, r=4.8, size=11.5)
