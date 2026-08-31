@@ -16,9 +16,9 @@
 
 | 등급 | 개수 | 내용 |
 |---|---|---|
-| **DOCG** (Denominazione di Origine Controllata e Garantita) | 약 77 | 최상위. 정부 보증 목띠(fascetta) 부착, 병입 전 관능검사 |
-| **DOC** (Denominazione di Origine Controllata) | 약 330 | 산지·품종·수확량 규정 |
-| **IGT** (Indicazione Geografica Tipica) | 약 120 | 넓은 지역 단위, 품종 자유 |
+| **DOCG** (Denominazione di Origine Controllata e Garantita 데노미나치오네 디 오리지네 콘트롤라타 에 가란티타) | 약 77 | 최상위. 정부 보증 목띠(fascetta 파세타) 부착, 병입 전 관능검사 |
+| **DOC** (Denominazione di Origine Controllata 데노미나치오네 디 오리지네 콘트롤라타) | 약 330 | 산지·품종·수확량 규정 |
+| **IGT** (Indicazione Geografica Tipica 인디카치오네 제오그라피카 티피카) | 약 120 | 넓은 지역 단위, 품종 자유 |
 | **Vino** | – | 산지 규정 없음 |
 
 > EU 표기로는 DOCG·DOC = **DOP**, IGT = **IGP**. 라벨에 병기되는 경우가 많다.
@@ -28,22 +28,22 @@
 이탈리아 와인 이해의 핵심이다.
 
 - **DOCG 승격은 정치·행정의 산물**인 경우가 많다. 규정이 느슨한 DOCG도 있고, 반대로 최고급 와인이 IGT인 경우도 흔하다.
-- **수퍼 투스칸**이 대표 사례: 1970년대 키안티 규정이 화이트 품종 의무 혼합을 요구하자, 사시카이아·티냐넬로 같은 최고급 와인들이 규정을 버리고 최하위 등급(당시 Vino da Tavola)으로 출시됐다. 지금도 **Toscana IGT**로 나오는 와인 중에 이탈리아 최고가가 여럿 있다.
-- 같은 구조가 **몬테베르티네**(키안티 클라시코 지역이지만 IGT), **솔데라**(브루넬로 탈퇴 후 IGT)에서도 반복된다.
+- **수퍼 투스칸**이 대표 사례: 1970년대 키안티 규정이 화이트 품종 의무 혼합을 요구하자, Sassicaia 사시카이아·Tignanello 티냐넬로 같은 최고급 와인들이 규정을 버리고 최하위 등급(당시 Vino da Tavola 비노 다 타볼라)으로 출시됐다. 지금도 **Toscana IGT**(토스카나 이제티)로 나오는 와인 중에 이탈리아 최고가가 여럿 있다.
+- 같은 구조가 **Montevertine 몬테베르티네**(키안티 클라시코 지역이지만 IGT), **Soldera 솔데라**(브루넬로 탈퇴 후 IGT)에서도 반복된다.
 
 ## 3. 라벨 읽기
 
 | 표기 | 의미 |
 |---|---|
-| **Classico** | 해당 DOC의 **역사적 원조 핵심 구역**. 대개 품질이 더 높다 (Chianti Classico, Soave Classico, Valpolicella Classico) |
-| **Superiore** | 알코올 도수·숙성 기간 기준이 더 엄격 |
-| **Riserva** | 규정된 최소 숙성 기간을 더 채운 것 (DOC마다 다름) |
-| **Vigna / Vigneto** | 단일 밭 |
-| **Cru / MGA / UGA / Contrada** | 추가 지리 표기 (지역별 명칭이 다름) |
-| **Annata** | 빈티지 |
-| **Imbottigliato all'origine** | 원산지 병입 |
-| **Passito** | 포도를 말려 농축한 와인 |
-| **Metodo Classico** | 병내 2차 발효 스파클링 (= 샴페인 방식) |
+| **Classico 클라시코** | 해당 DOC의 **역사적 원조 핵심 구역**. 대개 품질이 더 높다 (Chianti Classico 키안티 클라시코, Soave Classico 소아베 클라시코, Valpolicella Classico 발폴리첼라 클라시코) |
+| **Superiore 수페리오레** | 알코올 도수·숙성 기간 기준이 더 엄격 |
+| **Riserva 리제르바** | 규정된 최소 숙성 기간을 더 채운 것 (DOC마다 다름) |
+| **Vigna / Vigneto 비냐 / 비녜토** | 단일 밭 |
+| **Cru / MGA / UGA / Contrada 콘트라다** | 추가 지리 표기 (지역별 명칭이 다름) |
+| **Annata 안나타** | 빈티지 |
+| **Imbottigliato all'origine 임보틸리아토 알로리지네** | 원산지 병입 |
+| **Passito 파시토** | 포도를 말려 농축한 와인 |
+| **Metodo Classico 메토도 클라시코** | 병내 2차 발효 스파클링 (= 샴페인 방식) |
 
 ## 4. 핵심 품종
 
@@ -81,7 +81,54 @@
 | **카리칸테 Carricante** | 시칠리아 (에트나) | 강한 산도, 화산 미네랄 |
 | **피노 그리조 Pinot Grigio** | 북동부 | 대중적, 산지별 편차 큼 |
 
-## 5. 지역별 문서
+## 5. 이탈리아어 라벨 읽기 규칙
+
+이탈리아어는 **쓰인 대로 읽는다**. 규칙 몇 개만 알면 대부분의 이름을 읽을 수 있다. 이 문서들에서는 이탈리아어 뒤에 한글 발음을 병기한다.
+
+| 철자 | 소리 | 예 |
+|---|---|---|
+| **c** + a, o, u | ㅋ | Cannubi 칸누비 / Corvina 코르비나 |
+| **c** + e, i | **ㅊ** | Cerequio 체레퀴오 / Cinque 친퀘 / Vercelli 베르첼리 |
+| **ch** | **ㅋ** (e·i 앞에서도) | Chianti 키안티 / Chiavennasca 키아벤나스카 |
+| **g** + a, o, u | ㄱ | Gattinara 가티나라 |
+| **g** + e, i | **ㅈ** | Gaiole 가이올레 / Regione 레조네 |
+| **gh** | **ㄱ** | Ghemme 겜메 / Borgo 보르고 |
+| **gl** + i | **ㄹ리** | Aglianico 알리아니코 / Foglia 폴리아 |
+| **gn** | **뉴 / 니** | Sangiovese 산조베제·Vigna 비냐 / Pignolo 피뇰로 |
+| **sc** + e, i | **슈** | Sciacchetrà 샤케트라 / Scavino는 예외(스카비노) |
+| **z, zz** | **ㅊ / ㅈ** | Nizza 니차 / Abruzzo 아브루초 / Lazio 라치오 |
+| **h** | **항상 묵음** | Hofstätter는 독일어라 예외 |
+| **qu** | 콰·퀘·퀴 | Quintarelli 퀸타렐리 |
+| **s** (모음 사이) | **ㅈ** | Sangiovese 산조베제 / Casa 카사 |
+| 겹자음 (ll, tt, ss…) | 앞 음절을 짧게 끊는다 | Falletto 팔레토 / Cannubi 칸누비 |
+| 끝의 **-e** | 반드시 발음한다 | Barbaresco 바르바레스코 / Ravera 라베라 / Ovello 오벨로 |
+| **강세** | 대개 뒤에서 두 번째 음절. 부호가 있으면 그 음절 | Barolo 바**로**로 / Prapò 프라**포** |
+
+> **c와 g가 핵심이다.** `ci·ce`는 "치·체", `chi·che`는 "키·케". `gi·ge`는 "지·제", `ghi·ghe`는 "기·게". 그래서 **Chianti는 "치안티"가 아니라 키안티**이고, **Cerasuolo는 "케라수올로"가 아니라 체라수올로**다.
+
+> **북동부는 다르다.** 알토아디제는 독일어(Südtirol 쥐트티롤, Weissburgunder 바이스부르군더), 발레다오스타는 프랑스어(Vallée d'Aoste 발레 다오스트)를 쓴다. 프리울리의 일부 이름은 슬로베니아어 계열이다(Gravner 그라브네르, Radikon 라디콘).
+
+### 라벨에 자주 나오는 단어
+
+| 이탈리아어 | 발음 | 뜻 |
+|---|---|---|
+| Azienda Agricola | 아치엔다 아그리콜라 | 자가 재배 농장 |
+| Cantina | 칸티나 | 저장고 · 협동조합 |
+| Tenuta / Podere / Fattoria | 테누타 / 포데레 / 파토리아 | 농장·에스타테 |
+| Castello / Villa / Ca' | 카스텔로 / 빌라 / 카 | 성 / 저택 / 집 |
+| Vigna / Vigneto | 비냐 / 비녜토 | 포도밭 |
+| Rosso / Bianco / Rosato | 로소 / 비안코 / 로사토 | 레드 / 화이트 / 로제 |
+| Secco / Amabile / Dolce | 세코 / 아마빌레 / 돌체 | 드라이 / 세미스위트 / 스위트 |
+| Spumante / Frizzante | 스푸만테 / 프리찬테 | 발포 / 약발포 |
+| Vendemmia | 벤뎀미아 | 수확·빈티지 |
+| Vecchie Viti / Vigne Vecchie | 베키에 비티 / 비녜 베키에 | 노목 |
+| Botte / Barrique | 보테 / 바리크 | 대형 오크통 / 225 L 배럴 |
+| Sorì | 소리 | (피에몬테 방언) 남향 사면 |
+| Bricco / Bric | 브리코 / 브리크 | (피에몬테 방언) 언덕 마루 |
+
+---
+
+## 6. 지역별 문서
 
 | # | 문서 | 핵심 |
 |---|---|---|
@@ -93,19 +140,19 @@
 | 06 | [중부 (마르케·아브루초·움브리아·라치오)](06-centro.md) | 베르디키오, 몬테풀차노, 사그란티노 |
 | 07 | [남부 및 도서](07-sud-isole.md) | 타우라시, 프리미티보, **에트나 콘트라다** |
 
-## 6. 이탈리아의 "밭 등급" 3대 체계
+## 7. 이탈리아의 "밭 등급" 3대 체계
 
 프랑스의 그랑크뤼에 해당하는 제도가 이탈리아에는 최근에야 생겼다. 세 곳이 대표적이다.
 
 | 지역 | 명칭 | 도입 | 개수 |
 |---|---|---|---|
-| **바롤로·바르바레스코** | **MGA** (Menzione Geografica Aggiuntiva) | 2010 | 바롤로 181 · 바르바레스코 66 |
-| **키안티 클라시코** | **UGA** (Unità Geografica Aggiuntiva) | 2021 | 11 |
-| **에트나** | **Contrada** | 2011 | 133 |
+| **바롤로·바르바레스코** | **MGA** (Menzione Geografica Aggiuntiva 멘치오네 제오그라피카 아준티바) | 2010 | 바롤로 181 · 바르바레스코 66 |
+| **키안티 클라시코** | **UGA** (Unità Geografica Aggiuntiva 우니타 제오그라피카 아준티바) | 2021 | 11 |
+| **에트나** | **Contrada 콘트라다** | 2011 | 133 |
 
 > 셋 다 **품질 등급이 아니라 지리 표기**다. 부르고뉴처럼 밭에 서열을 매기지 않고, 어느 구획인지만 밝힌다. 서열은 시장이 정한다.
 
-## 7. 빈티지 개괄 (최근 위주)
+## 8. 빈티지 개괄 (최근 위주)
 
 | 빈티지 | 피에몬테 | 토스카나 | 비고 |
 |---|---|---|---|

@@ -22,52 +22,52 @@
 | 와인 | 만드는 법 | 잔당 | 알코올 |
 |---|---|---|---|
 | **Valpolicella (Classico/Superiore)** | 신선한 포도로 바로 발효 | 드라이 | 11~13% |
-| **Valpolicella Ripasso DOC** | 아마로네를 짜고 남은 **껍질 위에 재침용(ripasso)** | 드라이 | 13~14% |
-| **Amarone della Valpolicella DOCG** | 포도를 **3~4개월 건조(appassimento)** 후 완전 발효 | 드라이 | **15~17%** |
-| **Recioto della Valpolicella DOCG** | 같은 건조 포도, **발효를 중단**해 당분 잔류 | 스위트 | 12~13% |
+| **Valpolicella Ripasso 발폴리첼라 리파소 DOC** | 아마로네를 짜고 남은 **껍질 위에 재침용(ripasso 리파소)** | 드라이 | 13~14% |
+| **Amarone della Valpolicella 아마로네 델라 발폴리첼라 DOCG** | 포도를 **3~4개월 건조(appassimento 아파시멘토)** 후 완전 발효 | 드라이 | **15~17%** |
+| **Recioto della Valpolicella 레치오토 델라 발폴리첼라 DOCG** | 같은 건조 포도, **발효를 중단**해 당분 잔류 | 스위트 | 12~13% |
 
-> **아파시멘토(appassimento)**: 수확한 포도를 통풍 상자(fruttaio)에서 말려 수분을 30~40% 날린다. 당분·풍미가 응축되고, 일부는 귀부균이 붙는다.
+> **아파시멘토(appassimento 아파시멘토)**: 수확한 포도를 통풍 상자(fruttaio 프루타이오)에서 말려 수분을 30~40% 날린다. 당분·풍미가 응축되고, 일부는 귀부균이 붙는다.
 
-> 역사적으로는 **레치오토(스위트)가 원조**이고, 아마로네는 발효가 "실수로" 끝까지 진행된 데서 나왔다. 이름 자체가 "쓴(amaro)"이라는 뜻이다.
+> 역사적으로는 **레치오토(스위트)가 원조**이고, 아마로네는 발효가 "실수로" 끝까지 진행된 데서 나왔다. 이름 자체가 "쓴(amaro 아마로)"이라는 뜻이다.
 
 ## 1-2. 구역
 
 | 구역 | 내용 |
 |---|---|
-| **Classico** | 서쪽 5개 코무네 — **Fumane, Marano, Negrar, Sant'Ambrogio, San Pietro in Cariano**. 역사적 핵심 |
-| **Valpantena** | 중앙 계곡. 별도 표기 가능 |
+| **Classico** | 서쪽 5개 코무네 — **Fumane 푸마네, Marano 마라노, Negrar 네그라르, Sant'Ambrogio 산탐브로조, San Pietro in Cariano 산 피에트로 인 카리아노**. 역사적 핵심 |
+| **Valpantena 발판테나** | 중앙 계곡. 별도 표기 가능 |
 | **Valpolicella "Allargata"(확장 구역)** | 동쪽. 1960년대 이후 확대, 평지 비중 높음 |
 
 ## 1-3. 핵심 생산자
 
 | 생산자 | 비고 |
 |---|---|
-| **Giuseppe Quintarelli** | 아마로네의 신화. 극단적으로 긴 숙성, 전통 그 자체 |
-| **Romano Dal Forno** | 현대파의 정점. 극도로 응축·고밀도 |
-| **Bertani** | 클래식 스타일, 장기 숙성 아마로네 |
-| **Giuseppe Campagnola · Speri · Tommasi · Zenato** | |
-| **Allegrini** | La Poja(코르비나 100%, IGT), Amarone |
-| **Masi** | 리파소 기법을 상표화(Campofiorin) |
-| **Le Ragose · Tedeschi · Ca' La Bionda · Monte dall'Ora** | 전통·자연파 |
+| **Giuseppe Quintarelli 주세페 퀸타렐리** | 아마로네의 신화. 극단적으로 긴 숙성, 전통 그 자체 |
+| **Romano Dal Forno 로마노 달 포르노** | 현대파의 정점. 극도로 응축·고밀도 |
+| **Bertani 베르타니** | 클래식 스타일, 장기 숙성 아마로네 |
+| **Giuseppe Campagnola 주세페 캄파뇰라 · Speri 스페리 · Tommasi 톰마시 · Zenato 제나토** | |
+| **Allegrini 알레그리니** | La Poja 라 포야(코르비나 100%, IGT), Amarone |
+| **Masi 마시** | 리파소 기법을 상표화(Campofiorin 캄포피오린) |
+| **Le Ragose 레 라고제 · Tedeschi 테데스키 · Ca' La Bionda 카 라 비온다 · Monte dall'Ora 몬테 달로라** | 전통·자연파 |
 
 ---
 
 # 2. 소아베 Soave
 
-베로나 동쪽. **가르가네가(Garganega)** 기반 화이트로, 1970~80년대 대량생산으로 이미지가 추락했다가 **최근 완전히 회복**했다.
+베로나 동쪽. **가르가네가(Garganega 가르가네가)** 기반 화이트로, 1970~80년대 대량생산으로 이미지가 추락했다가 **최근 완전히 회복**했다.
 
 | 항목 | 내용 |
 |---|---|
-| 품종 | **가르가네가 70% 이상** + 트레비아노 디 소아베 / 샤르도네 |
+| 품종 | **가르가네가 70% 이상** + Trebbiano di Soave 트레비아노 디 소아베 / 샤르도네 |
 | 성격 | 아몬드·흰꽃·배, 짠맛. 좋은 것은 10년 이상 숙성 |
 
 ## 2-1. 등급과 구역
 
 | 등급 | 내용 |
 |---|---|
-| **Soave Classico DOC** | 소아베·몬테포르테 달포네 일대의 **화산암 언덕** — 핵심 구역 |
-| **Soave Superiore DOCG** | 수확량 제한·숙성 강화 |
-| **Recioto di Soave DOCG** | 건조 포도 스위트 |
+| **Soave Classico 소아베 클라시코 DOC** | 소아베·Monteforte d'Alpone 몬테포르테 달포네 일대의 **화산암 언덕** — 핵심 구역 |
+| **Soave Superiore 소아베 수페리오레 DOCG** | 수확량 제한·숙성 강화 |
+| **Recioto di Soave 레치오토 디 소아베 DOCG** | 건조 포도 스위트 |
 | **Soave DOC** | 광역(평지 포함). 품질 편차 큼 |
 
 | 토양 | 성격 |
@@ -79,20 +79,20 @@
 
 | 밭 | 생산자 |
 |---|---|
-| **Calvarino** (석회+화산 혼합) | **Pieropan** |
-| **La Rocca** (석회암) | **Pieropan** |
-| **Monte Carbonare** (현무암) | **Suavia** |
-| **Vigneti di Foscarino · Vigneto du Lot** | **Inama** |
-| **Froscà · Salvarenza** | **Gini** |
-| **Monte Grande · Staforte** | **Graziano Prà** |
+| **Calvarino 칼바리노** (석회+화산 혼합) | **Pieropan 피에로판** |
+| **La Rocca 라 로카** (석회암) | **Pieropan 피에로판** |
+| **Monte Carbonare 몬테 카르보나레** (현무암) | **Suavia 수아비아** |
+| **Vigneti di Foscarino 비녜티 디 포스카리노 · Vigneto du Lot 비녜토 뒤 로** | **Inama 이나마** |
+| **Froscà 프로스카 · Salvarenza 살바렌차** | **Gini 지니** |
+| **Monte Grande 몬테 그란데 · Staforte 스타포르테** | **Graziano Prà 그라치아노 프라** |
 
-**핵심 생산자**: **Pieropan** · **Inama** · **Suavia** · **Graziano Prà** · Gini · Ca' Rugate · **Anselmi**(DOC 탈퇴, Veneto IGT)
+**핵심 생산자**: **Pieropan 피에로판** · **Inama 이나마** · **Suavia 수아비아** · **Graziano Prà 그라치아노 프라** · Gini 지니 · Ca' Rugate 카 루가테 · **Anselmi 안셀미**(DOC 탈퇴, Veneto IGT)
 
 ---
 
 # 3. 프로세코 Prosecco
 
-세계 최대 판매량 스파클링. **탱크 발효(Metodo Martinotti / Charmat)**로 만들어 신선한 과실 향을 유지한다.
+세계 최대 판매량 스파클링. **탱크 발효(Metodo Martinotti 메토도 마르티노티 / Charmat)**로 만들어 신선한 과실 향을 유지한다.
 
 | 항목 | 내용 |
 |---|---|
@@ -104,12 +104,12 @@
 
 | 등급 | 내용 |
 |---|---|
-| **Conegliano Valdobbiadene Prosecco Superiore DOCG** | 최상위. 급경사 언덕, 손 수확 |
-| — **Rive** (43개) | 단일 마을·언덕 표기. 손 수확 의무 |
-| — **Cartizze** (Superiore di Cartizze) | **107 ha의 최상급 구역**. "프로세코의 그랑크뤼" |
-| **Asolo Prosecco DOCG** | 아솔로 언덕. 소규모, 품질 우수 |
+| **Conegliano Valdobbiadene Prosecco Superiore 코넬리아노 발도비아데네 프로세코 수페리오레 DOCG** | 최상위. 급경사 언덕, 손 수확 |
+| — **Rive 리베** (43개) | 단일 마을·언덕 표기. 손 수확 의무 |
+| — **Cartizze 카르티체** (Superiore di Cartizze 수페리오레 디 카르티체) | **107 ha의 최상급 구역**. "프로세코의 그랑크뤼" |
+| **Asolo Prosecco 아솔로 프로세코 DOCG** | 아솔로 언덕. 소규모, 품질 우수 |
 | **Prosecco DOC** | 광역. 베네토+프리울리 9개 현. 대량생산 |
-| — Prosecco DOC Treviso / Trieste | 하위 지리 표기 |
+| — Prosecco DOC Treviso 트레비소 / Trieste 트리에스테 | 하위 지리 표기 |
 | **Prosecco DOC Rosé** | 2020년 신설. 글레라 + 피노 네로 10~15%, 빈티지 표기 의무 |
 
 ## 3-2. 당도 표기
@@ -124,7 +124,7 @@
 | **Extra Dry** | 12~17 (프로세코의 전통적 스타일) |
 | Dry | 17~32 |
 
-**핵심 생산자**: **Bisol** · **Nino Franco** · **Adami** · Ruggeri · Sorelle Bronca · **Silvano Follador** · Bortolomiol
+**핵심 생산자**: **Bisol 비솔** · **Nino Franco 니노 프랑코** · **Adami 아다미** · Ruggeri 루제리 · Sorelle Bronca 소렐레 브론카 · **Silvano Follador 실바노 폴라도르** · Bortolomiol 보르톨로미올
 
 ---
 
@@ -132,13 +132,13 @@
 
 | DOC(G) | 내용 | 생산자 |
 |---|---|---|
-| **Bardolino DOC / Bardolino Superiore DOCG** | 가르다 호수 동안. 발폴리첼라와 같은 품종이지만 훨씬 가볍다 | Guerrieri Rizzardi |
-| **Lugana DOC** | 가르다 호수 남안(롬바르디아와 공유). **투르비아나(Trebbiano di Lugana)** — 숙성력 있는 화이트 | **Ca' dei Frati**, Zenato, Ottella |
-| **Colli Euganei DOCG (Fior d'Arancio)** | 파도바 남쪽 화산 언덕. 모스카토 자로 | |
-| **Gambellara DOC** | 소아베 옆, 가르가네가 | La Biancara(Angiolino Maule — 자연파) |
-| **Breganze DOC** | 토르콜라토(건조 스위트) | Maculan |
-| **Custoza DOC · Colli Berici DOC** | | |
-| **Valdobbiadene Superiore "Col Fondo"** | 병내 재발효 후 **앙금째** 출시하는 전통 프로세코. 탁하고 드라이 | Casa Coste Piane |
+| **Bardolino 바르돌리노 DOC / Bardolino Superiore 바르돌리노 수페리오레 DOCG** | 가르다 호수 동안. 발폴리첼라와 같은 품종이지만 훨씬 가볍다 | Guerrieri Rizzardi 게리에리 리차르디 |
+| **Lugana 루가나 DOC** | 가르다 호수 남안(롬바르디아와 공유). **투르비아나 Turbiana(= Trebbiano di Lugana 트레비아노 디 루가나)** — 숙성력 있는 화이트 | **Ca' dei Frati 카 데이 프라티**, Zenato 제나토, Ottella 오텔라 |
+| **Colli Euganei 콜리 에우가네이 DOCG (Fior d'Arancio 피오르 다란초)** | 파도바 남쪽 화산 언덕. 모스카토 자로 | |
+| **Gambellara 감벨라라 DOC** | 소아베 옆, 가르가네가 | La Biancara 라 비안카라(Angiolino Maule 안졸리노 마울레 — 자연파) |
+| **Breganze 브레간체 DOC** | 토르콜라토(건조 스위트) | Maculan 마쿨란 |
+| **Custoza 쿠스토차 DOC · Colli Berici 콜리 베리치 DOC** | | |
+| **Valdobbiadene 발도비아데네 Superiore "Col Fondo 콜 폰도"** | 병내 재발효 후 **앙금째** 출시하는 전통 프로세코. 탁하고 드라이 | Casa Coste Piane 카사 코스테 피아네 |
 
 ---
 
