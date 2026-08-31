@@ -19,23 +19,23 @@
 
 | 항목 | 내용 |
 |---|---|
-| 품종 | **믈롱 드 부르고뉴 (Melon de Bourgogne)** |
+| 품종 | **믈롱 드 부르고뉴 (Melon de Bourgogne 믈롱 드 부르고뉴)** |
 | 스타일 | 가볍고 짠맛, 알코올 낮음. 굴과의 페어링이 고전 |
-| **Sur lie** | 겨우내 효모 앙금 위에서 숙성 후 바로 병입. 질감과 미세한 탄산 |
+| **Sur lie 쉬르 리** | 겨우내 효모 앙금 위에서 숙성 후 바로 병입. 질감과 미세한 탄산 |
 
-### 하위 AOC와 크뤼 코뮈노(Crus Communaux)
+### 하위 AOC와 크뤼 코뮈노(Crus Communaux 크뤼 코뮈노)
 
 | AOC | 내용 |
 |---|---|
-| **Muscadet Sèvre et Maine** | 전체의 약 80%, 최고 품질 구역 |
-| Muscadet Côtes de Grandlieu / Coteaux de la Loire | 소규모 |
-| Muscadet | 광역 |
+| **Muscadet Sèvre et Maine 뮈스카데 세브르 에 멘** | 전체의 약 80%, 최고 품질 구역 |
+| Muscadet Côtes de Grandlieu / Coteaux de la Loire 뮈스카데 코트 드 그랑리외 / 코토 드 라 루아르 | 소규모 |
+| Muscadet 뮈스카데 | 광역 |
 
 **크뤼 코뮈노** — 장기 숙성(최소 17~24개월 이상 앙금 숙성)을 의무화한 마을 단위 최상위 등급:
 
-**Clisson**(화강암, 24개월) · **Gorges**(편암, 24개월) · **Le Pallet**(17개월) · Goulaine · Monnières-Saint Fiacre · Mouzillon-Tillières · Château-Thébaud · La Haye-Fouassière · Vallet · Champtoceaux
+**Clisson 클리송**(화강암, 24개월) · **Gorges 고르주**(편암, 24개월) · **Le Pallet 르 팔레**(17개월) · Goulaine 굴렌 · Monnières-Saint Fiacre 모니에르 생 피아크르 · Mouzillon-Tillières 무지용 티이에르 · Château-Thébaud 샤토 테보 · La Haye-Fouassière 라 에 푸아시에르 · Vallet 발레 · Champtoceaux 샹토소
 
-**핵심 생산자**: **Domaine de la Pépière**(Marc Ollivier) · **Luneau-Papin** · **Jo Landron** · Domaine de l'Ecu · Vincent Caillé
+**핵심 생산자**: **Domaine de la Pépière 도멘 드 라 페피에르**(Marc Ollivier 마르크 올리비에) · **Luneau-Papin 뤼노 파팽** · **Jo Landron 조 랑드롱** · Domaine de l'Ecu 도멘 드 레퀴 · Vincent Caillé 뱅상 카이예
 
 ---
 
@@ -47,33 +47,33 @@
 
 | AOC / 밭 | 면적 | 생산자 |
 |---|---|---|
-| **Coulée de Serrant** | 7 ha, **단독 소유 AOC** | **Nicolas Joly** (비오디나미의 상징적 인물) |
-| **Savennières-Roche aux Moines** | 33 ha, 별도 AOC | Château de Chamboureau, Domaine aux Moines |
-| **Clos du Papillon** | | **Domaine des Baumard**, Château d'Epiré |
-| Savennières | 광역 | **Eric Morgat**, Damien Laureau, Thibaud Boudignon |
+| **Coulée de Serrant 쿨레 드 세랑** | 7 ha, **단독 소유 AOC** | **Nicolas Joly 니콜라 졸리** (비오디나미의 상징적 인물) |
+| **Savennières-Roche aux Moines 사브니에르 로슈 오 무안** | 33 ha, 별도 AOC | Château de Chamboureau 샤토 드 샹부로, Domaine aux Moines 도멘 오 무안 |
+| **Clos du Papillon 클로 뒤 파피용** | | **Domaine des Baumard 도멘 데 보마르**, Château d'Epiré 샤토 데피레 |
+| Savennières 사브니에르 | 광역 | **Eric Morgat 에리크 모르가**, Damien Laureau 다미앵 로로, Thibaud Boudignon 티보 부디뇽 |
 
 ## 2-2. 스위트 슈냉 (레용 계곡)
 
-가을 안개로 **귀부(botrytis)**가 생기는 레용 강 유역.
+가을 안개로 **귀부(botrytis 보트리티스)**가 생기는 레용 강 유역.
 
 | AOC | 등급 | 생산자 |
 |---|---|---|
-| **Quarts de Chaume Grand Cru** | **루아르 유일의 그랑크뤼**(약 30 ha) | **Domaine des Baumard**, Château Pierre-Bise, Domaine du Petit Metris |
-| **Chaume Premier Cru** | 1er 등급 | Château Pierre-Bise |
-| **Bonnezeaux** | 상위 하위 명칭 | **Château de Fesles**, Domaine des Petits Quarts |
-| **Coteaux du Layon** | 6개 마을명 표기 가능 (Beaulieu, Faye, Rablay, Rochefort, St-Aubin-de-Luigné, St-Lambert-du-Lattay) | Domaine Ogereau, Patrick Baudouin |
-| **Coteaux de l'Aubance** | 소규모 | Domaine Richou, Château de Bois-Brinçon |
+| **Quarts de Chaume Grand Cru 카르 드 숌 그랑 크뤼** | **루아르 유일의 그랑크뤼**(약 30 ha) | **Domaine des Baumard 도멘 데 보마르**, Château Pierre-Bise 샤토 피에르 비즈, Domaine du Petit Metris 도멘 뒤 프티 메트리 |
+| **Chaume Premier Cru 숌 프리미에 크뤼** | 1er 등급 | Château Pierre-Bise 샤토 피에르 비즈 |
+| **Bonnezeaux 보느조** | 상위 하위 명칭 | **Château de Fesles 샤토 드 페슬**, Domaine des Petits Quarts 도멘 데 프티 카르 |
+| **Coteaux du Layon 코토 뒤 레용** | 6개 마을명 표기 가능 (Beaulieu 볼리외, Faye 페, Rablay 라블레, Rochefort 로슈포르, St-Aubin-de-Luigné 생토뱅 드 뤼녜, St-Lambert-du-Lattay 생랑베르 뒤 라테) | Domaine Ogereau 도멘 오제로, Patrick Baudouin 파트리크 보두앵 |
+| **Coteaux de l'Aubance 코토 드 로방스** | 소규모 | Domaine Richou 도멘 리슈, Château de Bois-Brinçon 샤토 드 부아 브랭송 |
 
 ## 2-3. 소뮈르 & 소뮈르샹피니 — 카베르네 프랑
 
-**튀포(tuffeau)** 백색 석회암 위에서 자란 카베르네 프랑. 연필심·제비꽃·붉은 과실.
+**튀포(tuffeau 튀포)** 백색 석회암 위에서 자란 카베르네 프랑. 연필심·제비꽃·붉은 과실.
 
 | AOC | 생산자 |
 |---|---|
-| **Saumur-Champigny** | **Clos Rougeard**(전설적 — Les Poyeux, Le Bourg) · **Thierry Germain (Roches Neuves)** · Château Yvonne · Domaine Filliatreau · Antoine Sanzay |
-| **Saumur Blanc / Rouge** | Château de Villeneuve, Domaine Guiberteau |
-| **Saumur Brut / Crémant de Loire** | Bouvet-Ladubay, Langlois-Château |
-| **Anjou-Villages / Anjou-Villages Brissac** | Domaine de Bablut, Château Soucherie |
+| **Saumur-Champigny 소뮈르샹피니** | **Clos Rougeard 클로 루자르**(전설적 — Les Poyeux 레 푸아외, Le Bourg 르 부르) · **Thierry Germain (Roches Neuves) 티에리 제르맹 (로슈 뇌브)** · Château Yvonne 샤토 이본 · Domaine Filliatreau 도멘 필리아트로 · Antoine Sanzay 앙투안 상제 |
+| **Saumur Blanc / Rouge 소뮈르 블랑 / 루주** | Château de Villeneuve 샤토 드 빌뇌브, Domaine Guiberteau 도멘 기베르토 |
+| **Saumur Brut / Crémant de Loire 소뮈르 브뤼 / 크레망 드 루아르** | Bouvet-Ladubay 부베 라뒤베, Langlois-Château 랑글루아 샤토 |
+| **Anjou-Villages / Anjou-Villages Brissac 앙주 빌라주 / 앙주 빌라주 브리삭** | Domaine de Bablut 도멘 드 바블뤼, Château Soucherie 샤토 수슈리 |
 
 ---
 
@@ -85,37 +85,37 @@
 
 | 표기 | 잔당 |
 |---|---|
-| **Sec** | 드라이 |
-| **Demi-Sec** | 세미스위트 |
-| **Moelleux** | 스위트 |
-| **Pétillant / Mousseux** | 약발포 / 발포 |
+| **Sec 섹** | 드라이 |
+| **Demi-Sec 드미섹** | 세미스위트 |
+| **Moelleux 무알뢰** | 스위트 |
+| **Pétillant / Mousseux 페티양 / 무쇠** | 약발포 / 발포 |
 
 | AOC | 주요 밭 | 생산자 |
 |---|---|---|
-| **Vouvray** | **Le Haut-Lieu**, **Le Mont**, **Clos du Bourg** (Huet의 3대 밭) | **Domaine Huet** · **Domaine du Clos Naudin (Philippe Foreau)** · Vincent Carême · François Chidaine |
-| **Montlouis-sur-Loire** | Les Choisilles, Clos Habert | **François Chidaine** · **Jacky Blot (Domaine de la Taille aux Loups)** · Stéphane Cossais |
-| **Jasnières / Coteaux du Loir** | 북쪽 극한지, 희소 | Domaine de Bellivière |
+| **Vouvray 부브레** | **Le Haut-Lieu 르 오리외**, **Le Mont 르 몽**, **Clos du Bourg 클로 뒤 부르** (Huet 위에의 3대 밭) | **Domaine Huet 도멘 위에** · **Domaine du Clos Naudin (Philippe Foreau) 도멘 뒤 클로 노댕 (필리프 포로)** · Vincent Carême 뱅상 카렘 · François Chidaine 프랑수아 시덴 |
+| **Montlouis-sur-Loire 몽루이 쉬르 루아르** | Les Choisilles 레 슈아지유, Clos Habert 클로 아베르 | **François Chidaine 프랑수아 시덴** · **Jacky Blot (Domaine de la Taille aux Loups) 자키 블로 (도멘 드 라 타유 오 루)** · Stéphane Cossais 스테판 코세 |
+| **Jasnières / Coteaux du Loir 자니에르 / 코토 뒤 루아르** | 북쪽 극한지, 희소 | Domaine de Bellivière 도멘 드 벨리비에르 |
 
 ## 3-2. 시농 Chinon · 부르괴이 Bourgueil — 카베르네 프랑
 
 | 토양 | 스타일 |
 |---|---|
-| **자갈 단구(graviers)** — 강가 평지 | 가볍고 과실 중심, 조기 음용 |
-| **튀포 석회암 사면(coteaux)** | 구조적·장기 숙성 |
+| **자갈 단구(graviers 그라비에)** — 강가 평지 | 가볍고 과실 중심, 조기 음용 |
+| **튀포 석회암 사면(coteaux 코토)** | 구조적·장기 숙성 |
 
 | AOC | 생산자 |
 |---|---|
-| **Chinon** | **Charles Joguet**(Clos de la Dioterie) · **Bernard Baudry**(Le Clos Guillot, La Croix Boissée) · **Philippe Alliet** · Olga Raffault |
-| **Bourgueil** | **Yannick Amirault** · **Catherine et Pierre Breton** · **Domaine de la Butte**(Jacky Blot) |
-| **Saint-Nicolas-de-Bourgueil** | 모래 많음, 더 가벼움 — Yannick Amirault, Frédéric Mabileau |
+| **Chinon 시농** | **Charles Joguet 샤를 조게**(Clos de la Dioterie 클로 드 라 디오트리) · **Bernard Baudry 베르나르 보드리**(Le Clos Guillot 르 클로 기요, La Croix Boissée 라 크루아 부아세) · **Philippe Alliet 필리프 알리에** · Olga Raffault 올가 라포 |
+| **Bourgueil 부르괴이** | **Yannick Amirault 야니크 아미로** · **Catherine et Pierre Breton 카트린 에 피에르 브르통** · **Domaine de la Butte 도멘 드 라 뷔트**(Jacky Blot 자키 블로) |
+| **Saint-Nicolas-de-Bourgueil 생니콜라 드 부르괴이** | 모래 많음, 더 가벼움 — Yannick Amirault 야니크 아미로, Frédéric Mabileau 프레데리크 마빌로 |
 
 ## 3-3. 그 외 투렌
 
 | AOC | 내용 |
 |---|---|
-| **Touraine** | 소비뇽 블랑 중심 광역. 상세르의 저렴한 대안 |
-| **Touraine-Amboise / Touraine-Mesland** | 코 드 부르고뉴(말벡) 등 토착품종 |
-| **Cheverny / Cour-Cheverny** | Cour-Cheverny는 희귀 품종 **로모랑탱** 단일 |
+| **Touraine 투렌** | 소비뇽 블랑 중심 광역. 상세르의 저렴한 대안 |
+| **Touraine-Amboise / Touraine-Mesland 투렌 앙부아즈 / 투렌 멜랑** | 코 드 부르고뉴(말벡) 등 토착품종 |
+| **Cheverny / Cour-Cheverny 슈베르니 / 쿠르 슈베르니** | Cour-Cheverny 쿠르 슈베르니는 희귀 품종 **로모랑탱** 단일 |
 
 ---
 
@@ -127,42 +127,42 @@
 
 | 토양 | 특징 | 위치 |
 |---|---|---|
-| **Terres Blanches** (키메리지안 이회토) | 묵직·구조적, 숙성형 | 서쪽 (Chavignol) |
-| **Caillottes** (석회암 자갈) | 화사·아로마틱, 조기 음용 | 중앙 (Bué) |
-| **Silex** (부싯돌) | 연기·화약 냄새, 미네랄 | 동쪽 (강 인접) |
+| **Terres Blanches 테르 블랑슈** (키메리지안 이회토) | 묵직·구조적, 숙성형 | 서쪽 (Chavignol 샤비뇰) |
+| **Caillottes 카요트** (석회암 자갈) | 화사·아로마틱, 조기 음용 | 중앙 (Bué 뷔에) |
+| **Silex 실렉스** (부싯돌) | 연기·화약 냄새, 미네랄 | 동쪽 (강 인접) |
 
 | 주요 밭 (리외디) | 생산자 |
 |---|---|
-| **Les Monts Damnés** (Chavignol) | **François Cotat**, **Pascal Cotat**, Gérard Boulay |
-| **Clos la Néore** | **Edmond Vatan** (컬트) |
-| **Le Cul de Beaujeu** | François Cotat, Boulay |
-| **Clos du Chêne Marchand** (Bué) | Vincent Pinard, Lucien Crochet |
-| **La Grande Côte** | Cotat, Alphonse Mellot |
+| **Les Monts Damnés 레 몽 담네** (Chavignol 샤비뇰) | **François Cotat 프랑수아 코타**, **Pascal Cotat 파스칼 코타**, Gérard Boulay 제라르 불레 |
+| **Clos la Néore 클로 라 네오르** | **Edmond Vatan 에드몽 바탕** (컬트) |
+| **Le Cul de Beaujeu 르 퀼 드 보죄** | François Cotat 프랑수아 코타, Boulay 불레 |
+| **Clos du Chêne Marchand 클로 뒤 셴 마르샹** (Bué 뷔에) | Vincent Pinard 뱅상 피나르, Lucien Crochet 뤼시앵 크로셰 |
+| **La Grande Côte 라 그랑드 코트** | Cotat 코타, Alphonse Mellot 알퐁스 멜로 |
 
-**핵심 생산자**: **Edmond Vatan** · **François & Pascal Cotat** · **Alphonse Mellot**(La Moussière, Génération XIX) · Vincent Pinard · Gérard Boulay · Claude Riffault · Henri Bourgeois
+**핵심 생산자**: **Edmond Vatan 에드몽 바탕** · **François & Pascal Cotat 파스칼 코타** · **Alphonse Mellot 알퐁스 멜로**(La Moussière 라 무시에르, Génération XIX 제네라시옹 디즈뇌프) · Vincent Pinard 뱅상 피나르 · Gérard Boulay 제라르 불레 · Claude Riffault 클로드 리포 · Henri Bourgeois 앙리 부르주아
 
 > 상세르는 **피노 누아 레드·로제**도 생산하며(약 20%), 온난화로 품질이 크게 향상되었다.
 
 ## 4-2. 푸이퓌메 Pouilly-Fumé
 
-강 건너편. 부싯돌(silex) 비율이 높아 **훈연향(fumé)**이 이름의 유래.
+강 건너편. 부싯돌(silex 실렉스) 비율이 높아 **훈연향(fumé 퓌메)**이 이름의 유래.
 
 | 생산자 | 대표 와인 |
 |---|---|
-| **Didier Dagueneau** | **Silex**, **Pur Sang**, Buisson Renard — 소비뇽 블랑의 한계를 바꾼 인물 |
-| Serge Dagueneau et Filles | |
-| Jonathan Pabiot, Château de Tracy, Alexandre Bain | |
+| **Didier Dagueneau 디디에 다그노** | **Silex 실렉스**, **Pur Sang 퓌르 상**, Buisson Renard 뷔송 르나르 — 소비뇽 블랑의 한계를 바꾼 인물 |
+| Serge Dagueneau et Filles 세르주 다그노 에 피유 | |
+| Jonathan Pabiot 조나탕 파비오, Château de Tracy 샤토 드 트라시, Alexandre Bain 알렉상드르 뱅 | |
 
-> **Pouilly-sur-Loire**는 같은 마을에서 **샤슬라** 품종으로 만든 별개의 AOC.
+> **Pouilly-sur-Loire 푸이 쉬르 루아르**는 같은 마을에서 **샤슬라** 품종으로 만든 별개의 AOC.
 
 ## 4-3. 위성 산지
 
 | AOC | 내용 | 생산자 |
 |---|---|---|
-| **Menetou-Salon** | 상세르 서쪽, 같은 토양에 절반 가격 | Henry Pellé, Domaine de Chatenoy |
-| **Quincy** | 모래·자갈, 가볍고 향기로움 | Domaine Mardon |
-| **Reuilly** | 소비뇽 + 피노 그리 로제 | Claude Lafond |
-| **Coteaux du Giennois** | 최북단 | |
+| **Menetou-Salon 므네투 살롱** | 상세르 서쪽, 같은 토양에 절반 가격 | Henry Pellé 앙리 펠레, Domaine de Chatenoy 도멘 드 샤트누아 |
+| **Quincy 캥시** | 모래·자갈, 가볍고 향기로움 | Domaine Mardon 도멘 마르동 |
+| **Reuilly 뢰이** | 소비뇽 + 피노 그리 로제 | Claude Lafond 클로드 라퐁 |
+| **Coteaux du Giennois 코토 뒤 지에누아** | 최북단 | |
 
 ---
 
