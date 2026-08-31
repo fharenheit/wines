@@ -8,14 +8,14 @@
 
 | 그랑크뤼 | 색 | 면적 | 소속 마을 |
 |---|---|---|---|
-| **Corton** | 레드 (화이트 극소량) | 약 98 ha | 알록스코르통 · 라두아 · 페르낭베르줄레스 |
-| **Corton-Charlemagne** | 화이트 | 약 72 ha | 위 3개 마을 |
-| Charlemagne | 화이트 | – | 명목상 존재, 실제로는 전량 Corton-Charlemagne로 판매 |
-| **Montrachet** | 화이트 | 8.0 ha | 퓔리니 4.0 + 샤사뉴 4.0 |
-| **Chevalier-Montrachet** | 화이트 | 7.4 ha | 퓔리니 |
-| **Bâtard-Montrachet** | 화이트 | 11.9 ha | 퓔리니 6.0 + 샤사뉴 5.8 |
-| **Bienvenues-Bâtard-Montrachet** | 화이트 | 3.7 ha | 퓔리니 |
-| **Criots-Bâtard-Montrachet** | 화이트 | 1.6 ha | 샤사뉴 |
+| **Corton 코르통** | 레드 (화이트 극소량) | 약 98 ha | 알록스코르통 · 라두아 · 페르낭베르줄레스 |
+| **Corton-Charlemagne 코르통샤를마뉴** | 화이트 | 약 72 ha | 위 3개 마을 |
+| Charlemagne 샤를마뉴 | 화이트 | – | 명목상 존재, 실제로는 전량 Corton-Charlemagne 코르통샤를마뉴로 판매 |
+| **Montrachet 몽라셰** | 화이트 | 8.0 ha | 퓔리니 4.0 + 샤사뉴 4.0 |
+| **Chevalier-Montrachet 슈발리에 몽라셰** | 화이트 | 7.4 ha | 퓔리니 |
+| **Bâtard-Montrachet 바타르 몽라셰** | 화이트 | 11.9 ha | 퓔리니 6.0 + 샤사뉴 5.8 |
+| **Bienvenues-Bâtard-Montrachet 비앵브뉘 바타르 몽라셰** | 화이트 | 3.7 ha | 퓔리니 |
+| **Criots-Bâtard-Montrachet 크리오 바타르 몽라셰** | 화이트 | 1.6 ha | 샤사뉴 |
 
 ---
 
@@ -25,32 +25,32 @@
 
 | 사면 | 토양 | 등급 |
 |---|---|---|
-| 남·남동향 상부 (석회암 많음) | 백색 이회토 | **Corton-Charlemagne** (화이트) |
-| 동·남동향 중턱 (철분·점토) | 적색 이회토 | **Corton** (레드) |
+| 남·남동향 상부 (석회암 많음) | 백색 이회토 | **Corton-Charlemagne 코르통샤를마뉴** (화이트) |
+| 동·남동향 중턱 (철분·점토) | 적색 이회토 | **Corton 코르통** (레드) |
 
-### Corton 주요 구획 (climat)
+### Corton 코르통 주요 구획 (climat)
 
-`Corton` 뒤에 구획명을 붙여 표기 가능: **Le Corton**, **Les Bressandes**, **Clos du Roi**, **Les Renardes**, **Les Perrières**, **Les Pougets**, **Les Languettes**, **Les Maréchaudes**
+`Corton 코르통` 뒤에 구획명을 붙여 표기 가능: **Le Corton 르 코르통**, **Les Bressandes 레 브레상드**, **Clos du Roi 클로 뒤 루아**, **Les Renardes 레 르나르드**, **Les Perrières 레 페리에르**, **Les Pougets 레 푸제**, **Les Languettes 레 랑게트**, **Les Maréchaudes 레 마레쇼드**
 
 | 밭 | 주요 생산자 |
 |---|---|
-| **Corton** (레드) | **DRC**(2009~), **Faiveley**(Clos des Cortons Faiveley 모노폴), Louis Latour(Château Corton Grancey), Chandon de Briailles, Comte Senard, Tollot-Beaut, Follin-Arbelet, Méo-Camuzet |
-| **Corton-Charlemagne** (화이트) | **Bonneau du Martray**(최대 소유), **Coche-Dury**, Louis Latour, Bouchard Père, Faiveley, Rapet, Chandon de Briailles, Rollin |
+| **Corton 코르통** (레드) | **DRC**(2009~), **Faiveley 페블레**(Clos des Cortons Faiveley 클로 데 코르통 페블레 모노폴), Louis Latour 루이 라투르(Château Corton Grancey 샤토 코르통 그랑세), Chandon de Briailles 샹동 드 브리아유, Comte Senard 콩트 스나르, Tollot-Beaut 톨로 보, Follin-Arbelet 폴랭 아르블레, Méo-Camuzet 메오 카뮈제 |
+| **Corton-Charlemagne 코르통샤를마뉴** (화이트) | **Bonneau du Martray 보노 뒤 마르트레**(최대 소유), **Coche-Dury 코슈 뒤리**, Louis Latour 루이 라투르, Bouchard Père 부샤르 페르, Faiveley 페블레, Rapet 라페, Chandon de Briailles 샹동 드 브리아유, Rollin 롤랭 |
 
 ### 세 마을의 프리미에 크뤼
 
 | 마을 | 1er 크뤼 | 생산자 |
 |---|---|---|
-| **라두아세리니 Ladoix-Serrigny** | Le Clou d'Orge, Les Gréchons(화이트) | Chevalier Père et Fils, Capitain-Gagnerot, Prince Florent de Mérode |
-| **알록스코르통 Aloxe-Corton** | Les Valozières, Les Fournières, Les Chaillots | Tollot-Beaut, Comte Senard, Follin-Arbelet |
-| **페르낭베르줄레스 Pernand-Vergelesses** | **Île des Vergelesses**, Les Vergelesses, Sous Frétille(화이트) | **Rapet Père et Fils**, Chandon de Briailles, Rollin, Dubreuil-Fontaine |
+| **라두아세리니 Ladoix-Serrigny** | Le Clou d'Orge 르 클루 도르주, Les Gréchons 레 그레숑(화이트) | Chevalier Père et Fils 슈발리에 페르 에 피스, Capitain-Gagnerot 카피탱 가뉴로, Prince Florent de Mérode 프랭스 플로랑 드 메로드 |
+| **알록스코르통 Aloxe-Corton** | Les Valozières 레 발로지에르, Les Fournières 레 푸르니에르, Les Chaillots 레 샤이오 | Tollot-Beaut 톨로 보, Comte Senard 콩트 스나르, Follin-Arbelet 폴랭 아르블레 |
+| **페르낭베르줄레스 Pernand-Vergelesses** | **Île des Vergelesses 일 데 베르젤레스**, Les Vergelesses 레 베르젤레스, Sous Frétille 수 프레티유(화이트) | **Rapet Père et Fils 라페 페르 에 피스**, Chandon de Briailles 샹동 드 브리아유, Rollin 롤랭, Dubreuil-Fontaine 뒤브뢰유 퐁텐 |
 
 ## 2. 사비니레본 Savigny-lès-Beaune · 쇼레레본 Chorey-lès-Beaune
 
 | 마을 | 1er 크뤼 | 특징 · 생산자 |
 |---|---|---|
-| **Savigny-lès-Beaune** | Les Vergelesses, Les Lavières, Les Serpentières, Les Guettes, Les Marconnets | 가볍고 향기로움, 가성비 우수 — **Chandon de Briailles**, **Simon Bize**, Tollot-Beaut, Pavelot |
-| **Chorey-lès-Beaune** | 없음 (빌라주만) | 평지, 조기 음용 — Tollot-Beaut, Jacques Germain |
+| **Savigny-lès-Beaune 사비니레본** | Les Vergelesses 레 베르젤레스, Les Lavières 레 라비에르, Les Serpentières 레 세르팡티에르, Les Guettes 레 게트, Les Marconnets 레 마르코네 | 가볍고 향기로움, 가성비 우수 — **Chandon de Briailles 샹동 드 브리아유**, **Simon Bize 시몽 비즈**, Tollot-Beaut 톨로 보, Pavelot 파블로 |
+| **Chorey-lès-Beaune 쇼레레본** | 없음 (빌라주만) | 평지, 조기 음용 — Tollot-Beaut 톨로 보, Jacques Germain 자크 제르맹 |
 
 ## 3. 본 Beaune
 
@@ -58,14 +58,14 @@
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **Les Grèves** | 최상급. **Bouchard의 "Vigne de l'Enfant Jésus"**가 이 안의 구획 |
-| **Clos des Mouches** | **Joseph Drouhin** 주력. 레드·화이트 모두 명성 |
-| **Les Bressandes** | Chanson, Camille Giroud |
-| **Les Teurons / Les Fèves / Les Cent Vignes** | Bouchard, Tollot-Beaut |
-| **Clos des Ursules** | Louis Jadot 모노폴 (Les Vignes Franches 내부) |
-| Clos du Roi, Les Marconnets | |
+| **Les Grèves 레 그레브** | 최상급. **Bouchard 부샤르의 "Vigne de l'Enfant Jésus 비뉴 드 랑팡 제쥐"**가 이 안의 구획 |
+| **Clos des Mouches 클로 데 무슈** | **Joseph Drouhin 조제프 드루앵** 주력. 레드·화이트 모두 명성 |
+| **Les Bressandes 레 브레상드** | Chanson 샹송, Camille Giroud 카미유 지루 |
+| **Les Teurons 레 퇴롱 / Les Fèves 레 페브 / Les Cent Vignes 레 상 비뉴** | Bouchard 부샤르, Tollot-Beaut 톨로 보 |
+| **Clos des Ursules 클로 데 위르쉴** | Louis Jadot 루이 자도 모노폴 (Les Vignes Franches 레 비뉴 프랑슈 내부) |
+| Clos du Roi 클로 뒤 루아, Les Marconnets 레 마르코네 | |
 
-**핵심 생산자**: Bouchard Père et Fils · Joseph Drouhin · Louis Jadot · Chanson · Camille Giroud · Tollot-Beaut · **Hospices de Beaune**(자선 경매로 유명)
+**핵심 생산자**: Bouchard Père et Fils 부샤르 페르 에 피스 · Joseph Drouhin 조제프 드루앵 · Louis Jadot 루이 자도 · Chanson 샹송 · Camille Giroud 카미유 지루 · Tollot-Beaut 톨로 보 · **Hospices de Beaune 오스피스 드 본**(자선 경매로 유명)
 
 ## 4. 포마르 Pommard
 
@@ -73,12 +73,12 @@
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **Les Rugiens** (특히 Rugiens-Bas) | 그랑크뤼 승격 후보로 거론 — de Courcel, Aleth Girardin, de Montille |
-| **Les Épenots** (Grands / Petits) | 더 우아한 쪽 — Michel Gaunoux, Parent, de Courcel |
-| **Clos des Épeneaux** | 모노폴 — **Domaine du Comte Armand** |
-| Les Arvelets, Les Chanlins, Les Pézerolles | |
+| **Les Rugiens 레 뤼지앵** (특히 Rugiens-Bas 뤼지앵 바) | 그랑크뤼 승격 후보로 거론 — de Courcel 드 쿠르셀, Aleth Girardin 알레트 지라르댕, de Montille 드 몽티유 |
+| **Les Épenots 레 제프노** (Grands / Petits) | 더 우아한 쪽 — Michel Gaunoux 미셸 고누, Parent 파랑, de Courcel 드 쿠르셀 |
+| **Clos des Épeneaux 클로 데 제프노** | 모노폴 — **Domaine du Comte Armand 도멘 뒤 콩트 아르망** |
+| Les Arvelets 레 자르블레, Les Chanlins 레 샹랭, Les Pézerolles 레 페즈롤 | |
 
-**핵심 생산자**: Comte Armand · de Courcel · de Montille · Michel Gaunoux · Aleth Girardin · Jean-Marc Boillot
+**핵심 생산자**: Comte Armand 콩트 아르망 · de Courcel 드 쿠르셀 · de Montille 드 몽티유 · Michel Gaunoux 미셸 고누 · Aleth Girardin 알레트 지라르댕 · Jean-Marc Boillot 장마르크 부아요
 
 ## 5. 볼네 Volnay
 
@@ -86,23 +86,23 @@
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **Les Caillerets** | 최상급, 순수·미네랄 |
-| **Clos des Chênes** | 고지대, 구조적 |
-| **Taillepieds** | 급경사, 긴장감 |
-| **Champans** | 풍만 — Marquis d'Angerville, de Montille |
-| **Clos des Ducs** | 모노폴 — **Marquis d'Angerville** |
-| **Clos de la Bousse d'Or** | 모노폴 — Domaine de la Pousse d'Or |
-| **Volnay-Santenots** | 밭은 뫼르소에 있지만 **레드는 볼네로 표기** — Comtes Lafon(Santenots-du-Milieu), Leroy |
+| **Les Caillerets 레 카유레** | 최상급, 순수·미네랄 |
+| **Clos des Chênes 클로 데 셴** | 고지대, 구조적 |
+| **Taillepieds 타유피에** | 급경사, 긴장감 |
+| **Champans 샹팡** | 풍만 — Marquis d'Angerville 마르키 당제르빌, de Montille 드 몽티유 |
+| **Clos des Ducs 클로 데 뒤크** | 모노폴 — **Marquis d'Angerville 마르키 당제르빌** |
+| **Clos de la Bousse d'Or 클로 드 라 부스 도르** | 모노폴 — Domaine de la Pousse d'Or 도멘 드 라 푸스 도르 |
+| **Volnay-Santenots 볼네 상트노** | 밭은 뫼르소에 있지만 **레드는 볼네로 표기** — Comtes Lafon 콩트 라퐁(Santenots-du-Milieu 상트노 뒤 밀리외), Leroy 르루아 |
 
-**핵심 생산자**: **Marquis d'Angerville** · **Michel Lafarge** · de Montille · Comtes Lafon · Pousse d'Or · Nicolas Rossignol
+**핵심 생산자**: **Marquis d'Angerville 마르키 당제르빌** · **Michel Lafarge 미셸 라파르주** · de Montille 드 몽티유 · Comtes Lafon 콩트 라퐁 · Pousse d'Or 푸스 도르 · Nicolas Rossignol 니콜라 로시뇰
 
 ## 6. 몽텔리 · 옥세뒤레스 · 생로맹 (가성비 3인방)
 
 | 마을 | 특징 | 생산자 |
 |---|---|---|
-| **Monthelie** | 볼네 뒤편, 레드 중심 | Comtes Lafon, Roulot, Paul Garaudet |
-| **Auxey-Duresses** | 레드·화이트 모두 | **Coche-Dury**, Comtes Lafon, Jean-Pierre Diconne |
-| **Saint-Romain** | 고지대, 서늘하고 산도 높은 화이트 | **Alain Gras**, de Chassorney |
+| **Monthelie 몽텔리** | 볼네 뒤편, 레드 중심 | Comtes Lafon 콩트 라퐁, Roulot 룰로, Paul Garaudet 폴 가로데 |
+| **Auxey-Duresses 옥세뒤레스** | 레드·화이트 모두 | **Coche-Dury 코슈 뒤리**, Comtes Lafon 콩트 라퐁, Jean-Pierre Diconne 장피에르 디콘 |
+| **Saint-Romain 생로맹** | 고지대, 서늘하고 산도 높은 화이트 | **Alain Gras 알랭 그라**, de Chassorney 드 샤소르네 |
 
 ## 7. 뫼르소 Meursault
 
@@ -110,16 +110,16 @@
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **Les Perrières** (특히 Perrières-Dessous) | **그랑크뤼 승격 후보**, 가장 미네랄하고 긴장감 있음 |
-| **Les Genevrières** | 꽃향·우아함 |
-| **Les Charmes** | 가장 넓고 풍만 |
-| **Les Poruzots / Les Bouchères / Les Gouttes d'Or** | |
-| **Clos de la Barre** | 모노폴 — Comtes Lafon |
-| **Clos des Perrières** | 모노폴 — Albert Grivault |
+| **Les Perrières 레 페리에르** (특히 Perrières-Dessous 페리에르 드수) | **그랑크뤼 승격 후보**, 가장 미네랄하고 긴장감 있음 |
+| **Les Genevrières 레 즈네브리에르** | 꽃향·우아함 |
+| **Les Charmes 레 샤름** | 가장 넓고 풍만 |
+| **Les Poruzots 레 포뤼조 / Les Bouchères 레 부셰르 / Les Gouttes d'Or 레 구트 도르** | |
+| **Clos de la Barre 클로 드 라 바르** | 모노폴 — Comtes Lafon 콩트 라퐁 |
+| **Clos des Perrières 클로 데 페리에르** | 모노폴 — Albert Grivault 알베르 그리보 |
 
-**핵심 생산자**: **Coche-Dury** · **Comtes Lafon** · **Roulot** · Arnaud Ente · Pierre Morey · Pierre-Yves Colin-Morey · Michelot · Bouchard Père
+**핵심 생산자**: **Coche-Dury 코슈 뒤리** · **Comtes Lafon 콩트 라퐁** · **Roulot 룰로** · Arnaud Ente 아르노 앙트 · Pierre Morey 피에르 모레 · Pierre-Yves Colin-Morey 피에르이브 콜랭 모레 · Michelot 미슐로 · Bouchard Père 부샤르 페르
 
-> 인접한 **Blagny**는 언덕 위 마을로 레드만 자기 이름으로, 화이트는 Meursault 또는 Puligny로 판매된다.
+> 인접한 **Blagny 블라니**는 언덕 위 마을로 레드만 자기 이름으로, 화이트는 Meursault 뫼르소 또는 Puligny 퓔리니로 판매된다.
 
 ## 8. 퓔리니몽라셰 Puligny-Montrachet — 그랑크뤼 4개
 
@@ -129,23 +129,23 @@
 
 | 밭 | 면적 | 주요 생산자 |
 |---|---|---|
-| **Montrachet** (퓔리니 측 4.0 ha) | 8.0 ha 전체 | **DRC**, **Marquis de Laguiche**(Drouhin 양조), **Baron Thénard**(Bouchard), Comtes Lafon, Ramonet, Leflaive, Jacques Prieur |
-| **Chevalier-Montrachet** | 7.4 ha | **Domaine Leflaive**(최대), Bouchard(La Cabotte), Louis Jadot·Latour(Les Demoiselles), d'Auvenay, Niellon |
-| **Bâtard-Montrachet** (퓔리니 측 6.0 ha) | 11.9 ha 전체 | Leflaive, Ramonet, Pierre Morey, Vougeraie, Bachelet-Ramonet |
-| **Bienvenues-Bâtard-Montrachet** | 3.7 ha | **Leflaive**, Carillon, Ramonet, Paul Pernot |
+| **Montrachet 몽라셰** (퓔리니 측 4.0 ha) | 8.0 ha 전체 | **DRC**, **Marquis de Laguiche 마르키 드 라기슈**(Drouhin 드루앵 양조), **Baron Thénard 바롱 테나르**(Bouchard 부샤르), Comtes Lafon 콩트 라퐁, Ramonet 라모네, Leflaive 르플레브, Jacques Prieur 자크 프리외르 |
+| **Chevalier-Montrachet 슈발리에 몽라셰** | 7.4 ha | **Domaine Leflaive 도멘 르플레브**(최대), Bouchard 부샤르(La Cabotte 라 카보트), Louis Jadot 루이 자도·Latour(Les Demoiselles 레 드무아젤), d'Auvenay 도브네, Niellon 니용 |
+| **Bâtard-Montrachet 바타르 몽라셰** (퓔리니 측 6.0 ha) | 11.9 ha 전체 | Leflaive 르플레브, Ramonet 라모네, Pierre Morey 피에르 모레, Vougeraie 부주레, Bachelet-Ramonet 바슐레 라모네 |
+| **Bienvenues-Bâtard-Montrachet 비앵브뉘 바타르 몽라셰** | 3.7 ha | **Leflaive 르플레브**, Carillon 카리용, Ramonet 라모네, Paul Pernot 폴 페르노 |
 
 ### 프리미에 크뤼
 
 | 밭 | 비고 |
 |---|---|
-| **Le Cailleret** | 몽라셰 바로 옆, 최상급 1er |
-| **Les Pucelles** | Leflaive의 상징적 밭 |
-| **Les Combettes** | 뫼르소 경계, 풍만함 |
-| **Les Folatières** | 사면 상부, 미네랄 |
-| **Clavoillon** | 사실상 Leflaive가 대부분 소유 |
-| Champ Canet, Les Referts | |
+| **Le Cailleret 르 카유레** | 몽라셰 바로 옆, 최상급 1er |
+| **Les Pucelles 레 퓌셀** | Leflaive 르플레브의 상징적 밭 |
+| **Les Combettes 레 콩베트** | 뫼르소 경계, 풍만함 |
+| **Les Folatières 레 폴라티에르** | 사면 상부, 미네랄 |
+| **Clavoillon 클라부아용** | 사실상 Leflaive 르플레브가 대부분 소유 |
+| Champ Canet 샹 카네, Les Referts 레 르페르 | |
 
-**핵심 생산자**: **Domaine Leflaive** · Etienne Sauzet · François Carillon / Jacques Carillon · Paul Pernot · Jean-Marc Boillot · Benjamin Leroux
+**핵심 생산자**: **Domaine Leflaive 도멘 르플레브** · Etienne Sauzet 에티엔 소제 · François Carillon 프랑수아 카리용 / Jacques Carillon 자크 카리용 · Paul Pernot 폴 페르노 · Jean-Marc Boillot 장마르크 부아요 · Benjamin Leroux 뱅자맹 르루
 
 ## 9. 샤사뉴몽라셰 Chassagne-Montrachet — 그랑크뤼 3개
 
@@ -153,19 +153,19 @@
 
 | 그랑크뤼 | 비고 |
 |---|---|
-| **Montrachet** (샤사뉴 측 4.0 ha) | Ramonet, Fontaine-Gagnard, Guy Amiot |
-| **Bâtard-Montrachet** (샤사뉴 측 5.8 ha) | Ramonet, Blain-Gagnard, Niellon, Fontaine-Gagnard, Jean-Noël Gagnard |
-| **Criots-Bâtard-Montrachet** (1.6 ha) | 코트드본 최소 그랑크뤼 — Blain-Gagnard, Fontaine-Gagnard, d'Auvenay, Belland |
+| **Montrachet 몽라셰** (샤사뉴 측 4.0 ha) | Ramonet 라모네, Fontaine-Gagnard 퐁텐 가냐르, Guy Amiot 기 아미오 |
+| **Bâtard-Montrachet 바타르 몽라셰** (샤사뉴 측 5.8 ha) | Ramonet 라모네, Blain-Gagnard 블랭 가냐르, Niellon 니용, Fontaine-Gagnard 퐁텐 가냐르, Jean-Noël Gagnard 장노엘 가냐르 |
+| **Criots-Bâtard-Montrachet 크리오 바타르 몽라셰** (1.6 ha) | 코트드본 최소 그랑크뤼 — Blain-Gagnard 블랭 가냐르, Fontaine-Gagnard 퐁텐 가냐르, d'Auvenay 도브네, Belland 블랑 |
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **Les Ruchottes** | 최상급 화이트 — Ramonet |
-| **Les Caillerets** | |
-| **Blanchot Dessus / La Romanée** | 몽라셰 인접 |
-| **Morgeot / Abbaye de Morgeot** | 가장 넓음, 레드도 우수 |
-| Les Vergers, Les Chaumées, Clos St-Jean(레드) | |
+| **Les Ruchottes 레 뤼쇼트** | 최상급 화이트 — Ramonet 라모네 |
+| **Les Caillerets 레 카유레** | |
+| **Blanchot Dessus 블랑쇼 드쉬 / La Romanée 라 로마네** | 몽라셰 인접 |
+| **Morgeot 모르조 / Abbaye de Morgeot 아베 드 모르조** | 가장 넓음, 레드도 우수 |
+| Les Vergers 레 베르제, Les Chaumées 레 쇼메, Clos St-Jean 클로 생장(레드) | |
 
-**핵심 생산자**: **Ramonet** · Michel Niellon · Blain-Gagnard · Fontaine-Gagnard · Jean-Noël Gagnard · **Pierre-Yves Colin-Morey** · Bruno Colin
+**핵심 생산자**: **Ramonet 라모네** · Michel Niellon 미셸 니용 · Blain-Gagnard 블랭 가냐르 · Fontaine-Gagnard 퐁텐 가냐르 · Jean-Noël Gagnard 장노엘 가냐르 · **Pierre-Yves Colin-Morey 피에르이브 콜랭 모레** · Bruno Colin 브뤼노 콜랭
 
 ## 10. 생토뱅 St-Aubin
 
@@ -173,18 +173,18 @@
 
 | 프리미에 크뤼 | 비고 |
 |---|---|
-| **En Remilly** | 슈발리에몽라셰 바로 위쪽 사면 |
-| **Les Murgers des Dents de Chien** | 최상급, 이름은 "개 이빨 돌담" |
-| La Chatenière, Le Charmois, Sur Gamay | |
+| **En Remilly 앙 르미이** | 슈발리에몽라셰 바로 위쪽 사면 |
+| **Les Murgers des Dents de Chien 레 뮈르제 데 당 드 시앵** | 최상급, 이름은 "개 이빨 돌담" |
+| La Chatenière 라 샤트니에르, Le Charmois 르 샤르무아, Sur Gamay 쉬르 가메 | |
 
-**핵심 생산자**: **Hubert Lamy** · Pierre-Yves Colin-Morey · Marc Colin · Larue
+**핵심 생산자**: **Hubert Lamy 위베르 라미** · Pierre-Yves Colin-Morey 피에르이브 콜랭 모레 · Marc Colin 마르크 콜랭 · Larue 라뤼
 
 ## 11. 상트네 Santenay · 마랑주 Maranges
 
 | 마을 | 1er 크뤼 | 생산자 |
 |---|---|---|
-| **Santenay** | Les Gravières, Clos de Tavannes, La Comme, Beauregard | Vincent Girardin, Roger Belland, Lucien Muzard, Jessiaume |
-| **Maranges** | Clos des Loyères, Clos de la Boutière, La Fussière | Vincent Girardin, Bachelet-Monnot, Chevrot |
+| **Santenay 상트네** | Les Gravières 레 그라비에르, Clos de Tavannes 클로 드 타반, La Comme 라 콤, Beauregard 보르가르 | Vincent Girardin 뱅상 지라르댕, Roger Belland 로제 블랑, Lucien Muzard 뤼시앵 뮈자르, Jessiaume 제시옴 |
+| **Maranges 마랑주** | Clos des Loyères 클로 데 루아예르, Clos de la Boutière 클로 드 라 부티에르, La Fussière 라 퓌시에르 | Vincent Girardin 뱅상 지라르댕, Bachelet-Monnot 바슐레 모노, Chevrot 슈브로 |
 
 > 코트도르 최남단. 레드 중심이며 가격이 가장 낮은 구간.
 
@@ -192,9 +192,9 @@
 
 | AOC | 내용 |
 |---|---|
-| **Côte de Beaune-Villages** | 코트드본 마을들의 레드 블렌딩 (본·알록스·볼네 등 일부 제외) |
-| **Hautes-Côtes de Beaune** | 서쪽 고지대, 서늘하고 경쾌 |
-| **Bourgogne Côte d'Or** | 2017년 신설. 코트도르 지역 한정 광역 등급 |
+| **Côte de Beaune-Villages 코트 드 본 빌라주** | 코트드본 마을들의 레드 블렌딩 (본·알록스·볼네 등 일부 제외) |
+| **Hautes-Côtes de Beaune 오트 코트 드 본** | 서쪽 고지대, 서늘하고 경쾌 |
+| **Bourgogne Côte d'Or 부르고뉴 코트 도르** | 2017년 신설. 코트도르 지역 한정 광역 등급 |
 
 ---
 
