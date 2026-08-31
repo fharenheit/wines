@@ -83,6 +83,23 @@
 
 ---
 
+## 🇩🇪 독일 Deutschland
+
+![독일 13개 와인 산지 지도](assets/germany-overview.svg)
+
+> 산지·밭·생산자 이름은 **독일어 뒤에 한글 발음을 병기**했다 (예: `Wehlener Sonnenuhr 벨레너 조넨우어`).
+
+| # | 문서 | 내용 |
+|---|---|---|
+| 00 | **[독일 개요](germany/00-overview.md)** | **법정 등급(Prädikat) vs VDP 밭 등급** 두 체계, 당도 표기, 품종, 독일어 읽기 규칙, 밭 이름 읽는 법 |
+| 01 | **[모젤](germany/01-mosel.md)** | 청회색 편암·급경사 65도, 미텔모젤·자르·루버, 명품 밭 |
+| 02 | **[라인가우](germany/02-rheingau.md)** | 라인 강이 꺾이며 만든 남향 사면, 슈타인베르크, 슈페트레제의 발견 |
+| 03 | **[나에·라인헤센·팔츠](germany/03-nahe-rheinhessen-pfalz.md)** | 지질 다양성, **라인헤센의 반전**, 미텔하르트 |
+| 04 | **[바덴·뷔르템베르크·프랑켄](germany/04-baden-wurttemberg-franken.md)** | 부르군더 3형제, 트롤링거·렘베르거, 질바너와 복스보이텔 |
+| 05 | **[아르·미텔라인·동부](germany/05-ahr-mittelrhein-ost.md)** | 최북단 레드, 로렐라이 급경사, **북위 51° 잘레운스트루트** |
+
+---
+
 ## 📅 빈티지 차트
 
 장기 숙성 와인을 위해 **프랑스는 1945년, 이탈리아는 1955년**까지 거슬러 정리했다. 별점과 함께 **성숙 상태**(🔒 더 기다릴 것 · ▲ 지금 정점 · ◆ 정점 지남 · ▼ 최상급만 남음)를 표시한다.
@@ -94,6 +111,7 @@
 | **[이탈리아](vintages/02-italy.md)** | **1955~2025** | 바롤로·바르바레스코, 브루넬로, 키안티 클라시코, 아마로네, 에트나 |
 | **[스페인](vintages/03-spain.md)** | **1962~2025** | 리오하(**공식 등급**), 리베라 델 두에로, 프리오라트, 토로, 갈리시아 |
 | **[미국](vintages/04-usa.md)** | **1974~2025** | 나파 카베르네, 소노마, 오리건, 워싱턴 |
+| **[독일](vintages/05-germany.md)** | **1949~2025** | 리슬링(모젤·라인가우·나에·팔츠), 슈페트부르군더, 스위트 |
 
 > **주의**: 생산자 편차가 빈티지 편차보다 크다. 빈티지는 1차 필터일 뿐이며, 최근 3~4년은 예비 평가다.
 
@@ -114,11 +132,16 @@
 | [샹파뉴](assets/champagne.svg) | [에트나 콘트라다](assets/etna.svg) | | |
 | [알자스](assets/alsace.svg) | | | |
 
+| 독일 |
+|---|
+| [독일 전도](assets/germany-overview.svg) · [모젤](assets/mosel.svg) · [라인 (라인가우·라인헤센·나에·팔츠)](assets/rhein.svg) |
+
 ```bash
 python3 scripts/make_maps.py         # 프랑스 지도 재생성
 python3 scripts/make_maps_italy.py   # 이탈리아 지도 재생성
 python3 scripts/make_maps_usa.py     # 미국 지도 재생성
 python3 scripts/make_maps_spain.py   # 스페인 지도 재생성
+python3 scripts/make_maps_germany.py # 독일 지도 재생성
 ```
 
 ---
@@ -184,6 +207,6 @@ Lafite Rothschild · Latour · Mouton Rothschild (이상 포이약) · Margaux (
 - [x] 이탈리아
 - [x] 미국 (나파, 소노마, 오리건, 워싱턴)
 - [x] 스페인 (리오하, 리베라 델 두에로, 프리오라트, 헤레스, 갈리시아)
-- [ ] 독일 (모젤, 라인가우 — VDP 등급)
+- [x] 독일 (모젤, 라인가우, 팔츠, 바덴 등 13개 산지)
 - [ ] 호주 · 뉴질랜드 (바로사, 야라, 말버러, 센트럴 오타고)
 - [ ] 남미 (칠레, 아르헨티나)

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 957" width="700" height="957" role="img">
+<defs><clipPath id="frame"><rect x="0" y="52" width="700" height="905"/></clipPath></defs>
+<rect width="100%" height="100%" fill="#faf7f2"/>
+<text x="18.0" y="26" font-size="17" font-weight="700" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">라인 — 라인가우 · 라인헤센 · 나에 · 팔츠</text>
+<text x="18.0" y="44" font-size="12" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">라인 강이 서쪽으로 꺾이는 구간(Rheingau)에서 남향 사면이 만들어진다</text>
+<g clip-path="url(#frame)">
+<path d="M 581.2 -3662.1 L 761.1 -3622.4 L 1069.4 -3606.6 L 1274.9 -3265.3 L 1686.0 -3225.6 L 1942.9 -3027.2 L 2354.0 -3106.6 L 2816.5 -3265.3 L 3227.5 -3066.9 L 3469.0 -2749.4 L 3535.8 -2392.3 L 3638.6 -1836.7 L 3690.0 -1439.9 L 3638.6 -1201.8 L 3715.7 -963.7 L 3859.6 -789.1 L 3751.7 -463.7 L 3535.8 -487.5 L 3073.4 -328.8 L 2765.1 -90.7 L 2354.0 -11.4 L 2405.4 226.7 L 2559.5 306.1 L 3022.0 1099.7 L 3227.5 1202.9 L 2816.5 1933.1 L 2713.7 2052.1 L 2405.4 2052.1 L 1994.3 2250.5 L 1737.4 2290.2 L 1506.2 2171.1 L 1326.3 2329.9 L 1069.4 2187.0 L 1018.0 2171.1 L 709.7 2091.8 L 555.5 2131.5 L 350.0 2131.5 L 93.1 2171.1 L 41.7 2147.3 L 31.4 1814.0 L 41.7 1575.9 L 350.0 1044.2 L 195.8 980.7 L -318.0 861.6 L -600.6 655.3 L -729.1 623.5 L -703.4 226.7 L -600.6 -11.4 L -780.5 -368.5 L -831.8 -606.6 L -677.7 -963.7 L -369.4 -1281.2 L -420.8 -1360.6 L -240.9 -1519.3 L -163.8 -2312.9 L -266.6 -2392.3 L 247.2 -2709.7 L 504.2 -2868.5 L 709.7 -3265.3 Z" fill="#ece5d8" stroke="#c4b8a3" stroke-width="1.4"/>
+<path d="M 41.7 2147.3 L 144.5 1734.6 L 298.6 1258.5 L 401.4 1020.4 L 452.8 623.5 L 473.3 385.5 L 386.0 226.7 L 195.8 187.0 L 93.1 107.7 L 41.7 -59.0 L -163.8 -209.8 L -292.3 -519.3 L -420.8 -884.4 L -677.7 -1241.5" fill="none" stroke="#9dc0da" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M -215.2 504.5 L -86.8 401.3 L 67.4 345.8 L 180.4 266.4" fill="none" stroke="#9dc0da" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1891.5 147.4 L 1583.2 187.0 L 1239.0 393.4 L 1018.0 385.5 L 812.5 345.8 L 606.9 226.7 L 386.0 226.7" fill="none" stroke="#9dc0da" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M 211.3 226.7 L 272.9 226.7 L 324.3 226.7 L 375.7 218.8" fill="none" stroke="#b08a2e" stroke-width="13.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.34"/>
+<path d="M 298.6 425.1 L 375.7 345.8 L 427.1 306.1" fill="none" stroke="#5b7f4f" stroke-width="12.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+<path d="M 298.6 861.6 L 324.3 742.6 L 350.0 623.5" fill="none" stroke="#8c2f39" stroke-width="12.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.26"/>
+<circle cx="206.1" cy="242.6" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="196.1" y="244.6" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Rüdesheim 뤼데스하임</text>
+<text x="196.1" y="244.6" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Rüdesheim 뤼데스하임</text>
+<circle cx="237.0" cy="230.7" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="227.0" y="222.7" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Johannisberg 요하니스베르크</text>
+<text x="227.0" y="222.7" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Johannisberg 요하니스베르크</text>
+<circle cx="252.4" cy="226.7" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="262.4" y="214.7" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Winkel 빙켈</text>
+<text x="262.4" y="214.7" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Winkel 빙켈</text>
+<circle cx="272.9" cy="222.8" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="282.9" y="220.8" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Oestrich 외스트리히</text>
+<text x="282.9" y="220.8" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Oestrich 외스트리히</text>
+<circle cx="293.5" cy="220.4" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="303.5" y="230.4" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Hattenheim 하텐하임</text>
+<text x="303.5" y="230.4" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Hattenheim 하텐하임</text>
+<circle cx="314.0" cy="218.8" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="324.0" y="240.8" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Erbach 에르바흐</text>
+<text x="324.0" y="240.8" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Erbach 에르바흐</text>
+<circle cx="350.0" cy="210.9" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="360.0" y="196.9" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Kiedrich 키드리히</text>
+<text x="360.0" y="196.9" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Kiedrich 키드리히</text>
+<circle cx="375.7" cy="202.9" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="385.7" y="200.9" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Rauenthal 라우엔탈</text>
+<text x="385.7" y="200.9" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Rauenthal 라우엔탈</text>
+<circle cx="401.4" cy="218.8" r="4.2" fill="#b08a2e" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="411.4" y="228.8" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Hochheim 호흐하임</text>
+<text x="411.4" y="228.8" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Hochheim 호흐하임</text>
+<circle cx="432.2" cy="329.9" r="4.2" fill="#5b7f4f" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="442.2" y="331.9" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Nierstein 니어슈타인</text>
+<text x="442.2" y="331.9" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Nierstein 니어슈타인</text>
+<circle cx="421.9" cy="361.6" r="4.2" fill="#5b7f4f" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="431.9" y="373.6" font-size="10.8" text-anchor="start" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Oppenheim 오펜하임</text>
+<text x="431.9" y="373.6" font-size="10.8" text-anchor="start" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Oppenheim 오펜하임</text>
+<circle cx="298.6" cy="464.8" r="4.2" fill="#5b7f4f" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="288.6" y="466.8" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Westhofen 베스트호펜</text>
+<text x="288.6" y="466.8" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Westhofen 베스트호펜</text>
+<circle cx="52.0" cy="349.7" r="4.2" fill="#4f6d7a" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="42.0" y="351.7" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Schlossböckelheim 슐로스뵈켈하임</text>
+<text x="42.0" y="351.7" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Schlossböckelheim 슐로스뵈켈하임</text>
+<circle cx="180.4" cy="266.4" r="4.2" fill="#4f6d7a" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="170.4" y="262.4" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Bingen 빙겐</text>
+<text x="170.4" y="262.4" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Bingen 빙겐</text>
+<circle cx="334.6" cy="647.4" r="4.2" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="324.6" y="649.4" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Kallstadt 칼슈타트</text>
+<text x="324.6" y="649.4" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Kallstadt 칼슈타트</text>
+<circle cx="329.4" cy="687.0" r="4.2" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="319.4" y="699.0" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Forst 포르스트</text>
+<text x="319.4" y="699.0" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Forst 포르스트</text>
+<circle cx="324.3" cy="710.8" r="4.2" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="314.3" y="732.8" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Deidesheim 다이데스하임</text>
+<text x="314.3" y="732.8" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Deidesheim 다이데스하임</text>
+<circle cx="314.0" cy="758.5" r="4.2" fill="#8c2f39" stroke="#faf7f2" stroke-width="1.5"/>
+<text x="304.0" y="790.5" font-size="10.8" text-anchor="end" font-weight="600" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Ruppertsberg 루페르츠베르크</text>
+<text x="304.0" y="790.5" font-size="10.8" text-anchor="end" font-weight="600" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Ruppertsberg 루페르츠베르크</text>
+<rect x="383.0" y="223.7" width="6" height="6" fill="#6b6157"/>
+<text x="396.0" y="242.7" font-size="11" text-anchor="start" font-weight="400" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Mainz</text>
+<text x="396.0" y="242.7" font-size="11" text-anchor="start" font-weight="400" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Mainz</text>
+<rect x="449.8" y="1009.4" width="6" height="6" fill="#6b6157"/>
+<text x="452.8" y="1026.4" font-size="11" text-anchor="middle" font-weight="400" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Karlsruhe</text>
+<text x="452.8" y="1026.4" font-size="11" text-anchor="middle" font-weight="400" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Karlsruhe</text>
+<rect x="470.3" y="628.5" width="6" height="6" fill="#6b6157"/>
+<text x="483.3" y="635.0" font-size="11" text-anchor="start" font-weight="400" fill="none" stroke="#faf7f2" stroke-width="3.4" stroke-linejoin="round" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Speyer</text>
+<text x="483.3" y="635.0" font-size="11" text-anchor="start" font-weight="400" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">Speyer</text>
+<rect x="16.0" y="847.0" width="290.0" height="104.0" fill="#ffffff" fill-opacity="0.92" stroke="#c4b8a3" stroke-width="1" rx="4"/>
+<text x="26.0" y="865.0" font-size="11.5" text-anchor="start" font-weight="700" fill="#6b6157" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">네 산지</text>
+<circle cx="32.0" cy="879.0" r="4.5" fill="#b08a2e"/>
+<text x="43.0" y="883.0" font-size="11.5" text-anchor="start" font-weight="400" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">라인가우 Rheingau — 남향 사면</text>
+<circle cx="32.0" cy="897.0" r="4.5" fill="#5b7f4f"/>
+<text x="43.0" y="901.0" font-size="11.5" text-anchor="start" font-weight="400" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">라인헤센 Rheinhessen — 최대 면적</text>
+<circle cx="32.0" cy="915.0" r="4.5" fill="#4f6d7a"/>
+<text x="43.0" y="919.0" font-size="11.5" text-anchor="start" font-weight="400" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">나에 Nahe — 지질 다양</text>
+<circle cx="32.0" cy="933.0" r="4.5" fill="#8c2f39"/>
+<text x="43.0" y="937.0" font-size="11.5" text-anchor="start" font-weight="400" fill="#2f2a24" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">팔츠 Pfalz — 온난, 미텔하르트</text>
+</svg>
