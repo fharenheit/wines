@@ -182,7 +182,7 @@
 
 | 지역 | 내용 |
 |---|---|
-| **País Vasco 바스크** | **Txakoli 차콜리** 3개 DO — [갈리시아 문서](04-galicia.md#5-차콜리-txakoli--바스크의-대서양-화이트)에서 다룬다 |
+| **País Vasco 바스크** | **Txakoli 차콜리** 3개 DO — [갈리시아 문서](04-galicia.md#6-차콜리-txakoli--바스크의-대서양-화이트)에서 다룬다 |
 | **Cantabria · Asturias** | **Costa de Cantabria 코스타 데 칸타브리아** · **Cangas 캉가스**(아스투리아스, Albarín Blanco 알바린 블랑코·Verdejo Negro 베르데호 네그로 등 희귀 토착 품종) VT |
 | **Castilla y León 북부** | [카스티야 문서](02-castilla-leon.md) 참조 |
 
