@@ -185,7 +185,7 @@
 |---|---|
 | **생산량** | **연 200~2,500 케이스** (보르도 1등급은 1만 5천~2만) |
 | **판매 경로** | **메일링 리스트 직판.** 소매점에는 거의 나오지 않는다 |
-| **가격** | 출고가 40~140만 원. **재판매 시장에서 2~5배** |
+| **가격** | **출고가 $300~1,000+.** 재판매 시장에서 다시 **2~5배** |
 | **평점** | 파커 100점 또는 그에 준하는 점수를 반복해서 받는다 |
 | **스타일** | 대체로 **완숙·고추출·새 오크 100%**. 최근 세대는 이 공식에서 벗어나는 중 |
 
@@ -280,22 +280,22 @@
 
 ### 5-7. 구할 수 있는 최고급 — 컬트 바로 아래
 
-> 컬트는 대개 살 수 없다. **실제로 사서 마실 수 있는 나파의 정점**은 이쪽이다.
+> 컬트는 대개 살 수 없다. **실제로 사서 마실 수 있는 나파의 정점**은 이쪽이다. 가격은 **미국 소매 기준 USD**다 → [가격 표기에 대하여](../basics/05-buying.md#가격-표기에-대하여)
 
 | 생산자 | 대표 와인 | 대략 |
 |---|---|---|
-| **Shafer 셰이퍼** | **Hillside Select**(Stags Leap District) | 40~60만 |
-| **Dominus Estate 도미누스** | Dominus · Napanook | 30~50만 / 12~18만 |
-| **Ridge Vineyards** | **Monte Bello** | 25~40만 |
-| **Opus One 오퍼스 원** | Opus One · Overture | 35~50만 |
-| **Dunn Vineyards 던** | Howell Mountain Cabernet | **산악 카베르네의 기준.** 20~30만 |
-| **Diamond Creek** | Volcanic Hill · Red Rock Terrace · Gravelly Meadow | 25~40만 |
-| **Joseph Phelps** | Insignia | 25~40만 |
-| **Chappellet 샤펠레** | Pritchard Hill Cabernet | 25~35만 |
-| **Caymus 케이머스** | Special Selection | 25~35만 |
-| **Beaulieu Vineyard** | Georges de Latour Private Reserve | 15~25만 |
-| **Spottswoode 스팟츠우드** | Estate Cabernet | 25~35만 |
-| **Corison 코리슨** | Kronos Vineyard · Napa Cabernet | **12~25만.** 알코올이 낮고 오래 간다 |
+| **Shafer 셰이퍼** | **Hillside Select**(Stags Leap District) | $300~450 |
+| **Dominus Estate 도미누스** | Dominus · Napanook | $250~400 / $60~90 |
+| **Ridge Vineyards** | **Monte Bello** | $200~300 |
+| **Opus One 오퍼스 원** | Opus One · Overture | $300~450 |
+| **Dunn Vineyards 던** | Howell Mountain Cabernet | **산악 카베르네의 기준.** $100~170 |
+| **Diamond Creek** | Volcanic Hill · Red Rock Terrace · Gravelly Meadow | $200~300 |
+| **Joseph Phelps** | Insignia | $200~280 |
+| **Chappellet 샤펠레** | Pritchard Hill Cabernet | $150~250 |
+| **Caymus 케이머스** | Special Selection | $150~200 |
+| **Beaulieu Vineyard** | Georges de Latour Private Reserve | $130~180 |
+| **Spottswoode 스팟츠우드** | Estate Cabernet | $200~250 |
+| **Corison 코리슨** | Kronos Vineyard · Napa Cabernet | **$95~180.** 알코올이 낮고 오래 간다 |
 
 ### 5-8. 균형파 · 전통파
 
